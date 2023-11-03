@@ -50,9 +50,6 @@ jobs:
       name: github-pages
       url: '${{ steps.deployment.outputs.page_url }}'
 
-    env:
-      BASE_PATH: '/business-strategy'
-
     steps:
       - name: Deploy
         id: deployment
