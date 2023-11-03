@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { base } from '$app/paths';
-	
+
 	interface Breadcrumb {
 		label: string;
 		href: string;
@@ -9,6 +9,8 @@
 	export let path: string;
 	export let navPages: NavPage[];
 	let breadcrumbs: Breadcrumb[] = [];
+
+	// foo
 
 	$: {
 		// Remove zero-length tokens.
