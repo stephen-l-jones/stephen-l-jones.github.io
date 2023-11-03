@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import Card from './Card.svelte';
 
 	export let navPage: NavPage;
@@ -10,7 +11,11 @@
 </script>
 
 <Card {href} target="_self" {borderColor}>
-	<img class="page-card-image" src="/img/{navPage.iref}" alt="card" />
+	<img
+		class="page-card-image"
+		src={(navPage.iref.match('^(http|data)') !== null ? '' : base + '/img/') + navPage.iref}
+		alt="card"
+	/>
 	<div class="page-card-content">
 		<p class="page-type">{pageType.toLocaleUpperCase()}</p>
 		<p class="page-title">{navPage.title}</p>

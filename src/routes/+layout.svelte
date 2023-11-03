@@ -3,6 +3,7 @@
 	import '../app.css';
 	import Breadcrumbs from '../lib/components/Breadcrumbs.svelte';
 	import { page } from '$app/stores';
+	import { base } from '$app/paths';
 
 	export let data: LayoutData;
 
@@ -11,25 +12,25 @@
 
 <div class="container">
 	<nav>
-		<p class="nav"><a href="/">Home</a></p>
-		<p class="nav"><a href="/cases">Cases</a></p>
+		<p class="nav"><a href="{base}/">Home</a></p>
+		<p class="nav"><a href="{base}/cases">Cases</a></p>
 		<ul>
 			{#each navPages.filter((navPage) => navPage.folder === 'cases') as navPage}
 				<li class="nav">
-					<span class="nav"><a href="/cases/{navPage.slug}">{navPage.name}</a></span>
+					<span class="nav"><a href="{base}/cases/{navPage.slug}">{navPage.name}</a></span>
 				</li>
 			{/each}
 		</ul>
-		<p class="nav"><a href="/articles">Articles</a></p>
+		<p class="nav"><a href="{base}/articles">Articles</a></p>
 		<ul>
 			{#each navPages.filter((navPage) => navPage.folder === 'articles') as navPage}
 				<li class="nav">
-					<span class="nav"><a href="/articles/{navPage.slug}">{navPage.name}</a></span>
+					<span class="nav"><a href="{base}/articles/{navPage.slug}">{navPage.name}</a></span>
 				</li>
 			{/each}
 		</ul>
 		{#each navPages.filter((navPage) => navPage.folder === '') as navPage}
-			<p class="nav"><a href="/{navPage.slug}">{navPage.name}</a></p>
+			<p class="nav"><a href="{base}/{navPage.slug}">{navPage.name}</a></p>
 		{/each}
 	</nav>
 	<main>

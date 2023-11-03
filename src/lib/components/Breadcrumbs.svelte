@@ -40,22 +40,19 @@
 </script>
 
 <div class="breadcrumbs">
-	<span class="house"><a href="/">⌂</a></span>
+	<span><a href="{base}/">◯</a></span>
 	{#each breadcrumbs as breadcrumb, i}
 		&gt;
 		{#if i == breadcrumbs.length - 1}
 			{breadcrumb.label}
 		{:else}
-			<a href={breadcrumb.href}>{breadcrumb.label}</a>&nbsp;
+			<a href={base + breadcrumb.href}>{breadcrumb.label}</a>&nbsp;
 		{/if}
 	{/each}
 </div>
 
 <style>
-	.breadcrumbs {
+	:global(.breadcrumbs) {
 		font-size: 1.1rem;
-	}
-	.house {
-		font-size: 1.4rem;
 	}
 </style>

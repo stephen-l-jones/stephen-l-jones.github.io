@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { base } from '$app/paths';
 	import Card from './Card.svelte';
 	export let source: Source;
 	export let borderColor = '#d5d7db';
@@ -13,7 +14,11 @@
 </script>
 
 <Card href={source.href} target="_blank" {borderColor}>
-	<img class="source-card-image" src={source.iref} alt="card" />
+	<img
+		class="source-card-image"
+		src={(source.iref.match('^(http|data)') !== null ? '' : base + '/img/') + source.iref}
+		alt="card"
+	/>
 	<div class="source-card-content">
 		<p class="source-media">{source.media.toLocaleUpperCase()}</p>
 		<p class="source-headline">
