@@ -10,14 +10,12 @@
 	export let navPages: NavPage[];
 	let breadcrumbs: Breadcrumb[] = [];
 
-	// foo
-
 	$: {
 		// Remove zero-length tokens.
 		const tokens = path.split('/').filter((token) => token !== '') || [];
 
 		// Create { label, href } pairs for each token.
-		let tokenPath: string = '';
+		let tokenPath: string = base;
 		breadcrumbs = tokens.map((token) => {
 			let label: string = '';
 
@@ -46,7 +44,7 @@
 		{#if i == breadcrumbs.length - 1}
 			{breadcrumb.label}
 		{:else}
-			<a href={base + breadcrumb.href}>{breadcrumb.label}</a>&nbsp;
+			<a href={breadcrumb.href}>{breadcrumb.label}</a>&nbsp;
 		{/if}
 	{/each}
 </div>
