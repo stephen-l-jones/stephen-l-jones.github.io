@@ -12,7 +12,7 @@
 
 	$: {
 		// Remove zero-length tokens.
-		let tokens = path.split('/');
+		let tokens = path.split('/').filter((x) => !!x);
 		if (base !== '' || path === '/') tokens.shift();
 
 		// Create { label, href } pairs for each token.
@@ -27,8 +27,6 @@
 				label = 'Articles';
 			} else if (token === 'scenario') {
 				label = 'Scenario';
-			} else if ('/' + token === (base || '/')) {
-				label = '◯';
 			} else {
 				label = navPages.find((navPage) => navPage.slug === token)?.name || 'X';
 			}
@@ -41,11 +39,13 @@
 </script>
 
 <div class="breadcrumbs">
+	<a href="/">◯</a>
 	{#each breadcrumbs as breadcrumb, i}
+		&nbsp;&gt;&nbsp;
 		{#if i == breadcrumbs.length - 1}
 			{breadcrumb.label}
 		{:else}
-			<a href={breadcrumb.href}>{breadcrumb.label}</a>&nbsp;&gt;&nbsp;
+			<a href={breadcrumb.href}>{breadcrumb.label}</a>
 		{/if}
 	{/each}
 </div>
