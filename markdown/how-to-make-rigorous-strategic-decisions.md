@@ -3,7 +3,7 @@
 #### Because of ambiguity, strategists need to use a rigorous process to make good decisions.
 
 <figure style="text-align: center; margin: 1rem 0;">
-    <img src="../img/decision-making.png" alt="Fog of ambiguity" style="max-width:650px"/>
+    <img src="../img/decision-making.png" alt="Fog of ambiguity" style="max-width:100%"/>
 </figure>
 
 ##### By Stephen Jones, Ph.D.
@@ -35,8 +35,8 @@ This reality dictates that there are no “correct” or “right” answers to 
 Because of ambiguity, strategists need to see the effect of their decisions before they truly know if their decisions were good. This leads to the three-stage strategy-making process shown in Figure 1. Strategists may engage in all three stages at the same time, but they generally iterate through them in order: First, they analyze a business opportunity or threat and choose a course of action. Second, they implement the decision and execute it over time. Third, they observe the performance effects of the decision, which may lead to further analysis and decision-making.
 
 <figure style="text-align: center; margin: 1rem 0;">
-    <figcaption><strong>Figure 1. Strategic management stages.</strong></figcaption>
-    <img src="../img/strategic-management-stages.png" alt="Strategic management stages" >
+    <figcaption><strong>Figure 1. Strategic management stages</strong></figcaption>
+    <img src="../img/strategic-management-stages.png" alt="Strategic management stages" style="max-width:100%">
 </figure>
 
 ### Analyze and make decisions
@@ -57,9 +57,9 @@ For instance, Boeing has long held a strategic focus on safety, but after two fa
 For Alaska Airlines, closing the Virgin America deal in December 2016 started the long process of implementing its acquisition strategy. Over the [next two years](https://skift.com/2019/01/24/alaska-airlines-works-fast-to-erase-memories-of-virgin-america/), Alaska merged its crews and planes and transitioned all operations to Alaska’s reservation system. Alaska experienced turbulence along the way, requiring it to deal with [employee discontent and increasing operational costs](https://www.seattletimes.com/business/boeing-aerospace/as-alaska-air-cuts-costs-employee-discontent-grows-and-passenger-loyalty-is-at-risk/). Over the course of the integration, Alaska incurred $320 million in special costs and its profitability dropped, as shown in Figure 2. Overall the integration was relatively smooth, but it illustrates the challenge of enacting strategic decisions. 
 
 <figure style="text-align: center; margin: 1rem 0;">
-    <figcaption><strong>Figure 2. Carrier profitability.</strong></figcaption>
+    <figcaption><strong>Figure 2. Carrier profitability</strong></figcaption>
     <img src="../img/carrier-profitability.png"
-         alt="Carrier profitability" style="max-width:550px;">
+         alt="Carrier profitability" style="width:550px; max-width:100%;">
 </figure>
 
 ### Observe firm performance
@@ -109,7 +109,5 @@ Successful champions [employ rhetoric](https://blog.ed.ted.com/2017/01/17/rhetor
 ## Now try it
 
 It’s useful to understand the steps to craft good strategy, but the steps will not become truly meaningful until you apply them. Learning to craft good strategy takes practice with real-world strategic questions. A question does not need to be large or complex for the steps to be useful; you can apply the steps to small questions to discover their value. For example, “Which career path should I take?” (this may not seem like a small question to you). So go try it out, and keep these steps handy for your next strategic decision.
-
 ---
-
 <p id="endnote-1" style="font-size: 1.0rem;">1. Net operating profit after tax (NOPAT) captures a firm’s operating profits after factoring in taxes and factoring out profits related to financing decisions. NOPAT growth is measured as a percentage change from one year to the next or over a longer period of time.</p>
