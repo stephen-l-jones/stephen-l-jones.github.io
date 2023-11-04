@@ -12,29 +12,13 @@
 
 <div class="container">
 	<nav>
-		<p class="nav"><a href="{base}/">Home</a></p>
-		<p class="nav"><a href="{base}/cases">Cases</a></p>
 		<ul>
-			{#each navPages.filter((navPage) => navPage.folder === 'cases') as navPage}
-				<li class="nav">
-					<span class="nav"><a href="{base}/cases/{navPage.slug}">{navPage.name}</a></span>
-				</li>
-			{/each}
+			<li><a href="{base}/">Home</a></li>
+			<li><a href="{base}/cases">Cases</a></li>
+			<li><a href="{base}/articles">Articles</a></li>
 		</ul>
-		<p class="nav"><a href="{base}/articles">Articles</a></p>
-		<ul>
-			{#each navPages.filter((navPage) => navPage.folder === 'articles') as navPage}
-				<li class="nav">
-					<span class="nav"><a href="{base}/articles/{navPage.slug}">{navPage.name}</a></span>
-				</li>
-			{/each}
-		</ul>
-		{#each navPages.filter((navPage) => navPage.folder === '') as navPage}
-			<p class="nav"><a href="{base}/{navPage.slug}">{navPage.name}</a></p>
-		{/each}
 	</nav>
 	<main>
-		<Breadcrumbs path={$page.url.pathname} {navPages} />
 		<slot />
 	</main>
 </div>
@@ -44,46 +28,41 @@
 		font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica Neue,
 			Arial, Noto Sans, sans-serif;
 		line-height: 1.5;
-		font-weight: 400;
-		color: #4b5563;
+		color: #222222;
 	}
-	@media (max-width: 700px) {
-		nav {
-			display: none;
-		}
-	}
-
 	.container {
 		display: flex;
-		flex-direction: row;
+		flex-direction: column;
 	}
 	nav {
 		padding: 12px;
-		border-right: 1px solid #d5d7db;
 	}
 	main {
 		flex-grow: 1;
 		padding: 6px 12px;
 	}
 
-	.nav {
-		margin: 0.3rem;
-		font-size: 1.1rem;
-	}
-	.nav a:hover {
-		color: black;
-	}
 	ul {
-		padding: 0 0 0 1ch;
+		list-style-type: none;
 		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		font-weight: 600;
+	}
+	ul a:visited {
+		color: #222222;
+		font-weight: 600;
 	}
 	li {
-		list-style-type: '\00BB';
-		list-style-position: outside;
+		float: left;
 	}
-	li .nav {
-		position: relative;
-		left: 0.5ch;
+	li a {
+		text-align: center;
+		display: block;
+		padding: 12px;
+	}
+	li a:hover {
+		background-color: #eeeeee;
 	}
 
 	:global(p) {
@@ -94,25 +73,25 @@
 	}
 
 	:global(a):visited {
-		color: #4b5563;
+		color: #222222;
 	}
 	:global(a):link {
-		color: #4b5563;
+		color: #222222;
 	}
 
 	:global(a):hover {
-		color: black;
+		color: #222222;
 	}
 	:global(button) {
 		background-color: white;
 		border-radius: 18px;
-		border: 1px solid #f8882d;
+		border: 1px solid #666666;
 		padding: 3px 15px;
 		font-size: 1rem;
 		cursor: pointer;
 		margin: 2px 0;
 	}
 	:global(button):hover {
-		background-color: #fdefe4;
+		background-color: #eeeeee;
 	}
 </style>

@@ -24,6 +24,6 @@
 		flex-direction: column;
 	}
 	a:hover {
-		background-color: #eeeff1;
+		background-color: #eeeeee;
 	}
 </style>

@@ -66,6 +66,6 @@
 		display: flex;
 		flex-direction: row;
 		flex-wrap: wrap;
-		margin: 12px 0;
+		margin: 0 0 12px 0;
 	}
 </style>

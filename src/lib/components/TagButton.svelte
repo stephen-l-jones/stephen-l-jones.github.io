@@ -20,9 +20,9 @@
 
 <style>
 	.active {
-		background-color: #ffc89c;
+		background-color: #dddddd;
 	}
 	.active:hover {
-		background-color: #ffbd87;
+		background-color: #cccccc;
 	}
 </style>
