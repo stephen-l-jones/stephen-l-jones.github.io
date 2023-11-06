@@ -19,3 +19,8 @@ interface Source {
     tags: string[];
 }
 
+interface ImgSource {
+    media: string;
+    srcset: string;
+}
+

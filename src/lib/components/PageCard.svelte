@@ -50,6 +50,6 @@
 		font-size: 1rem;
 		font-weight: 400;
 		line-height: 1.25;
-		margin: 0;
+		margin: 6px 0 0 0;
 	}
 </style>

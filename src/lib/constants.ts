@@ -8,4 +8,6 @@ const tagNames = [
     'Environment'
 ];
 
-export { tagNames };
+const markdownWidth: string = "640px";
+
+export { tagNames, markdownWidth };

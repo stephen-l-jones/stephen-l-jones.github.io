@@ -1,13 +1,7 @@
 <script lang="ts">
 	import type { LayoutData } from './$types';
 	import '../app.css';
-	import Breadcrumbs from '../lib/components/Breadcrumbs.svelte';
-	import { page } from '$app/stores';
 	import { base } from '$app/paths';
-
-	export let data: LayoutData;
-
-	$: ({ navPages } = data);
 </script>
 
 <div class="container">
@@ -24,11 +18,18 @@
 </div>
 
 <style>
+	:root {
+		--font-family-san-serif: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto,
+			Helvetica Neue, Arial, Noto Sans, sans-serif;
+		--font-family-serif: 'PT Serif', Georgia, Times, serif;
+		--font-color: #222222;
+		--hover-color: #eeeeee;
+		--border-color: #dddddd;
+	}
 	* {
-		font-family: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica Neue,
-			Arial, Noto Sans, sans-serif;
+		font-family: var(--font-family-san-serif);
 		line-height: 1.5;
-		color: #222222;
+		color: var(--font-color);
 	}
 	.container {
 		display: flex;
@@ -50,7 +51,7 @@
 		font-weight: 600;
 	}
 	ul a:visited {
-		color: #222222;
+		color: var(--font-color);
 		font-weight: 600;
 	}
 	li {
@@ -62,7 +63,7 @@
 		padding: 12px;
 	}
 	li a:hover {
-		background-color: #eeeeee;
+		background-color: var(--hover-color);
 	}
 
 	:global(p) {
@@ -73,14 +74,14 @@
 	}
 
 	:global(a):visited {
-		color: #222222;
+		color: var(--font-color);
 	}
 	:global(a):link {
-		color: #222222;
+		color: var(--font-color);
 	}
 
 	:global(a):hover {
-		color: #222222;
+		color: var(--font-color);
 	}
 	:global(button) {
 		background-color: white;
@@ -92,6 +93,6 @@
 		margin: 2px 0;
 	}
 	:global(button):hover {
-		background-color: #eeeeee;
+		background-color: var(--hover-color);
 	}
 </style>

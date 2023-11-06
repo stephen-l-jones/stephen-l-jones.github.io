@@ -1,7 +1,7 @@
 <script lang="ts">
 	export let href: string;
 	export let target: string;
-	export let borderColor: string = '#d5d7db';
+	export let borderColor: string = 'var(--border-color)';
 </script>
 
 <div class="card" style="border: 1px solid {borderColor};">
@@ -24,6 +24,6 @@
 		flex-direction: column;
 	}
 	a:hover {
-		background-color: #eeeeee;
+		background-color: var(--hover-color);
 	}
 </style>

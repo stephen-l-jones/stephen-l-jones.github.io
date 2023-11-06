@@ -1,3 +1,5 @@
+![Some alt text.](../img/industry-roic-960w.png "Figure 1. Industry return on invested capital")
+
 # A survey of strategy theory
 
 #### All business leaders ask “how do I achieve superior performance?” The answers are built on strategic management theories that have been refined for decades. 
