@@ -1,12 +1,8 @@
-![Some alt text.](../img/industry-roic-960w.png "Figure 1. Industry return on invested capital")
-
 # A survey of strategy theory
 
 #### All business leaders ask “how do I achieve superior performance?” The answers are built on strategic management theories that have been refined for decades. 
 
-<figure style="text-align: center; margin: 1rem 0;">
-    <img src="../img/strategy-theory.png" alt="Strategy theory" style="max-width: 100%"/>
-</figure>
+![](../img/strategy-theory.png)
 
 ##### By Stephen Jones, Ph.D.
 ###### Updated March 2020
@@ -39,15 +35,7 @@ In the 1980s, Michael Porter, a Harvard economist famous for his Five Forces ind
 
 <p>Evidence does suggest that industries affect firm performance. Figure 1 shows the global profitability of 85 non-financial industries. Profitability is measured as return on invested capital (ROIC)<a href="#endnote-1"><sup>1</sup></a> after subtracting the cost of capital.<a href="#endnote-2"><sup>2</sup></a> It is based on 2018 data for public companies around the world. Figure 1 illustrates big differences between industries. For example, the tobacco industry had an ROIC of 34% above its cost of capital, the highest out of all industries. The healthcare services industry had an ROIC of 19% above its cost of capital. And the auto industry and telecom industries had an ROIC of 2% and 5% below their cost of capital, respectively.</p>
 
-<div style="margin-left:-160 width=940">
-<figure style="text-align: center; margin: 1rem 0; max-width: 100%">
-    <figcaption><strong>Figure 1. Industry return on invested capital</strong></figcaption>
-    <picture>
-    <img srcset="../img/industry-roic-850w.png 799w, ../img/industry-roic-850w.png 850w"
-         alt sizes="(max-width: 799px) 90vw, 800px">
-    </picture>
-</figure>
-</div>
+![Figure 1. Industry return on invested capital](../img/industry-roic.png)
 
 Even though evidence pointed to the importance of industry, there were limitations to focusing on industry exclusively. The industry-level theories only gave strategists tools to analyze industries and choose where to compete. The theories did not arm strategists with tools to make decisions within an industry. 
 
