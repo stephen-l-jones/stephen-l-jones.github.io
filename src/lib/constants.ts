@@ -8,6 +8,6 @@ const tagNames = [
     'Environment'
 ];
 
-const markdownWidth: number = 640;
+const markdownWidth = { min: 320, max: 640 };
 
 export { tagNames, markdownWidth };
