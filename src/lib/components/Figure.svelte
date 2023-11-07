@@ -7,26 +7,13 @@
 
 	let img: HTMLImageElement;
 	let width: number = 0;
-	let hrefSmall = imageURL(
-		href.substring(0, href.lastIndexOf('.')) + '-sm' + href.substring(href.lastIndexOf('.')),
-		href
-	);
+	let smallImgExists = href.indexOf('#small') !== -1;
+	let hrefNormal = href;
+	let hrefSmall =
+		href.substring(0, href.lastIndexOf('.')) + '-sm' + href.substring(href.lastIndexOf('.'));
 
-	function imageURL(url: string, altUrl: string) {
-		const img = new Image();
-		img.src = url;
-		if (img.complete) {
-			return url;
-		} else {
-			img.onload = () => {
-				return url;
-			};
-			img.onerror = () => {
-				return altUrl;
-			};
-		}
-		return '';
-	}
+	hrefNormal.replace('#small', '');
+	hrefSmall.replace('#small', '');
 
 	$: if (img) {
 		img.addEventListener('load', () => {
@@ -42,9 +29,12 @@
 	<figure style="margin: 1em 0;">
 		<figcaption>{text}</figcaption>
 		<picture>
-			<source media="(max-width: {markdownWidth.max - 1}px)" srcset={hrefSmall} />
-			<source media="(min-width: {markdownWidth.max}px)" srcset={href} />
-			<img alt={text} src={href} bind:this={img} />
+			<source
+				media="(max-width: {markdownWidth.max - 1}px)"
+				srcset={smallImgExists ? hrefSmall : hrefNormal}
+			/>
+			<!--<source media="(min-width: {markdownWidth.max}px)" srcset={hrefNormal} />-->
+			<img alt={text} src={hrefNormal} bind:this={img} />
 		</picture>
 	</figure>
 </div>

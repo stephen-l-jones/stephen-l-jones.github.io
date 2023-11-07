@@ -33,7 +33,7 @@ In the 1980s, Michael Porter, a Harvard economist famous for his [Five Forces in
 
 <p id="note-1">Evidence does suggest that industries affect firm performance. Figure 1 shows the global profitability of 85 non-financial industries. Profitability is measured as return on invested capital (ROIC)<a href="#end-1"><sup>1</sup></a> after subtracting the cost of capital.<a href="#end-2"><sup>2</sup></a> It is based on 2018 data for public companies around the world. Figure 1 illustrates big differences between industries. For example, the tobacco industry had an ROIC of 34% above its cost of capital, the highest out of all industries. The healthcare services industry also performed well with an ROIC of 19% above its cost of capital. But the auto industry and telecom industries had an ROIC of 2% and 5% <em>below</em> their cost of capital, respectively.</p>
 
-![Figure 1. Industry return on invested capital less cost of capital](../img/industry-roic.svg)
+![Figure 1. Industry return on invested capital less cost of capital](../img/industry-roic.svg#small)
 
 Even though evidence points to the importance of industry, there are limitations to focusing on industry exclusively. The industry-level theories only give strategists tools to analyze industries and choose where to compete. The theories do not arm strategists with tools to make decisions within an industry. 
 
@@ -47,7 +47,7 @@ But those in the industrial economics camp [pushed back on Rumelt’s findings](
 
 Figure 2 shows these differences between six industries. The dots indicate the ROIC for large U.S. firms from 2016-18. Automotive firms' ROIC varied widely while apparel firms' profitability stayed within a more-narrow band. This suggests apparel firms are constrained by their industry. But the industry effects pale in comparison to the effect of the individual firms. Note that the industry average ROICs, indicated by the dashed lines, were quite similar, ranging from 7% to 12%. But the variation within each industiry is much larger. Even in apparel, the most constrained industry, firm profitability ranged from −2% to 24%. 
 
-![Figure 2. Return on invested capital of U.S. firms in selected industries](../img/firm-roic.svg)
+![Figure 2. Return on invested capital of U.S. firms in selected industries](../img/firm-roic.svg#small)
 
  This debate about industry versus firm effects still continues to some extent, but the main takeaway is this: industries set constraints on firms’ potential profitability, but within those constraints firms can develop strategies that create competitive advantages and lead to superior performance.
 
