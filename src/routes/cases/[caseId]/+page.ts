@@ -9,7 +9,6 @@ export const load: PageLoad = async ({ params, parent }) => {
     let navPage = navPages.find(navPage => navPage.slug === params.caseId) || {
         slug: '' as string,
         folder: '' as string,
-        name: '' as string,
         title: '' as string,
         subtitle: '' as string,
         iref: '' as string

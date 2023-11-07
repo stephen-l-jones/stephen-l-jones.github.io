@@ -11,7 +11,7 @@
 				? 'article'
 				: navPage.folder === 'cases'
 				? 'case'
-				: navPage.name}
+				: ''}
 			includeSubtitle={false}
 		/>
 	{/each}

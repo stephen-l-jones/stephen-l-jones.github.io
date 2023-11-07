@@ -1,7 +1,6 @@
 interface NavPage {
     slug: string;
     folder: string;
-    name: string;
     title: string;
     subtitle: string;
     iref: string;
