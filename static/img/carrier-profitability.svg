@@ -74,7 +74,8 @@
 <text x='193.82' y='376.41' text-anchor='middle' style='font-size: 12.00px; font-family: "Roboto";' textLength='26.96px' lengthAdjust='spacingAndGlyphs'>2016</text>
 <text x='266.64' y='376.41' text-anchor='middle' style='font-size: 12.00px; font-family: "Roboto";' textLength='26.96px' lengthAdjust='spacingAndGlyphs'>2017</text>
 <text x='339.46' y='376.41' text-anchor='middle' style='font-size: 12.00px; font-family: "Roboto";' textLength='26.96px' lengthAdjust='spacingAndGlyphs'>2018</text>
-<text x='33.63' y='14.51' style='font-size: 12.00px; font-family: "Roboto";' textLength='138.15px' lengthAdjust='spacingAndGlyphs'>Return on invested capital</text>
+<text x='33.63' y='14.51' style='font-size: 12.00px; font-family: "Roboto";' textLength='209.66px' lengthAdjust='spacingAndGlyphs'>Return on invested capital (profitability)</text>
+<text x='5.05' y='15.03' style='font-size: 14.00px; font-weight: bold; font-family: "Arial";' textLength='10.11px' lengthAdjust='spacingAndGlyphs'>A</text>
 </g>
 <defs>
   <clipPath id='cpMzYwLjAwfDcyMC4wMHwwLjAwfDQwNS4wMA=='>
@@ -116,8 +117,9 @@
 <text x='515.68' y='376.41' text-anchor='middle' style='font-size: 12.00px; font-family: "Roboto";' textLength='46.74px' lengthAdjust='spacingAndGlyphs'>Allegiant</text>
 <text x='591.97' y='376.41' text-anchor='middle' style='font-size: 12.00px; font-family: "Roboto";' textLength='56.61px' lengthAdjust='spacingAndGlyphs'>Southwest</text>
 <text x='668.25' y='376.41' text-anchor='middle' style='font-size: 12.00px; font-family: "Roboto";' textLength='34.37px' lengthAdjust='spacingAndGlyphs'>United</text>
-<text x='393.63' y='14.51' style='font-size: 12.00px; font-family: "Roboto";' textLength='185.72px' lengthAdjust='spacingAndGlyphs'>Net operating profit after tax CAGR</text>
+<text x='393.63' y='14.51' style='font-size: 12.00px; font-family: "Roboto";' textLength='265.79px' lengthAdjust='spacingAndGlyphs'>Net operating profit after tax CAGR (profit growth)</text>
 <text x='714.02' y='389.75' text-anchor='end' style='font-size: 7.20px;fill: #666666; font-family: "Roboto";' textLength='154.19px' lengthAdjust='spacingAndGlyphs'>CAGR = Compound annual growth rate, 2014-18.</text>
 <text x='714.02' y='397.52' text-anchor='end' style='font-size: 7.20px;fill: #666666; font-family: "Roboto";' textLength='220.51px' lengthAdjust='spacingAndGlyphs'>Source: Aswath Damodaran, http://pages.stern.nyu.edu/~adamodar/</text>
+<text x='365.05' y='15.03' style='font-size: 14.00px; font-weight: bold; font-family: "Arial";' textLength='10.11px' lengthAdjust='spacingAndGlyphs'>B</text>
 </g>
 </svg>

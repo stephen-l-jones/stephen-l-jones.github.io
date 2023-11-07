@@ -74,7 +74,8 @@
 <text x='186.32' y='216.77' text-anchor='middle' style='font-size: 12.00px; font-family: "Roboto";' textLength='26.96px' lengthAdjust='spacingAndGlyphs'>2016</text>
 <text x='255.73' y='216.77' text-anchor='middle' style='font-size: 12.00px; font-family: "Roboto";' textLength='26.96px' lengthAdjust='spacingAndGlyphs'>2017</text>
 <text x='325.14' y='216.77' text-anchor='middle' style='font-size: 12.00px; font-family: "Roboto";' textLength='26.96px' lengthAdjust='spacingAndGlyphs'>2018</text>
-<text x='33.63' y='14.51' style='font-size: 12.00px; font-family: "Roboto";' textLength='138.15px' lengthAdjust='spacingAndGlyphs'>Return on invested capital</text>
+<text x='33.63' y='14.51' style='font-size: 12.00px; font-family: "Roboto";' textLength='209.66px' lengthAdjust='spacingAndGlyphs'>Return on invested capital (profitability)</text>
+<text x='5.05' y='15.03' style='font-size: 14.00px; font-weight: bold; font-family: "Arial";' textLength='10.11px' lengthAdjust='spacingAndGlyphs'>A</text>
 </g>
 <defs>
   <clipPath id='cpMC4wMHwzNDUuMDB8MjI1LjAwfDQ1MC4wMA=='>
@@ -92,32 +93,33 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMzMuNjN8MzM5LjAyfDI0Ny43NHw0MDcuNTA=)'>
-<polyline points='33.63,400.23 339.02,400.23 ' style='stroke-width: 0.80; stroke: #CCCCCC; stroke-linecap: butt;' />
-<polyline points='33.63,377.54 339.02,377.54 ' style='stroke-width: 0.80; stroke: #CCCCCC; stroke-linecap: butt;' />
-<polyline points='33.63,354.85 339.02,354.85 ' style='stroke-width: 0.80; stroke: #CCCCCC; stroke-linecap: butt;' />
-<polyline points='33.63,332.15 339.02,332.15 ' style='stroke-width: 0.80; stroke: #CCCCCC; stroke-linecap: butt;' />
-<polyline points='33.63,309.46 339.02,309.46 ' style='stroke-width: 0.80; stroke: #CCCCCC; stroke-linecap: butt;' />
-<polyline points='33.63,286.77 339.02,286.77 ' style='stroke-width: 0.80; stroke: #CCCCCC; stroke-linecap: butt;' />
-<polyline points='33.63,264.08 339.02,264.08 ' style='stroke-width: 0.80; stroke: #CCCCCC; stroke-linecap: butt;' />
-<rect x='117.25' y='298.69' width='65.44' height='101.54' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #1F78B4;' />
-<rect x='44.53' y='353.81' width='65.44' height='46.43' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #33A02C;' />
-<rect x='189.96' y='273.42' width='65.44' height='126.81' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #E31A1C;' />
-<rect x='262.67' y='373.46' width='65.44' height='26.77' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF7F00;' />
+<polyline points='33.63,407.50 339.02,407.50 ' style='stroke-width: 0.80; stroke: #CCCCCC; stroke-linecap: butt;' />
+<polyline points='33.63,382.53 339.02,382.53 ' style='stroke-width: 0.80; stroke: #CCCCCC; stroke-linecap: butt;' />
+<polyline points='33.63,357.57 339.02,357.57 ' style='stroke-width: 0.80; stroke: #CCCCCC; stroke-linecap: butt;' />
+<polyline points='33.63,332.61 339.02,332.61 ' style='stroke-width: 0.80; stroke: #CCCCCC; stroke-linecap: butt;' />
+<polyline points='33.63,307.65 339.02,307.65 ' style='stroke-width: 0.80; stroke: #CCCCCC; stroke-linecap: butt;' />
+<polyline points='33.63,282.68 339.02,282.68 ' style='stroke-width: 0.80; stroke: #CCCCCC; stroke-linecap: butt;' />
+<polyline points='33.63,257.72 339.02,257.72 ' style='stroke-width: 0.80; stroke: #CCCCCC; stroke-linecap: butt;' />
+<rect x='117.25' y='295.80' width='65.44' height='111.70' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #1F78B4;' />
+<rect x='44.53' y='356.42' width='65.44' height='51.07' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #33A02C;' />
+<rect x='189.96' y='268.00' width='65.44' height='139.49' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #E31A1C;' />
+<rect x='262.67' y='378.05' width='65.44' height='29.45' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #FF7F00;' />
 </g>
 <g clip-path='url(#cpMC4wMHwzNDUuMDB8MC4wMHw0NTAuMDA=)'>
-<text x='28.25' y='404.50' text-anchor='end' style='font-size: 12.00px; font-family: "Roboto";' textLength='15.53px' lengthAdjust='spacingAndGlyphs'>0%</text>
-<text x='28.25' y='381.81' text-anchor='end' style='font-size: 12.00px; font-family: "Roboto";' textLength='15.53px' lengthAdjust='spacingAndGlyphs'>5%</text>
-<text x='28.25' y='359.11' text-anchor='end' style='font-size: 12.00px; font-family: "Roboto";' textLength='22.27px' lengthAdjust='spacingAndGlyphs'>10%</text>
-<text x='28.25' y='336.42' text-anchor='end' style='font-size: 12.00px; font-family: "Roboto";' textLength='22.27px' lengthAdjust='spacingAndGlyphs'>15%</text>
-<text x='28.25' y='313.73' text-anchor='end' style='font-size: 12.00px; font-family: "Roboto";' textLength='22.27px' lengthAdjust='spacingAndGlyphs'>20%</text>
-<text x='28.25' y='291.03' text-anchor='end' style='font-size: 12.00px; font-family: "Roboto";' textLength='22.27px' lengthAdjust='spacingAndGlyphs'>25%</text>
-<text x='28.25' y='268.34' text-anchor='end' style='font-size: 12.00px; font-family: "Roboto";' textLength='22.27px' lengthAdjust='spacingAndGlyphs'>30%</text>
+<text x='28.25' y='411.76' text-anchor='end' style='font-size: 12.00px; font-family: "Roboto";' textLength='15.53px' lengthAdjust='spacingAndGlyphs'>0%</text>
+<text x='28.25' y='386.80' text-anchor='end' style='font-size: 12.00px; font-family: "Roboto";' textLength='15.53px' lengthAdjust='spacingAndGlyphs'>5%</text>
+<text x='28.25' y='361.84' text-anchor='end' style='font-size: 12.00px; font-family: "Roboto";' textLength='22.27px' lengthAdjust='spacingAndGlyphs'>10%</text>
+<text x='28.25' y='336.87' text-anchor='end' style='font-size: 12.00px; font-family: "Roboto";' textLength='22.27px' lengthAdjust='spacingAndGlyphs'>15%</text>
+<text x='28.25' y='311.91' text-anchor='end' style='font-size: 12.00px; font-family: "Roboto";' textLength='22.27px' lengthAdjust='spacingAndGlyphs'>20%</text>
+<text x='28.25' y='286.95' text-anchor='end' style='font-size: 12.00px; font-family: "Roboto";' textLength='22.27px' lengthAdjust='spacingAndGlyphs'>25%</text>
+<text x='28.25' y='261.99' text-anchor='end' style='font-size: 12.00px; font-family: "Roboto";' textLength='22.27px' lengthAdjust='spacingAndGlyphs'>30%</text>
 <text x='77.25' y='421.41' text-anchor='middle' style='font-size: 12.00px; font-family: "Roboto";' textLength='36.08px' lengthAdjust='spacingAndGlyphs'>Alaska</text>
 <text x='149.97' y='421.41' text-anchor='middle' style='font-size: 12.00px; font-family: "Roboto";' textLength='46.74px' lengthAdjust='spacingAndGlyphs'>Allegiant</text>
 <text x='222.68' y='421.41' text-anchor='middle' style='font-size: 12.00px; font-family: "Roboto";' textLength='56.61px' lengthAdjust='spacingAndGlyphs'>Southwest</text>
 <text x='295.39' y='421.41' text-anchor='middle' style='font-size: 12.00px; font-family: "Roboto";' textLength='34.37px' lengthAdjust='spacingAndGlyphs'>United</text>
-<text x='33.63' y='239.51' style='font-size: 12.00px; font-family: "Roboto";' textLength='185.72px' lengthAdjust='spacingAndGlyphs'>Net operating profit after tax CAGR</text>
+<text x='33.63' y='239.51' style='font-size: 12.00px; font-family: "Roboto";' textLength='265.79px' lengthAdjust='spacingAndGlyphs'>Net operating profit after tax CAGR (profit growth)</text>
 <text x='339.02' y='434.75' text-anchor='end' style='font-size: 7.20px;fill: #666666; font-family: "Roboto";' textLength='154.19px' lengthAdjust='spacingAndGlyphs'>CAGR = Compound annual growth rate, 2014-18.</text>
 <text x='339.02' y='442.52' text-anchor='end' style='font-size: 7.20px;fill: #666666; font-family: "Roboto";' textLength='220.51px' lengthAdjust='spacingAndGlyphs'>Source: Aswath Damodaran, http://pages.stern.nyu.edu/~adamodar/</text>
+<text x='5.05' y='240.03' style='font-size: 14.00px; font-weight: bold; font-family: "Arial";' textLength='10.11px' lengthAdjust='spacingAndGlyphs'>B</text>
 </g>
 </svg>
