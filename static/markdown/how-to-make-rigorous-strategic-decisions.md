@@ -59,7 +59,7 @@ For Alaska Airlines, closing the Virgin America deal in December 2016 started th
 ### Observe firm performance
 Firms measure their performance mostly with financial indicators, such as sales growth, free cash flow, profit growth, or profitability. But other indicators, such as employee productivity, customer satisfaction, or service quality are valuable as well. Firms also monitor indicators important to society, such as improvements in labor conditions, reduction in carbon emissions, or adoption of sustainable practices. Firms often manage competing performance priorities by using a [balanced scorecard](https://hbr.org/1992/01/the-balanced-scorecard-measures-that-drive-performance-2).
 
-<p id="note-1">Outside analysts normally evaluate performance based on profitability or profit growth. Figure 2 provides an illustration of profitability (panel A) and profit growth (panel B) for selected U.S. airlines from 2014–18. Profitability was measured each year using ROIC. Profit growth was measured as the 5-year <a href="https://www.investopedia.com/terms/c/cagr.asp">compound annual growth rate</a> (CAGR) of the net operating profit after tax (NOPAT).<a href="#end-1"><sup>1</sup></a> </p>
+Outside analysts normally evaluate performance based on profitability or profit growth. Figure 2 provides an illustration of profitability (panel A) and profit growth (panel B) for selected U.S. airlines from 2014–18. Profitability was measured each year using ROIC. Profit growth was measured as the 5-year [compound annual growth rate](https://www.investopedia.com/terms/c/cagr.asp) (CAGR) of the net operating profit after tax (NOPAT).[^1]
 
 ![Figure 2. Carrier profitability](../img/carrier-profitability.svg#small)
 
