@@ -2,10 +2,13 @@
 	import temml from 'temml';
 
 	export let text = '';
-	// text.replaceAll("'", 'xx');
-	console.log();
-	const mathML = temml.renderToString(text, { throwOnError: false });
-	// console.log(text, mathML);
+	export let raw = '';
+
+	let isCode = raw.startsWith('``');
 </script>
 
-{@html mathML}
+{#if isCode}
+	<code>{text}</code>
+{:else}
+	{@html temml.renderToString(text, { displayMode: false, throwOnError: false })}
+{/if}

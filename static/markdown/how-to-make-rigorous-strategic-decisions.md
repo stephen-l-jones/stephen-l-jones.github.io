@@ -115,4 +115,4 @@ It’s useful to understand the steps to craft good strategy, but the steps will
 
 ---
 
-<p class="endnote" id="end-1"><a href="#note-1">1.</a> Net operating profit after tax (NOPAT) captures a firm’s operating profits after factoring in taxes and factoring out profits related to financing decisions. NOPAT growth is measured as a percentage change from one year to the next or over a longer period of time.</p>
+[^1]. Net operating profit after tax (NOPAT) captures a firm’s operating profits after factoring in taxes and factoring out profits related to financing decisions. NOPAT growth is measured as a percentage change from one year to the next or over a longer period of time.

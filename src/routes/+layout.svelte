@@ -1,5 +1,4 @@
 <script lang="ts">
-	import type { LayoutData } from './$types';
 	import '../app.css';
 	import { base } from '$app/paths';
 </script>

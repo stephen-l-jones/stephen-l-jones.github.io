@@ -56,7 +56,7 @@
 	}
 
 	:global(.markdown-styling a) {
-		color: rgb(9, 89, 218);
+		color: #0959da;
 		text-decoration: none;
 	}
 	:global(.markdown-styling a):hover {
@@ -70,6 +70,9 @@
 	}
 	:global(.markdown-styling .endnote) {
 		font-size: 1rem;
+	}
+	:global(code) {
+		background-color: #f2f2f2;
 	}
 	:global(.markdown-figure) {
 		font-family: var(--font-family-san-serif);

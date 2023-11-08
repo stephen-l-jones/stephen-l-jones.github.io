@@ -2,21 +2,32 @@
 	import SvelteMarkdown from 'svelte-markdown';
 	import Figure from '$lib/components/Figure.svelte';
 	import MathEq from '$lib/components/MathEq.svelte';
-	import CustomMd from '$lib/components/CustomMd.svelte';
+	import MathEqBlock from '$lib/components/MathEqBlock.svelte';
+	import Endnote from '$lib/components/Endnote.svelte';
+	import EndnoteParagraph from '$lib/components/EndnoteParagraph.svelte';
+
 	import type { PageData } from './$types';
 
 	export let data: PageData;
+	$: mdArticle = data.mdArticle;
 
-	// import { marked } from 'marked';
+	let count = 0;
 
-	// const tokens = marked.lexer(data.mdArticle);
-
-	// marked.walkTokens(tokens, (token) => {
-	// 	console.log(token);
-	// });
+	$: {
+		count++;
+		void mdArticle;
+	}
 </script>
 
-<SvelteMarkdown
-	source={data.mdArticle}
-	renderers={{ image: Figure, codespan: MathEq, text: CustomMd }}
-/>
+{#key count}
+	<SvelteMarkdown
+		source={mdArticle}
+		renderers={{
+			image: Figure,
+			codespan: MathEq,
+			code: MathEqBlock,
+			paragraph: EndnoteParagraph,
+			text: Endnote
+		}}
+	/>
+{/key}
