@@ -7,7 +7,7 @@
 ##### By Stephen Jones, Ph.D.
 ###### Updated December 2021
 
-IF YOU WANT to make intelligent business strategies, you need to understand value creation and value capture. But that means first understanding key microeconomic principles. This article is a primer on microeconomic, value creation, and value capture principles that are foundational to strategy. 
+```h_2``` IF YOU WANT to make intelligent business strategies, you need to understand value creation and value capture. But that means first understanding key microeconomic principles. This article is a primer on microeconomic, value creation, and value capture principles that are foundational to strategy. 
 
 ## Industries
 Industries are defined as products or services that serve the same basic customer needs. This means products in the same industry are close substitutes for each other. For example, an A&W root beer, which is in the soft drink industry, easily substitutes for a Coke or Dr. Pepper, even though a customer might prefer one over the other. And a flight on Spirit Airlines can easily substitute for a flight on Alaska or Delta Airlines, even though the service may be worse. 

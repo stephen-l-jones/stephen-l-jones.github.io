@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { markdownWidth } from '$lib/constants';
-	import Page from '../../routes/+page.svelte';
 
 	export let href = '';
 	export let text = '';
