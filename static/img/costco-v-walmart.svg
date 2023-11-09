@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='480.00pt' height='270.00pt' viewBox='0 0 480.00 270.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw0ODAuMDB8MC4wMHwyNzAuMDA='>
+    <rect x='0.00' y='0.00' width='480.00' height='270.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw0ODAuMDB8MC4wMHwyNzAuMDA=)'>
+<rect x='0.00' y='0.00' width='480.00' height='270.00' style='stroke-width: 1.16; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpMzMuNjN8NDc0LjAyfDIzLjA1fDIzMy4yNQ=='>
+    <rect x='33.63' y='23.05' width='440.40' height='210.20' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMzMuNjN8NDc0LjAyfDIzLjA1fDIzMy4yNQ==)'>
+<polyline points='37.94,118.84 90.60,106.73 143.25,113.03 195.91,98.52 248.56,107.23 301.21,98.02 353.87,81.10 406.52,67.79 459.17,59.58 ' style='stroke-width: 2.13; stroke: #FF7F00; stroke-linecap: butt;' />
+<polyline points='37.94,100.52 90.60,108.13 143.25,119.34 195.91,117.64 248.56,126.65 301.21,129.55 353.87,137.26 406.52,143.66 459.17,138.16 ' style='stroke-width: 2.13; stroke: #222222; stroke-linecap: butt;' />
+<text x='448.64' y='57.34' text-anchor='end' style='font-size: 12.00px;fill: #FF7F00; font-family: "Roboto";' textLength='37.91px' lengthAdjust='spacingAndGlyphs'>Costco</text>
+<text x='448.64' y='157.44' text-anchor='end' style='font-size: 12.00px;fill: #222222; font-family: "Roboto";' textLength='45.13px' lengthAdjust='spacingAndGlyphs'>Walmart</text>
+</g>
+<g clip-path='url(#cpMC4wMHw0ODAuMDB8MC4wMHwyNzAuMDA=)'>
+<polyline points='33.63,233.25 33.63,23.05 ' style='stroke-width: 0.80; stroke-linecap: butt;' />
+<text x='28.25' y='237.51' text-anchor='end' style='font-size: 12.00px; font-family: "Roboto";' textLength='15.53px' lengthAdjust='spacingAndGlyphs'>0%</text>
+<text x='28.25' y='187.47' text-anchor='end' style='font-size: 12.00px; font-family: "Roboto";' textLength='15.53px' lengthAdjust='spacingAndGlyphs'>5%</text>
+<text x='28.25' y='137.42' text-anchor='end' style='font-size: 12.00px; font-family: "Roboto";' textLength='22.27px' lengthAdjust='spacingAndGlyphs'>10%</text>
+<text x='28.25' y='87.37' text-anchor='end' style='font-size: 12.00px; font-family: "Roboto";' textLength='22.27px' lengthAdjust='spacingAndGlyphs'>15%</text>
+<text x='28.25' y='37.33' text-anchor='end' style='font-size: 12.00px; font-family: "Roboto";' textLength='22.27px' lengthAdjust='spacingAndGlyphs'>20%</text>
+<polyline points='30.64,233.25 33.63,233.25 ' style='stroke-width: 0.80; stroke-linecap: butt;' />
+<polyline points='30.64,183.20 33.63,183.20 ' style='stroke-width: 0.80; stroke-linecap: butt;' />
+<polyline points='30.64,133.15 33.63,133.15 ' style='stroke-width: 0.80; stroke-linecap: butt;' />
+<polyline points='30.64,83.11 33.63,83.11 ' style='stroke-width: 0.80; stroke-linecap: butt;' />
+<polyline points='30.64,33.06 33.63,33.06 ' style='stroke-width: 0.80; stroke-linecap: butt;' />
+<polyline points='33.63,233.25 474.02,233.25 ' style='stroke-width: 0.80; stroke-linecap: butt;' />
+<polyline points='37.94,236.24 37.94,233.25 ' style='stroke-width: 0.80; stroke-linecap: butt;' />
+<polyline points='143.25,236.24 143.25,233.25 ' style='stroke-width: 0.80; stroke-linecap: butt;' />
+<polyline points='248.56,236.24 248.56,233.25 ' style='stroke-width: 0.80; stroke-linecap: butt;' />
+<polyline points='353.87,236.24 353.87,233.25 ' style='stroke-width: 0.80; stroke-linecap: butt;' />
+<polyline points='459.17,236.24 459.17,233.25 ' style='stroke-width: 0.80; stroke-linecap: butt;' />
+<text x='37.94' y='247.16' text-anchor='middle' style='font-size: 12.00px; font-family: "Roboto";' textLength='26.96px' lengthAdjust='spacingAndGlyphs'>2012</text>
+<text x='143.25' y='247.16' text-anchor='middle' style='font-size: 12.00px; font-family: "Roboto";' textLength='26.96px' lengthAdjust='spacingAndGlyphs'>2014</text>
+<text x='248.56' y='247.16' text-anchor='middle' style='font-size: 12.00px; font-family: "Roboto";' textLength='26.96px' lengthAdjust='spacingAndGlyphs'>2016</text>
+<text x='353.87' y='247.16' text-anchor='middle' style='font-size: 12.00px; font-family: "Roboto";' textLength='26.96px' lengthAdjust='spacingAndGlyphs'>2018</text>
+<text x='459.17' y='247.16' text-anchor='middle' style='font-size: 12.00px; font-family: "Roboto";' textLength='26.96px' lengthAdjust='spacingAndGlyphs'>2020</text>
+<text x='33.63' y='14.51' style='font-size: 12.00px; font-family: "Roboto";' textLength='138.15px' lengthAdjust='spacingAndGlyphs'>Return on invested capital</text>
+<text x='474.02' y='262.10' text-anchor='end' style='font-size: 9.00px;fill: #666666; font-family: "Roboto Condensed";' textLength='84.22px' lengthAdjust='spacingAndGlyphs'>Source: Company 10-Ks</text>
+</g>
+</svg>

@@ -72,6 +72,7 @@
 		font-size: 1rem;
 	}
 	:global(code) {
+		font-size: 1.05rem;
 		background-color: #f2f2f2;
 	}
 	:global(.markdown-figure) {

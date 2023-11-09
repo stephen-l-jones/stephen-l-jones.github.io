@@ -7,7 +7,7 @@
 ##### By Stephen Jones, Ph.D.
 ###### Updated November 2023
 
-NIKE HAS BEEN at the top of its game for over 30 years. It has built deep connections with each new generation of young consumers through its design and marketing prowess. Nike has continued its impressive growth even in the face of strong competition from Under Armour and lululemon, and even despite Adidas's acquisition of Reebok, two powerhouse brands. By 2019, Nike’s market capitalization was nearly $140 billion — twice the size of Adidas, its closest competitor. 
+NIKE HAS BEEN at the top of its game for over 30 years. It has built deep connections with each new generation of young consumers through its design and marketing prowess. Nike has continued its impressive growth even in the face of strong competition from Under Armour and lululemon, and even despite Adidas’s acquisition of Reebok, two powerhouse brands. By 2019, Nike’s market capitalization was nearly $140 billion — twice the size of Adidas, its closest competitor. 
 
 But Nike’s size and scope make it staggeringly complex. It sells products in three consumer goods industries (footwear, apparel, and equipment) through multiple distribution channels (wholesale, physical retail, and online direct-to-consumer). It markets to athletes in over a dozen sports (from basketball and football to cricket and lacrosse) in nearly every country in the world. In 2019, its supply chain included 112 contract footwear factories and 334 contract apparel factories in 30+ countries. 
 
@@ -45,7 +45,7 @@ The resource-based theory argues that firms gain competitive advantages by acqui
 
 But those in the industrial economics camp [pushed back on Rumelt’s findings](https://onlinelibrary.wiley.com/doi/pdf/10.1002/%28SICI%291097-0266%28199707%2918%3A1%2B%3C15%3A%3AAID-SMJ916%3E3.0.CO%3B2-1), showing that variance in firm profitability depends greatly on the industry one observes. In some industries, all firms earn similar profits, suggesting that industry effects mainly determine profitability. In other industries, profits vary greatly, suggesting resource endowments largely drive the difference. 
 
-Figure 2 shows these differences between six industries. The dots indicate the ROIC for large U.S. firms from 2016-18. Automotive firms' ROIC varied widely while apparel firms' profitability stayed within a more-narrow band. This suggests apparel firms are constrained by their industry. But the industry effects pale in comparison to the effect of the individual firms. Note that the industry average ROICs, indicated by the dashed lines, were quite similar, ranging from 7% to 12%. But the variation within each industiry is much larger. Even in apparel, the most constrained industry, firm profitability ranged from −2% to 24%. 
+Figure 2 shows these differences between six industries. The dots indicate the ROIC for large U.S. firms from 2016-18. Automotive firms’ ROIC varied widely while apparel firms’ profitability stayed within a more-narrow band. This suggests apparel firms are constrained by their industry. But the industry effects pale in comparison to the effect of the individual firms. Note that the industry average ROICs, indicated by the dashed lines, were quite similar, ranging from 7% to 12%. But the variation within each industiry is much larger. Even in apparel, the most constrained industry, firm profitability ranged from −2% to 24%. 
 
 ![Figure 2. Return on invested capital of U.S. firms in selected industries](../img/firm-roic.svg#small)
 

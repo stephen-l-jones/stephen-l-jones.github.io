@@ -83,7 +83,7 @@ Using this calibration pattern, you traverse all six strategy components.
 If the firm’s estimated profit margins are poor, you may reevaluate your decisions by adjusting which market segments to target or adjusting their product mix or positioning strategies. These changes ripple through the other design decisions and ultimately modify the firm’s estimated profit. You may conduct multiple iterations until you find the right combination of strategies that can drive the firm’s profit goals.
 
 ### Finance-focused calibration
-When a firm’s performance is poor, its leaders will often use the firm’s financial results to identify ways to reduce costs, increase revenues, or both. Finance-focused calibration begins with analysis of the firm’s revenues, costs, and cash flow, as shown in Figure 3. If the firm’s revenues are too low, analyze the firm's value proposition. If the firm’s costs are too high, analyze the firm’s capabilities. 
+When a firm’s performance is poor, its leaders will often use the firm’s financial results to identify ways to reduce costs, increase revenues, or both. Finance-focused calibration begins with analysis of the firm’s revenues, costs, and cash flow, as shown in Figure 3. If the firm’s revenues are too low, analyze the firm’s value proposition. If the firm’s costs are too high, analyze the firm’s capabilities. 
 
 ![Figure 3. Finance-focused strategy components calibration](../img/calibration-finance.png#small)
 
@@ -112,7 +112,7 @@ Once you determine the changes to value proposition and capabilities, you can es
 ### Resource-focused calibration
 The resource-based view[^1] argues that a firm’s resources (assets and capabilities) lead to competitive advantage. But not all resources are competitively advantageous. Advantageous resources must be rare and difficult or costly to imitate; otherwise, they will not differentiate a firm from its rivals.
 
-Resource-focused calibration begins with the firm’s operations and partner components, as shown in Figure 5. First, analyze the firm’s internal operations to identify valuable resources — those that are particularly good at lowering cost or increasing value. Then analyze the firm’s partnerships to identify relational resources[^2] that lower cost or increase value. Also analyze your rivals' resources to know how rare they are. And determine how difficult or costly it is for rivals to mimic your firm’s resources. 
+Resource-focused calibration begins with the firm’s operations and partner components, as shown in Figure 5. First, analyze the firm’s internal operations to identify valuable resources — those that are particularly good at lowering cost or increasing value. Then analyze the firm’s partnerships to identify relational resources[^2] that lower cost or increase value. Also analyze your rivals’ resources to know how rare they are. And determine how difficult or costly it is for rivals to mimic your firm’s resources. 
 
 ![Figure 5. Resource-focused strategy components calibration](../img/calibration-resource.png#small)
 
@@ -144,6 +144,6 @@ WHETHER YOUR COMPANY is like CPA Group or GE, strategy components calibration wi
 
 ---
 
-[^1]. The resource based view is discussed in more detail in “[A Survey a Strategy Theory](./a-survey-of-strategy-theory)”, “[Competing on Resources](https://hbr.org/2008/07/competing-on-resources)”, and "[Competing with Ordinary Resources](https://sloanreview.mit.edu/article/competing-with-ordinary-resources/)”.
+[^1]. The resource based view is discussed in more detail in “[A Survey a Strategy Theory](./a-survey-of-strategy-theory)”, “[Competing on Resources](https://hbr.org/2008/07/competing-on-resources)”, and “[Competing with Ordinary Resources](https://sloanreview.mit.edu/article/competing-with-ordinary-resources/)”.
 
 [^2]. For more information on relational resources, see “[The Relational View: Cooperative Strategy and Sources of Interorganizational Competitive Advantage](https://www.jstor.org/stable/pdf/259056.pdf)”.
