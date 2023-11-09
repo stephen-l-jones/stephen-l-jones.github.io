@@ -221,6 +221,8 @@ Figure 1 captures the various ratios we’ve discussed. Profitability analysis n
 
 To illustrate, I’ll analyze Costco’s performance in FY 2020 with Walmart as the competitor benchmark, as shown in Figure 3. My analysis will be brief. Much more could be said beyond what I analyze here, but it will illustrate how you can connect strategy to profitability.
 
+![Figure 3. Profitability analysis: Costco v. Walmart, FY 2020](../img/profitability-costco-v-walmart.png#small)
+
 First, we ask, which firm was more profitable? Based on Figure 3, we answer: Costco. Costco’s ROIC was 17.4% compared to Walmart’s ROIC of 9.5%. The next question is, why? The answer is because Costco’s capital efficiency was better than Walmart’s. Costco’s capital turnover was $7.04 compared to Walmart’s $3.20, meaning Coscto generated $3.84 of revenue more than Walmart for every dollar invested. (In contrast, Costco’s return on sales was lower, suggesting Walmart has higher operating efficiency.)
 
 The next question is, why was Costco’s capital efficiency higher? To answer, we point to Costco’s average net PPE over sales, which was 14.4% compared to Walmart’s 23.8%. (Remember that lower asset ratios indicated better capital efficiency.) We can also highlight Costco’s revenue per square foot of retail space, which was $1,450 per square foot in FY 2020 compared to Walmart’s $464 per square foot. Costco is much better at using its stores to generate revenue.
