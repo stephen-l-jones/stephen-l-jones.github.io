@@ -1,4 +1,4 @@
-<h4 style="font-family: var(--font-family-san-serif); font-weight: 600;">STRATEGY COMPONENTS SERIES </h3>
+<h4 style="font-family: var(--font-family-san-serif); font-weight: 600;">STRATEGY COMPONENTS SERIES</h4>
 
 # How to calibrate strategy components
 #### Third in a three-part series. How calibrating strategy components can open a new world of possibilities.
@@ -24,6 +24,8 @@ To achieve superior performance, strategists need a systematic way to calibrate 
 There are four simple guidelines to calibrate strategy components, as shown in Figure 1. The guidelines are broad so they can apply to many business types and a variety of scenarios. Entrepreneurs can use them to design new ventures. Small businesses owners can use them to analyze their firms’ performance potential. And corporate strategists can use them to exploit opportunities or defend against threats. 
 
 First, begin with the most salient strategy component. Second, visit strategies in every strategy component. Third, look for new options created by strategic choices. Fourth, try many paths. The theory is simple, and the rest of this paper illustrates how to apply it successfully.  
+
+![Figure 1. Strategy components calibration](../img/calibration.png)
 
 ### Begin with the most salient strategy component
 [General Electric was floundering](https://www.wsj.com/articles/ge-powered-the-american-centurythen-it-burned-out-11544796010) in 2019. Its free cash flow and market value had crashed. It fired its CEO, Michael Flannery, after only 14 months and then hired board member and Danaher CEO, Larry Culp. With the company’s future existence in question, Culp began a company-wide [review of how to fix its operations](https://www.wsj.com/articles/some-expected-larry-culp-to-break-apart-ge-instead-hes-trying-to-fix-it-11570460349). 
@@ -68,6 +70,8 @@ There are many patterns you can follow to calibrate strategy components, but the
 ### Customer-focused calibration
 Customer-focused calibration starts with customer research, as shown in Figure 2. This research identifies existing and emerging market segments using customer demographics, psychographics, or other attributes. It also identifies each segment’s size and preferences for product functions and features. You can use this analysis to determine which customer segments to target, which products to offer, and how to position the products in the market. These choices define a firm’s value proposition.
 
+![Figure 2. Customer-focused strategy components calibration](../img/calibration-customer.png#small)
+
 Once you have defined the value proposition, identify your firm’s direct competitors in each market segment. These two pieces of the strategy components framework — the value proposition and the direct competitors — allow the firm’s marketing function to estimate demand curves for the firm’s products.
 
 At the same time, you can determine the capabilities that are needed to offer the desired products. This may include building distribution channels, acquiring engineering resources and manufacturing capacity, or developing customer service talent. These capabilities may exist within the firm’s internal operations or be leveraged through partner relationships. Once you understand your firm’s needed capabilities, you can estimate your products’ cost curves. 
@@ -80,6 +84,8 @@ If the firm’s estimated profit margins are poor, you may reevaluate your decis
 
 ### Finance-focused calibration
 When a firm’s performance is poor, its leaders will often use the firm’s financial results to identify ways to reduce costs, increase revenues, or both. Finance-focused calibration begins with analysis of the firm’s revenues, costs, and cash flow, as shown in Figure 3. If the firm’s revenues are too low, analyze the firm's value proposition. If the firm’s costs are too high, analyze the firm’s capabilities. 
+
+![Figure 3. Finance-focused strategy components calibration](../img/calibration-finance.png#small)
 
 While analyzing the firm’s value proposition, you may bolster the firm’s products by repositioning or enhancing them, or cut products in underperforming market segments. You may also enter new market segments to increase scale and sales. If a firm leaves or enters a market segment, its direct competitors will change, and any changes to its direct competitors or its value proposition will affect its products’ demand curves.
 
@@ -94,6 +100,8 @@ Once the firm’s demand and cost curves are updated, you can determine product 
 ### Competitor-focused calibration
 You may adopt a competitor focus when the firm is losing market share to rivals, competition is fierce, or new entrants change the dynamics of the industry. In such cases, first identify the firm’s current and potential competitors in the industry, as shown in Figure 4. Then benchmark the competitors’ value propositions and capabilities against your own. The goal is to understand where competitors are strong and well positioned relative to your firm’s strength and position.
 
+![Figure 4. Competitor-focused strategy components calibration](../img/calibration-competitor.png#small)
+
 After analyzing rivals, you may rethink your firm’s value proposition, capabilities, or both. Your firm may exit a market segment where a dominant competitor is entrenched and a frontal attack would be too costly. You may preemptively enter a market segment to deter a rival’s entry. Or you may reposition a product to differentiate it from a rival’s product.
 
 You can also focus on capabilities. Through benchmarking efforts, you may spot inferior capabilities in your firm and adopt strategies to bolster them. Or you may recognize a particularly valuable capability and design ways to exploit it more. 
@@ -105,6 +113,8 @@ Once you determine the changes to value proposition and capabilities, you can es
 The resource-based view[^1] argues that a firm’s resources (assets and capabilities) lead to competitive advantage. But not all resources are competitively advantageous. Advantageous resources must be rare and difficult or costly to imitate; otherwise, they will not differentiate a firm from its rivals.
 
 Resource-focused calibration begins with the firm’s operations and partner components, as shown in Figure 5. First, analyze the firm’s internal operations to identify valuable resources — those that are particularly good at lowering cost or increasing value. Then analyze the firm’s partnerships to identify relational resources[^2] that lower cost or increase value. Also analyze your rivals' resources to know how rare they are. And determine how difficult or costly it is for rivals to mimic your firm’s resources. 
+
+![Figure 5. Resource-focused strategy components calibration](../img/calibration-resource.png#small)
 
 Once you have identified your firm’s valuable, rare, and inimitable resources (both internal and relational), devise ways to leverage them better. For example, if a product design team is particularly good, they may be given greater authority or be tasked with developing more design talent to exploit the design capability further. Or, if an R&D partner is especially resourceful, the firm and its partner may expand the scope of the partnership to exploit the R&D capability. 
 
@@ -134,6 +144,6 @@ WHETHER YOUR COMPANY is like CPA Group or GE, strategy components calibration wi
 
 ---
 
-[^1] The resource based view is discussed in more detail in “[A Survey a Strategy Theory](./a-survey-of-strategy-theory)”, “[Competing on Resources](https://hbr.org/2008/07/competing-on-resources)”, and "[Competing with Ordinary Resources](https://sloanreview.mit.edu/article/competing-with-ordinary-resources/)”.
+[^1]. The resource based view is discussed in more detail in “[A Survey a Strategy Theory](./a-survey-of-strategy-theory)”, “[Competing on Resources](https://hbr.org/2008/07/competing-on-resources)”, and "[Competing with Ordinary Resources](https://sloanreview.mit.edu/article/competing-with-ordinary-resources/)”.
 
-[^2] For more information on relational resources, see “[The Relational View: Cooperative Strategy and Sources of Interorganizational Competitive Advantage](https://www.jstor.org/stable/pdf/259056.pdf)”.
+[^2]. For more information on relational resources, see “[The Relational View: Cooperative Strategy and Sources of Interorganizational Competitive Advantage](https://www.jstor.org/stable/pdf/259056.pdf)”.

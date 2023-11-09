@@ -1,4 +1,4 @@
-<h4 style="font-family: var(--font-family-san-serif); font-weight: 600;">BACKGROUND NOTE</h3>
+<h4 style="font-family: var(--font-family-san-serif); font-weight: 600;">BACKGROUND NOTE</h4>
 
 # Profitability analysis
 #### Analyzing a firm’s profitability can reveal its strategy — and how well it’s working.

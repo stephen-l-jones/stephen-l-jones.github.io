@@ -1,4 +1,4 @@
-<h4 style="font-family: var(--font-family-san-serif); font-weight: 600;">STRATEGY COMPONENTS SERIES</h3>
+<h4 style="font-family: var(--font-family-san-serif); font-weight: 600;">STRATEGY COMPONENTS SERIES</h4>
 
 # The strategy components framework
 #### First in a three-part series. How the strategy components framework guides choices and capabilities to achieve superior performance.
@@ -28,6 +28,8 @@ The strategy components framework adopts the comprehensive nature of business mo
 All businesses face common challenges that compel them to answer the same set of questions. Who will we serve? How will we serve them? How should we operate? Who should we cooperate with? How do we compete? And how will we generate profits? The answers to these six questions constitute the strategy components in the framework shown in Figure 1. 
 
 Each component addresses a different facet of a firm’s knowledge, strategies, and capabilities. The product, finance, and operations components encapsulate a firm’s internal strategies and capabilities. The customer, competitor, and partner components encapsulate a firm’s knowledge of and relations with external entities. The customer and product components combined create a firm’s value proposition. And the operations and partner components together encapsulate the capabilities a firm can leverage.
+
+![Figure 1. Strategy components framework](../img/sc-framework.png)
 
 Each component captures key knowledge, strategies, and capabilities. Together, the strategy components provide structure and clarity about a firm that a traditional business model does not provide. The following sections look at each component.
 
@@ -80,6 +82,8 @@ A firm also predicts the competitive moves of new entrants. For example, cereal 
 ### A comprehensive example: Apple’s strategy components
 Consider the strategy components for Apple in Figure 2. Apple’s customer component describes Apple’s targeting strategies. Apple targets consumers across the world who want easy-to-use, beautiful, status-oriented personal devices, and it avoids price-conscious consumers. Its customer strategies complement its product, positioning, and price strategies. Apple creates sophisticated, aesthetically-appealing devices that work seamlessly together. It also offers an endless variety of apps developed by third parties. It prices high and avoids discounting in order to maintain its perception of quality. The customer and product components together show how Apple creates value.
 
+![Figure 2. Apple’s strategy components](../img/scf-apple.png#small)
+
 Apple’s operations component includes the core capabilities and strategies it uses to support its value proposition. Apple invests heavily in its design and marketing capabilities to create beautiful personal devices. It also fosters an innovative culture to continually release new features and enhanced devices. But Apple doesn’t try to do everything itself. Apple’s partner component includes how it leverages the capabilities of others. Apple relies on the manufacturing prowess of suppliers and the creativity of third-party app developers. Apple could build these capabilities in house, but by leveraging partners’ capabilities, it can focus on its core strengths.
 
 Apple’s competitor component includes how Apple competes with its rivals. Apple protects against customer defections by increasing switching costs. Its integrated ecosystem and focus on brand loyalty make it difficult for customers to leave Apple. To compete, Apple also releases high-quality, well-designed personal technologies, but it does not try to be the first in the market (i.e., the bleeding edge). For example, Blackberry sold personal digital assistants with full keyboards well before Apple introduced the iPhone. Microsoft introduced a tablet PC before Apple’s iPad, but Microsoft’s tablet failed to catch on. Apple accelerated the growth in both of these markets by refining the technologies and thereby capturing mass audiences, even though they were not the first to release such products.
@@ -115,6 +119,8 @@ Netflix’s entry into original productions illustrates the interdependence of i
 And there’s one more interdependency not yet covered. Netflix’s move into originals came with a steep price tag. When licensing content from other studios, Netflix pays a fee when the content launches on its site. But, as mentioned above, Netflix has to pay directors, actors, producers, and engineers for its original productions years before the content launches. Netflix’s pivot to originals exacerbated Netflix’s need for cash, which was already acute because of its rapid growth. 
 
 Its new and growing library of original shows increased its subscription numbers and revenues. But competition from new streaming outlets limited its ability to raise prices. Greater revenues would lead to greater cash availability, but its production appetite appears insatiable. Original shows now consume all of Netflix’s organic cash flow and more. And its ability to grow its content is dependent on accessing new capital, primarily debt. Netflix entered a tricky cycle of issuing debt to cover its content growth, which drove its subscriber growth, which made it possible to meet its debt obligations. 
+
+![Figure 3. Netflix’s shift to originals](../img/scf-netflix.png#small)
 
 ### Principle of options and constraints
 Netflix’s example highlights another principle: because strategy components are interdependent, strategic choices in one component create options or constraints in others. Fundamentally, a strategy is an option selected from a set of alternatives. And alternatives in one strategy component tend to limit or expand the alternatives in other components. 
