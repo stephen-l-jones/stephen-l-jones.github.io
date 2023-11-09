@@ -1,6 +1,35 @@
+<script lang="ts">
+	import SvelteMarkdown from 'svelte-markdown';
+	import Figure from '$lib/components/Figure.svelte';
+	import MathEq from '$lib/components/MathEq.svelte';
+	import MathEqBlock from '$lib/components/MathEqBlock.svelte';
+	import Endnote from '$lib/components/Endnote.svelte';
+	import EndnoteParagraph from '$lib/components/EndnoteParagraph.svelte';
+
+	export let markdown = '';
+	export let navPage: NavPage;
+</script>
+
 <div class="markdown">
 	<div class="markdown-styling">
-		<slot />
+		{#if !!navPage.strap}
+			<h5>{navPage.strap}</h5>
+		{/if}
+		<h1>{navPage.title}</h1>
+		{#if !!navPage.subtitle}
+			<h4>{navPage.subtitle}</h4>
+		{/if}
+		<Figure href="/img/{navPage.iref}" />
+		<SvelteMarkdown
+			source={markdown}
+			renderers={{
+				image: Figure,
+				codespan: MathEq,
+				code: MathEqBlock,
+				paragraph: EndnoteParagraph,
+				text: Endnote
+			}}
+		/>
 	</div>
 </div>
 
