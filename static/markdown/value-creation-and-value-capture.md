@@ -1,9 +1,3 @@
-# Value creation and value capture
-
-#### Business strategy is built on the ideas of customer value creation and capture, which originate in microeconomics.
-
-![](../img/value-creation-capture.png)
-
 ##### By Stephen Jones, Ph.D.
 ###### Updated December 2021
 

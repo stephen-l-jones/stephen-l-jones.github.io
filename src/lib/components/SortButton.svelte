@@ -2,10 +2,10 @@
 	export let sortOrder: string = 'ascending';
 	export let label: string;
 
-	let arrow: string = '🠗';
+	let arrow: string = 'south';
 	function onClick() {
 		sortOrder = sortOrder === 'ascending' ? 'descending' : 'ascending';
-		arrow = sortOrder === 'ascending' ? '🠗' : '🠕';
+		arrow = sortOrder === 'ascending' ? 'south' : 'north';
 	}
 </script>
 
@@ -17,7 +17,7 @@
 				<div class="AZ">Z</div>
 			</div>
 			<div style="display: table-cell; vertical-align: middle;">
-				<span style="font-size: 1.2rem;">{arrow}</span>
+				<span class="material-icons" style="font-size: 1rem; vertical-align: top;">{arrow}</span>
 				{label}
 			</div>
 		</div>

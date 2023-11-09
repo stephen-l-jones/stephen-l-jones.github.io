@@ -1,9 +1,3 @@
-# How to make rigorous strategic decisions
-
-#### Because of ambiguity, strategists need to use a rigorous process to make good decisions.
-
-![](../img/decision-making.png)
-
 ##### By Stephen Jones, Ph.D.
 ###### Updated November 2023
 

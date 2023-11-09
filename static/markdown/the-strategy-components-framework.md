@@ -1,10 +1,3 @@
-<h4 style="font-family: var(--font-family-san-serif); font-weight: 600;">STRATEGY COMPONENTS SERIES</h4>
-
-# The strategy components framework
-#### First in a three-part series. How the strategy components framework guides choices and capabilities to achieve superior performance.
-
-![](../img/strategy-components.png)
-
 ##### By Stephen Jones, Ph.D.
 ###### Updated December 2021
 

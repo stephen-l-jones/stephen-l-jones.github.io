@@ -1,9 +1,3 @@
-# Strategic avenues to superior performance
-
-#### Firms can adopt five strategic avenues that lead to superior performance. Each arrives at greater value capture using a different economic logic. (PDF)
-
-![](../img/strategic-avenues.png)
-
 ##### By Stephen Jones, Ph.D.
 ###### Updated December 2021
 

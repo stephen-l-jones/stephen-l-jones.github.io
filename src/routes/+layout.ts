@@ -17,6 +17,7 @@ export const load: LayoutLoad = () => {
         return {
             slug: navPage.slug,
             folder: navPage.folder,
+            strap: navPage.strap,
             title: navPage.title,
             subtitle: navPage.subtitle,
             iref: navPage.iref

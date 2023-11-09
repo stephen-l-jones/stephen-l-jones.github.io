@@ -19,7 +19,7 @@
 	:global(.markdown-styling h1) {
 		font-size: 2.4rem;
 		line-height: 1.1;
-		margin: 0.5rem 0;
+		margin: 0 0 0.5rem 0;
 	}
 	:global(.markdown-styling h2) {
 		font-size: 1.6rem;
@@ -41,6 +41,7 @@
 	:global(.markdown-styling h5) {
 		font-family: var(--font-family-san-serif);
 		font-size: 1.1rem;
+		font-weight: 600;
 		color: var(--font-color);
 		margin: 0;
 	}

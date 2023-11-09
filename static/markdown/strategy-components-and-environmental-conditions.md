@@ -1,10 +1,3 @@
-<h4 style="font-family: var(--font-family-san-serif); font-weight: 600;">STRATEGY COMPONENTS SERIES</h4>
-
-# Strategy components and environmental conditions
-#### Second in a three-part series. How understanding the environment can improve strategy components.
-
-![](../img/components-environment.png)
-
 ##### By Stephen Jones, Ph.D.
 ###### Updated December 2021
 

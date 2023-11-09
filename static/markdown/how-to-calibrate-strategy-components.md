@@ -1,10 +1,3 @@
-<h4 style="font-family: var(--font-family-san-serif); font-weight: 600;">STRATEGY COMPONENTS SERIES</h4>
-
-# How to calibrate strategy components
-#### Third in a three-part series. How calibrating strategy components can open a new world of possibilities.
-
-![](../img/calibrate-components.png)
-
 ##### By Stephen Jones, Ph.D.
 ###### Updated April 2020
 

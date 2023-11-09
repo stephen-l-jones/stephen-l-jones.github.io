@@ -1,9 +1,3 @@
-# A survey of strategy theory
-
-#### All business leaders ask “how do I achieve superior performance?” The answers are built on strategic management theories that have been refined for decades. 
-
-![](../img/strategy-theory.png)
-
 ##### By Stephen Jones, Ph.D.
 ###### Updated November 2023
 

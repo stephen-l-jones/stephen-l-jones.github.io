@@ -18,9 +18,9 @@
 
 <style>
 	:root {
-		--font-family-san-serif: Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto,
-			Helvetica Neue, Arial, Noto Sans, sans-serif;
-		--font-family-serif: 'PT Serif', Georgia, Times, serif;
+		--font-family-san-serif: Inter, Roboto, Helvetica, Arial, sans-serif;
+		--font-family-serif: 'PT Serif', Georgia, 'Times New Roman', serif;
+		--font-family-monospaced: 'PT Mono', Monaco, 'Courier New';
 		--font-color: #222222;
 		--hover-color: #eeeeee;
 		--border-color: #dddddd;
