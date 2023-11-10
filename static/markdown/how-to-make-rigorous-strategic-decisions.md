@@ -55,7 +55,7 @@ Firms measure their performance mostly with financial indicators, such as sales 
 
 Outside analysts normally evaluate performance based on profitability or profit growth. Figure 2 provides an illustration of profitability (panel A) and profit growth (panel B) for selected U.S. airlines from 2014–18. Profitability was measured each year using ROIC. Profit growth was measured as the 5-year [compound annual growth rate](https://www.investopedia.com/terms/c/cagr.asp) (CAGR) of the net operating profit after tax (NOPAT).[^1]
 
-![Figure 2. Carrier profitability](../img/carrier-profitability.svg#small)
+![Figure 2. Carrier profitability](../img/carrier-profitability.png#small)
 
 Notice in panel A that Southwest’s profitability rose from 11% in 2014 to an impressive 30% in 2018. This indicates that for every dollar invested, Southwest returned 30 cents in profit in 2018. Further, Southwest posted the strongest profit growth among its rivals. Panel B shows that its profits grew 28% on average year-over-year. Strong profit growth and profitability are difficult to achieve at the same time, which makes Southwest’s performance even more impressive.
 
@@ -63,7 +63,7 @@ In contrast, Alaska’s profitability fell from 16% to 13%, with much of its str
 
 Both Alaska and United were upstaged by Allegiant Air, a small ultra-low-cost carrier which had greater profitability and profit growth. It is important to note that Allegiant did not earn greater profits than Alaska and United — both earned much more than Allegiant during this period — but Allegiant’s profitability, which factors in Allegiant’s much smaller capital base, was greater.
 
-These types of performance comparisons give leaders feedback on their strategies. Southwest’s performance indicates its strategies were working during this period while United’s performance suggests its were not.
+These types of performance comparisons give leaders feedback on their strategies. Southwest’s performance indicates its strategies were working during this period while United’s performance suggests its strategies were not.
 
 ## Crafting good strategy
 Smart strategists follow a rigorous process to make good decisions in the face of ambiguity. First, strategists articulate the strategic question in a clear, succinct way. Second, they generate potential solutions, or alternatives, to the strategic question. Third, they identify metrics that will help them eventually choose between the alternatives. Fourth, they gather and synthesize data to estimate the metrics. Fifth, they use the analysis to evaluate and choose an alternative. Sixth, they convince leaders to back their strategic recommendation. Each step is detailed below.

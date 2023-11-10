@@ -107,7 +107,7 @@ Walmart is a good competitor benchmark for Costco. They’re in the same industr
 
 Figure 2 shows Costco’s and Walmart’s ROIC over time. Benchmarking Costco’s historical performance, we find that Costco improved its profitability over time. In 2012, Costco’s ROIC was 11.4%, so it improved its profitability by 6 cents per dollar invested in nine years. In contrast, Walmart’s ROIC has trended downward over the same time period.
 
-![Figure 2. Costco v. Walmart](../img/costco-v-walmart.svg)
+![Figure 2. Costco v. Walmart](../img/costco-v-walmart.png)
 
 Additionally, Costco’s ROIC was much better than the industry average ROIC. Costco is a grocery and general merchandise retailer ([NAICS code 452311](https://www.census.gov/cgi-bin/sssd/naics/naicsrch?code=452311&search=2017%20NAICS%20Search)). According to [Aswath Damodaran of New York University](http://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/mgnroc.html), the industry average ROIC for grocery retail was 7.1% and general retail was 13.8% in the U.S. in 2020, which puts Costco above the averages. Overall, Costco’s performance was better than Walmart’s, it increased over the prior nine years, and it was much better than the industry averages. All of these comparisons show that Costco is a superior performer.
 

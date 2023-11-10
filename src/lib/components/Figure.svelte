@@ -32,7 +32,7 @@
 				media="(max-width: {markdownWidth.max - 1}px)"
 				srcset={smallImgExists ? hrefSmall : hrefNormal}
 			/>
-			<!--<source media="(min-width: {markdownWidth.max}px)" srcset={hrefNormal} />-->
+			<source media="(min-width: {markdownWidth.max}px)" srcset={hrefNormal} />
 			<img alt={text} src={hrefNormal} bind:this={img} />
 		</picture>
 	</figure>

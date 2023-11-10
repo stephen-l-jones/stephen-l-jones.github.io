@@ -21,7 +21,7 @@ When a firm differentiates its product (through branding or adding unique featur
 
 To illustrate this point, imagine that we own a firm that sells “thneeds”, [the fictitious multipurpose garment in Dr. Seuss’s _The Lorax_](https://www.youtube.com/watch?v=PQk3hZwN9fo). Our firm’s thneeds are differentiated in the marketplace through branding and unique styling, so the product has its own demand curve. The thneeds provide varying levels of value (i.e., utility) to different customers, so one customer might have a lower or higher willingness to pay than another. We can group customers together that have similar levels of willingness to pay. Assuming that we can estimate customers’ willingness to pay, we can consider different prices for a thneed and project how many customers will buy one. Figure 1 shows the results of this hypothetical estimate. The y-axis is the price of a thneed, and the x-axis is the quantity demanded (i.e., the number of customers willing to pay that price). At $100, no customers will buy the product. At $91, we estimate 400 individuals are willing to buy a thneed. At $84, an additional 400 individuals are willing to buy one. As the price falls, more and more customers perceive the value of the product as worth the price such that at $10, we estimate 8,000 customers are willing to buy a thneed.
 
-![Figure 1. Thneed demand curve](../img/micro-fig-1.svg)
+![Figure 1. Thneed demand curve](../img/micro-fig-1.png)
 
 ## Maximizing profit
 We must choose a price and production level for our thneeds that will maximize economic profit.[^1] (Assume we are not engaged in [price discrimination](https://www.investopedia.com/terms/p/price_discrimination.asp).) Figure 2 illustrates our range of choices. The first column depicts revenues at different prices and production levels. The second column depicts costs. And the third column combines revenues and costs to depict profits.</p>
@@ -30,7 +30,7 @@ Each row presents a slightly different view of revenues, costs, and profits. The
 
 To illustrate our alternatives, I have chosen three prices and production levels to analyze: $76 at `q_1` = 1,240 units, $18 at `q_2` = 6,670 units, and $49 at `q*` = 3,200 units. The third production level is coined `q*` because it is the price at which total profit is greatest. 
 
-![Figure 2. Thneed revenue, costs, and profits](../img/micro-fig-2.svg#small)
+![Figure 2. Thneed revenue, costs, and profits](../img/micro-fig-2.png#small)
 
 ### Revenues
 In the upper-left corner of Figure 2, plot 1 replicates the demand curve of Figure 1. The shaded area depicts the total revenue at `q*`, which is $49 × 3200 = $158,600. Just below plot 1, plot 4 depicts the total revenue at any given price. At `q_1` the total revenue is $94,240. This is lower than the total revenue at `q*`, even though the price is higher, because the quantity demanded is lower. At `q_2` the total revenue is $120,060. This is lower than the total revenue at `q*` because the price is lower, even though the quantity is higher. 
@@ -58,6 +58,8 @@ Customer value[^2] is the aggregate value that customers place on products in an
 
 Customer value is created when the industry demand curve shifts outward and upward (`D′`) or when aggregate production increases (`Q′`), as illustrated in Figure 3. Industry demand curve `D′` depicts a future state of demand. And quantity `Q′` depicts an increase in aggregate production. The industry demand curve could shift to `D′` if firms improved their products to better meet the needs of customers. If firms didn’t expand production (leaving `Q` as is), then the shift to `D′` would create value in area (b). Instead, if aggregate demand remained at `D` but firms lowered their costs and prices to bring price-conscious customers into the market — which could increase production to `Q′` — then the increased production would create value in area (c). Or if firms improved their products and lowered their prices, then the move would create value in areas (b), (c), and (d). 
 
+![Figure 3. Value creation](../img/micro-fig-3.png)
+
 All of these examples credit the creation of value to firms’ actions. But value can also be created through environmental changes, such as macroeconomic conditions, demographic trends, or customer tastes. For example, an aging population and a trend toward caring for chronic conditions at home have led to explosive growth in the home-healthcare services industry. At the beginning of 2019, the Centers for Medicare and Medicaid Services (CMS) [projected spending growth of 6.8%](https://homehealthcarenews.com/2019/02/home-health-spending-rate-projected-to-surpass-all-other-care-categories/) for the year — faster than all other areas of the healthcare sector. This growth represents a shift in the demand curve and will increase customer value as firms expand their services.
 
 It is important to note that firms do not create customer value if they do not shift the industry demand curve or drive an increase in aggregate production. So, for example, if a firm enters a competitive industry with a product and cost structure that’s no different from rivals, the firm would not shift the demand curve. It’s not offering anything new that would create additional value for customers. Nor is it changing the value of the industry’s products relative to substitutes from other industries. Moreover, after an initial flurry of responses to the new entrant, the industry’s aggregate production may remain unchanged. 
@@ -69,12 +71,16 @@ Customer value can be captured by any entity in the chain of value creation. Thi
 
 The area under the demand curve up to quantity `q*` represents the total value created in the industry. The blue shaded area is the value captured by the customer. This is called the “consumer surplus”. The green shaded area is the value captured by the firm, which is the firm’s profit. The red shaded area is the value captured by suppliers, employees, governments, and others in the value chain. It comprises the firm’s explicit costs (e.g., paying suppliers for raw materials, compensating employees for their labor, paying taxes to governments) and implicit costs (e.g., the implied rate of return expected by shareholders). 
 
+![Figure 4. Value capture](../img/micro-fig-4.png)
+
 ### Differentiation
 A firm is able to capture value when it differentiates itself in ways that customers find valuable. If a firm’s product is differentiated, it’s hard for customers to compare prices with rivals’ substitute products. And without direct comparisons, it’s less likely that competition will lower prices in the market.
 
 This is illustrated by an example of new entrants competing in a monopolist’s market. Figure 5 shows two possible scenarios. In Scenario 1, two new entrants introduce products that are nearly identical to the original monopolist’s product, as illustrated by the Venn diagram in the upper right. In Scenario 2, two new entrants introduce nearly identical products but the monopolist pivots to differentiate its product from the new rivals’ products. The product differentiation may include brand cachet, unique features, extraordinary quality, distinctive customer support, or other attributes.
 
 Both scenarios present the original demand curve D for the monopolist and the profit-maximizing price `p*` and production level `q*`. The large light-green area depicts the original profit (`[p* − c*] × q*`). But in both scenarios, because of the new competition, customers’ willingness to pay falls and the monopolist’s demand curve D shifts to the left. To maximize profit under the now-shifted demand curve `D′`, the monopolist lowers its production to `q′` and lowers its price to `p′`. Its average total cost per unit also increases somewhat to `c′`. The smaller dark-green area depicts the new profit. 
+
+![Figure 5. Introduction of competition](../img/micro-fig-5.png#small)
 
 Although the shifts in demand, price, quantity, and cost are in the same direction for both scenarios, the shifts are more severe in Scenario 1. This is because the products from the three firms are so similar. Nearly all economic profits disappear, which aligns with economic theory: as distinctions dissipate in monopolistic competition, a firm’s demand curve will shift to the left. It may shift left until it intersects with the average total cost curve and the firm earns zero economic profit. In Scenario 2, the leftward shift of the demand curve is not as severe. This is because the monopolist pivoted to differentiate its product from the new entrants’ products. This allowed the monopolist to retain higher prices and production.
 
@@ -84,6 +90,8 @@ Even if a firm’s product isn’t differentiated, it can capture value by lower
 Figure 6 begins with Scenario 1 of Figure 5 (where there are multiple firms in the industry with similar products) and depicts how profits improve when the ATC lowers. Example 1 depicts the effect of lower fixed costs, which shift the ATC curve down but don’t affect the curvature. Lower fixed costs also don’t affect the marginal cost curve, so marginal cost and marginal revenue intersect at the same quantity `q*`. This leads to an increase in profit as the cost per unit shifts from `c*` to `c′` while price `p*` and quantity `q*` remain the same. 
 
 In contrast, Example 2 depicts the effect of lower variable costs. Lower variable costs flatten the ATC curve and shift the intersection of marginal cost and marginal revenue. The firm can maximize profit by lowering its price to `p′` and increasing production to `q′`. The firm creates value for price-conscious customers by attracting them to the market, and if no rivals in the industry provide products at this lower price, then the firm solely captures the value. Existing customers also capture more value as consumer surplus because the price is lower.
+
+![Figure 6. Introduction of lower costs](../img/micro-fig-6.png#small)
 
 To capture value from a lower ATC, firms must maintain their low-cost advantage over rivals. If a firm lowers its ATC but rivals are able to copy the firm’s lower costs, then market competition will shift the firm’s demand curve left and any profits will disappear. The benefits of the lower ATC will be captured by customers. In contrast, if the firm introduces cost savings into its operations that are difficult to imitate, then rivals will not be able to lower their prices without incurring losses. Thus, the firm’s demand curve is insulated from additional shifts if others cannot match the firm’s costs.
 
