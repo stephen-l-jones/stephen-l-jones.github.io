@@ -9,3 +9,5 @@ The revenue potential for Netflix is huge. The [global gaming market](https://do
 Yet, there are real risks with entering the market. Cloud gaming, which doesn't require a gaming device or game download, has its [own technical challenges](https://www.wsj.com/articles/the-trickybut-potentially-lucrativetask-of-streaming-videogames-1541673000). And Disney and Google have already [tried to enter the market and failed](https://www.latimes.com/entertainment-arts/story/2022-10-24/lat-et-ct-netfllix-games). Plus, dominant players like Microsoft and Sony are already building out their Xbox Game Pass and PlayStation Plus services, respectively.
 
 Should Netflix enter cloud gaming? Why or why not?
+
+---

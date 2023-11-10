@@ -80,3 +80,5 @@ Political leaders also have legitimizing and ostracizing power that can affect f
 
 ### Using macroenvironmental analysis
 Like Porter’s Five Forces, macroenvironmental analysis helps inform decisions in each strategy component. Demand trends, driven by macroeconomic or demographic changes, help inform operations and competitor strategies. Ecological trends influence operations strategies. Societal changes inform customer and product strategies. Political and legal conditions influence partner strategies. And technological discontinuities can completely upend a firm’s business and require radically reconfigured strategy components (or an entirely new business). Firms that study the macroenvironment can see trends and can create proactive strategies to adjust to the changing environment before it affects their business.
+
+---
