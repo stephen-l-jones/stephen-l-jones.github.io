@@ -20,7 +20,7 @@
 <style>
 	.page-card-grid {
 		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+		grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
 		grid-gap: 12px;
 		padding: 0;
 		margin: 12px 0;

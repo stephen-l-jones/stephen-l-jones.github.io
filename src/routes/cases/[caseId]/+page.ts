@@ -8,7 +8,7 @@ export const load: PageLoad = async ({ params, parent }) => {
     let navPages = (await parent()).navPages;
     let navPage = navPages.find(navPage => navPage.slug === params.caseId) || emptyNavPage;
 
-    if (pageSources.length > 0) {
+    if (pageSources.length > 0 || !!navPage.slug) {
         return {
             pageSources: pageSources,
             navPage: navPage
