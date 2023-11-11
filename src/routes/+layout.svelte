@@ -25,6 +25,7 @@
 		--hover-color: #eeeeee;
 		--border-color: #dddddd;
 	}
+
 	* {
 		font-family: var(--font-family-san-serif);
 		line-height: 1.5;
