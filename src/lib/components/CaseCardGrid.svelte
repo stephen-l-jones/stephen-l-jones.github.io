@@ -13,7 +13,7 @@
 
 <ul role="list" class="case-card-grid">
 	<PageCard navPage={scenario} pageType="scenario" includeSubtitle={true} borderColor="#666666" />
-	{#each sources as source}
+	{#each sources as source (source.href)}
 		<SourceCard {source} />
 	{/each}
 </ul>

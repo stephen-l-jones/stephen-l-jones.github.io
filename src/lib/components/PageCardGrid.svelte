@@ -4,7 +4,7 @@
 </script>
 
 <ul role="list" class="page-card-grid">
-	{#each pages as navPage}
+	{#each pages as navPage (navPage.slug)}
 		<PageCard
 			{navPage}
 			pageType={navPage.folder === 'articles'

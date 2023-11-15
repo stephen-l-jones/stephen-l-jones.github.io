@@ -13,7 +13,7 @@
 	}
 </script>
 
-<Card href={source.href} target="_blank" {borderColor}>
+<Card href={source.href} target="_blank" {borderColor} cardId="{source.slug} {source.href}">
 	<img
 		class="source-card-image"
 		src={(source.iref.match('^(http|data)') !== null ? '' : base + '/img/') + source.iref}
