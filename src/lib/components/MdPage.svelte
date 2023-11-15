@@ -41,6 +41,7 @@
 		justify-content: center;
 	}
 	:global(.markdown-styling) {
+		padding: 18px 0 0 0;
 		font-family: var(--font-family-serif);
 		font-size: 1.1rem;
 		color: var(--font-color);
