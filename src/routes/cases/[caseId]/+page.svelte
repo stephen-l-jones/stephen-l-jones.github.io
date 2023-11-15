@@ -64,6 +64,8 @@
 <style>
 	.button-row {
 		white-space: nowrap;
+		overflow-y: hidden;
+		overflow-x: auto;
 		display: flex;
 		flex-direction: row;
 		flex-wrap: nowrap;
