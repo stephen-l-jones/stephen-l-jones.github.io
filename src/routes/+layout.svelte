@@ -36,11 +36,11 @@
 		flex-direction: column;
 	}
 	nav {
-		padding: 6px 8px;
+		padding: 0px 8px;
 	}
 	main {
 		flex-grow: 1;
-		padding: 6px 8px;
+		padding: 0 8px 8px 8px;
 	}
 
 	ul {
