@@ -66,7 +66,7 @@
 		flex-direction: row;
 		flex-wrap: nowrap;
 		padding: 0 0 6px 0;
-		margin: 6px 0;
+		margin: 0 0 6px 0;
 	}
 	.clear-button {
 		font-size: 1.4rem;

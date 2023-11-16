@@ -63,7 +63,7 @@
 	nav {
 		float: left;
 		overflow: hidden;
-		padding: 16px 8px;
+		padding: 16px 8px 8px 8px;
 		font-weight: 600;
 	}
 	nav a {
