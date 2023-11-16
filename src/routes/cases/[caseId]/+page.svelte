@@ -52,11 +52,7 @@
 	{#each relevantTags as tagName}
 		<TagButton tag={tagName} filterOn={tagFilter.has(tagName)} on:click={tagClicked} />&nbsp;
 	{/each}
-	<button
-		on:click={clearTags}
-		style="font-size: 1.4rem; border: 0; background-color: white; cursor:pointer; padding: 1px 4px;"
-		>×</button
-	>
+	<button on:click={clearTags} class="clear-button">×</button>
 </div>
 
 <CaseCardGrid sources={pageSources} navPage={data.navPage} />
@@ -71,5 +67,14 @@
 		flex-wrap: nowrap;
 		padding: 0 0 6px 0;
 		margin: 6px 0;
+	}
+	.clear-button {
+		font-size: 1.4rem;
+		border: 0;
+		cursor: pointer;
+		padding: 1px 4px;
+	}
+	.clear-button:hover {
+		background-color: var(--background-color);
 	}
 </style>

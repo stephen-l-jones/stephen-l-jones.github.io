@@ -42,7 +42,7 @@
 	}
 	:global(.markdown-styling) {
 		padding: 18px 0 0 0;
-		font-family: var(--font-family-serif);
+		font-family: var(--markdown-font);
 		font-size: 1.1rem;
 		color: var(--font-color);
 	}
@@ -62,21 +62,21 @@
 		margin: 1.3rem 0 0.3rem 0;
 	}
 	:global(.markdown-styling h4) {
-		font-family: var(--font-family-san-serif);
+		font-family: var(--body-font);
 		font-size: 1.1rem;
 		font-weight: normal;
 		color: var(--font-color);
 		margin: 0.5rem 0;
 	}
 	:global(.markdown-styling h5) {
-		font-family: var(--font-family-san-serif);
+		font-family: var(--body-font);
 		font-size: 1.1rem;
 		font-weight: 600;
 		color: var(--font-color);
 		margin: 0;
 	}
 	:global(.markdown-styling h6) {
-		font-family: var(--font-family-san-serif);
+		font-family: var(--body-font);
 		font-size: 1rem;
 		font-weight: 300;
 		color: var(--font-color);
@@ -87,27 +87,24 @@
 	}
 
 	:global(.markdown-styling a) {
-		color: #0959da;
+		color: var(--md-a-color);
 		text-decoration: none;
 	}
 	:global(.markdown-styling a):hover {
 		text-decoration: underline;
 	}
-	:global(.markdown-styling a):link {
-		color: rgb(9, 89, 218);
-	}
 	:global(.markdown-styling a):visited {
-		color: rgb(9, 89, 218);
+		color: var(--md-a-color);
 	}
 	:global(.markdown-styling .endnote) {
 		font-size: 1rem;
 	}
 	:global(code) {
 		font-size: 1.05rem;
-		background-color: #f2f2f2;
+		background-color: var(--md-code-background-color);
 	}
 	:global(.markdown-figure) {
-		font-family: var(--font-family-san-serif);
+		font-family: var(--body-font);
 		margin: 1.2rem 0;
 	}
 </style>

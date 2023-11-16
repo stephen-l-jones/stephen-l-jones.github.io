@@ -2,7 +2,7 @@
 	import { base } from '$app/paths';
 	import Card from './Card.svelte';
 	export let source: Source;
-	export let borderColor = '#d5d7db';
+	export let cardCategory = 'source';
 
 	function dateShortFormat(date: Date, options: Intl.DateTimeFormatOptions[]) {
 		function format(option: Intl.DateTimeFormatOptions) {
@@ -13,7 +13,7 @@
 	}
 </script>
 
-<Card href={source.href} target="_blank" {borderColor} cardId="{source.slug} {source.href}">
+<Card href={source.href} target="_blank" {cardCategory} cardId="{source.slug} {source.href}">
 	<img
 		class="source-card-image"
 		src={(source.iref.match('^(http|data)') !== null ? '' : base + '/img/') + source.iref}
@@ -44,9 +44,9 @@
 	.source-card-content {
 		display: flex;
 		flex-direction: column;
+		flex-grow: 1;
 		margin: 0;
 		padding: 12px 20px 20px 20px;
-		flex-grow: 1;
 	}
 	.source-media {
 		font-size: 0.7rem;

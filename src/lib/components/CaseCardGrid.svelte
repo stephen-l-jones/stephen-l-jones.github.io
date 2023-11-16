@@ -12,7 +12,7 @@
 </script>
 
 <ul role="list" class="case-card-grid">
-	<PageCard navPage={scenario} pageType="scenario" includeSubtitle={true} borderColor="#666666" />
+	<PageCard navPage={scenario} cardCategory="scenario" includeSubtitle={true} />
 	{#each sources as source (source.href)}
 		<SourceCard {source} />
 	{/each}
@@ -22,8 +22,8 @@
 	.case-card-grid {
 		display: grid;
 		grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-		grid-gap: 12px;
+		grid-gap: 8px;
 		padding: 0;
-		margin: 12px 0;
+		margin: 0;
 	}
 </style>

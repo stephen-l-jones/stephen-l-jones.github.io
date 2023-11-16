@@ -41,5 +41,6 @@
 <style>
 	img {
 		width: 100%;
+		background-color: white;
 	}
 </style>

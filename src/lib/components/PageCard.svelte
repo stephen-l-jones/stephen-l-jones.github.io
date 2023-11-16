@@ -3,21 +3,20 @@
 	import Card from './Card.svelte';
 
 	export let navPage: NavPage;
-	export let pageType: string;
 	export let includeSubtitle = false;
-	export let borderColor = '#d5d7db';
+	export let cardCategory = '';
 
 	let href: string = navPage.folder.concat(navPage.folder === '' ? '' : '/', navPage.slug);
 </script>
 
-<Card {href} target="_self" {borderColor}>
+<Card {href} target="_self" {cardCategory}>
 	<img
 		class="page-card-image"
 		src={(navPage.iref.match('^(http|data)') !== null ? '' : base + '/img/') + navPage.iref}
 		alt="card"
 	/>
 	<div class="page-card-content">
-		<p class="page-type">{pageType.toLocaleUpperCase()}</p>
+		<p class="page-type">{cardCategory.toLocaleUpperCase()}</p>
 		<p class="page-title">{navPage.title}</p>
 		{#if includeSubtitle}
 			<p class="page-subtitle">{navPage.subtitle}</p>
