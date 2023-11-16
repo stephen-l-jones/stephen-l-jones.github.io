@@ -54,13 +54,13 @@
 		overflow: hidden;
 	}
 	.card.dark {
-		border: 1px solid #515357;
+		border: 1px solid #75787e;
 	}
 	.card.dark.scenario {
 		border: 1px solid #d5d7db;
 	}
 	.card.light.scenario {
-		border: 1px solid #515357;
+		border: 1px solid #75787e;
 	}
 	a {
 		display: flex;
