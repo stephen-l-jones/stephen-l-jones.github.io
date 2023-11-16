@@ -32,8 +32,8 @@
 >
 	<nav>
 		<a href="{base}/">Home</a>
-		<a href="{base}/cases">Cases</a>
 		<a href="{base}/articles">Articles</a>
+		<a href="{base}/cases">Cases</a>
 		<div class="toggle-button">
 			<label class="toggle-theme" for="checkbox">
 				<input type="checkbox" id="checkbox" bind:checked={$darkStore} />

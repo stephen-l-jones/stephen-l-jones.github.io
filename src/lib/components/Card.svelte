@@ -51,6 +51,7 @@
 		border-radius: 8px;
 		box-shadow: 2px 2px 20px -7px #00000022;
 		display: flex;
+		flex-grow: 1;
 		overflow: hidden;
 	}
 	.card.dark {
@@ -73,6 +74,9 @@
 	}
 
 	a > div {
+		display: flex;
+		flex-direction: column;
+		flex-grow: 1;
 		-webkit-mask-image: none;
 		mask-image: none;
 	}
