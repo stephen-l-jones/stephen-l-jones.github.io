@@ -90,7 +90,7 @@
 
 	a > .visited {
 		-webkit-mask-image: linear-gradient(-45deg, black, black, transparent);
-		mask-image: linear-gradient(-30deg, black, black, transparent);
+		mask-image: linear-gradient(-45deg, black, black, transparent);
 	}
 
 	.check {
