@@ -4,12 +4,23 @@
 	export let source: Source;
 	export let cardCategory = 'source';
 
-	function dateShortFormat(date: Date, options: Intl.DateTimeFormatOptions[]) {
-		function format(option: Intl.DateTimeFormatOptions) {
-			let formatter = new Intl.DateTimeFormat('en', option);
-			return formatter.format(date);
-		}
-		return options.map(format).join(' ');
+	function formatFragment(date: Date, options: Intl.DateTimeFormatOptions) {
+		const formatter = new Intl.DateTimeFormat('en', {
+			timeZone: 'UTC',
+			...options
+		});
+
+		return formatter.format(date);
+	}
+
+	function dateShortFormat(date: Date) {
+		const options: Intl.DateTimeFormatOptions[] = [
+			{ day: 'numeric' },
+			{ month: 'short' },
+			{ year: 'numeric' }
+		];
+
+		return options.map((options) => formatFragment(date, options)).join(' ');
 	}
 </script>
 
@@ -28,7 +39,7 @@
 			<em>{source.publisher}</em>
 		</p>
 		<p class="source-date">
-			{dateShortFormat(source.date, [{ day: 'numeric' }, { month: 'short' }, { year: 'numeric' }])}
+			{dateShortFormat(source.date)}
 		</p>
 		<div style="flex-grow: 1" />
 		<p class="source-tags">{source.tags.join(' • ')}</p>
