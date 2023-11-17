@@ -29,6 +29,7 @@
 	style:--active-hover-color={$darkStore ? '#6e6e6e' : '#cccccc'}
 	style:--md-a-color={$darkStore ? '#73a1eb' : '#0959da'}
 	style:--md-code-background-color={$darkStore ? '#3b3b3b' : '#eeeeee'}
+	style:--font-color-lighter={$darkStore ? '#bbbbbb' : '#666666'}
 >
 	<nav>
 		<a href="{base}/">Home</a>

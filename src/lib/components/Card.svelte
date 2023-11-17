@@ -30,6 +30,11 @@
 	function cardClicked() {
 		visited = storeCardVisit();
 	}
+
+	function clearVisited() {
+		localStorage.removeItem(cardId);
+		visited = false;
+	}
 </script>
 
 <div class="card {$darkStore ? 'dark' : 'light'} {cardCategory}">
@@ -37,10 +42,12 @@
 		<div class:visited>
 			<slot />
 		</div>
-		{#if visited}
-			<img alt="visited" class="check" src="/img/{$darkStore ? 'check-dark.webp' : 'check.webp'}" />
-		{/if}
 	</a>
+	{#if visited}
+		<button class="check" on:click={clearVisited}>✔</button>
+		<!-- < class="check">✔</span> -->
+		<!-- <img alt="visited" class="check" src="/img/{$darkStore ? 'check-dark.webp' : 'check.webp'}" /> -->
+	{/if}
 </div>
 
 <style>
@@ -82,13 +89,18 @@
 	}
 
 	a > .visited {
-		-webkit-mask-image: linear-gradient(-30deg, black, black, transparent);
+		-webkit-mask-image: linear-gradient(-45deg, black, black, transparent);
 		mask-image: linear-gradient(-30deg, black, black, transparent);
 	}
 
 	.check {
 		position: absolute;
-		top: 5px;
-		left: 5px;
+		color: var(--font-color-lighter);
+		font-size: 1.5rem;
+		left: 10px;
+		border: 0;
+		padding: 0;
+		margin: 0;
+		background-color: #00000000;
 	}
 </style>
