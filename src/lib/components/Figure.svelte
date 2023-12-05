@@ -17,7 +17,6 @@
 	$: if (img) {
 		img.addEventListener('load', () => {
 			width = img.naturalWidth;
-			console.log(width);
 		});
 	}
 </script>
