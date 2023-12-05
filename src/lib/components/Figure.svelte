@@ -17,13 +17,14 @@
 	$: if (img) {
 		img.addEventListener('load', () => {
 			width = img.naturalWidth;
+			console.log(width);
 		});
 	}
 </script>
 
 <div
 	class="markdown-figure"
-	style="margin-left: calc(50% - min(calc(100vw - 40px), {width}px)/2); width: max(min(calc(100vw - 40px), {width}px), {markdownWidth.min}px)"
+	style="margin-left: calc(50% - (.5 * min(calc(100vw - 40px), {width}px))); width: max(min(calc(100vw - 40px), {width}px), {markdownWidth.min}px)"
 >
 	<figure style="margin: 1em 0;">
 		<figcaption>{text}</figcaption>
