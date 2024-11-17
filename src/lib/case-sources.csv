@@ -314,14 +314,14 @@ true-classic,advertisement,Dad's Intervention by TRUE CLASSIC,2024-06-01,True Cl
 hoka-strategy,article,The Ugly Shoes Now Worth Billions of Dollars,2023-06-22,The Wall Street Journal,https://www.wsj.com/style/fashion/hoka-shoes-running-deckers-ugly-sneakers-832ba4fb,https://images.wsj.net/im-804141/?size=1&width=2500,,1,,1,,,
 hoka-strategy,article,Shoppers Want Uggs and Hokas. The Brands Are Boosting Growth for Their Owner.,2024-02-22,The Wall Street Journal,https://www.wsj.com/articles/shoppers-want-uggs-and-hokas-the-brands-are-boosting-growth-for-their-owner-59aa1e3a,https://images.wsj.net/im-928590?width=700&size=1.5&pixel_ratio=1.5,,1,1,1,,,
 hoka-strategy,article,Altra vs Hoka: Discover Which Shoe Is Right for You,2023-09-12,Outdoor Life,https://www.outdoorlife.com/gear/altra-vs-hoka/,https://www.outdoorlife.com/wp-content/uploads/2023/09/12/altra-vs-hoka.jpg,,1,,,,1,
-hoka-strategy,advertisement,Fly Human fly,2024-07-01,Hoka,https://www.youtube.com/watch?v=QI0NAKTLJjI,,,1,,,,,
-hoka-strategy,advertisement,Hoka Athlete Series: Anne Reischmann,2024-09-15,Hoka,https://www.youtube.com/watch?v=7HE-PIj7sPU,,,1,,,,,
-hoka-strategy,advertisement,2024 Leadville 100: JP Giblin x Altra Running,2024-08-27,Altra Running,https://www.youtube.com/watch?v=1BCTSGqWVfg,,,,,,,1,
-hoka-strategy,advertisement,Run Without Rules: Altra Running,2022-04-25,Altra Running,https://www.youtube.com/watch?v=KWazTzQG_b8,,,,,,,1,
-hoka-strategy,advertisement,Sunshine,2024-09-10,Nike,https://www.youtube.com/watch?v=qvFnf2EEd20,,,,,,,1,
-hoka-strategy,advertisement,Dream Together with Zendaya,2024-06-06,On,https://www.youtube.com/watch?v=RtsK3HgZYBQ,,,,,,,1,
-hoka-strategy,advertisement,All Black Project,2016-08-03,On,https://www.youtube.com/watch?v=3_4rvm9H6kU,,,,,,,1,
-hoka-strategy,advertisement,Run Together New York,2023-10-03,On,https://www.youtube.com/watch?v=UgHCzJRmRcE,,,,,,,1,
+hoka-strategy,advertisement,Fly Human fly,2024-07-01,Hoka,https://www.youtube.com/watch?v=QI0NAKTLJjI,hoka-fly-human-fly.jpg,,1,,,,,
+hoka-strategy,advertisement,Hoka Athlete Series: Anne Reischmann,2024-09-15,Hoka,https://www.youtube.com/watch?v=7HE-PIj7sPU,hoka-anne-reischmann.jpg,,1,,,,,
+hoka-strategy,advertisement,2024 Leadville 100: JP Giblin x Altra Running,2024-08-27,Altra Running,https://www.youtube.com/watch?v=1BCTSGqWVfg,altra-2024-leadville-100.jpg,,,,,,1,
+hoka-strategy,advertisement,Run Without Rules: Altra Running,2022-04-25,Altra Running,https://www.youtube.com/watch?v=KWazTzQG_b8,altra-run-without-rules.jpg,,,,,,1,
+hoka-strategy,advertisement,Sunshine,2024-09-10,Nike,https://www.youtube.com/watch?v=qvFnf2EEd20,nike-sunshine.jpg,,,,,,1,
+hoka-strategy,advertisement,Dream Together with Zendaya,2024-06-06,On,https://www.youtube.com/watch?v=RtsK3HgZYBQ,on-dream-together-with-zendaya.jpg,,,,,,1,
+hoka-strategy,advertisement,All Black Project,2016-08-03,On,https://www.youtube.com/watch?v=3_4rvm9H6kU,on-all-black-project.jpg,,,,,,1,
+hoka-strategy,advertisement,Run Together New York,2023-10-03,On,https://www.youtube.com/watch?v=UgHCzJRmRcE,on-run-together-new-york.jpg,,,,,,1,
 hoka-strategy,article,"Made in Three Minutes, Feels Like a Sock: Are Spray-On Sneakers the Future?",2024-11-02,The Wall Street Journal,https://www.wsj.com/business/retail/on-running-lightspray-sneakers-2dd6b97f,https://images.wsj.net/im-29286028?size=1&height=900,,,,,,1,
 hoka-strategy,article,How On’s Running Sneakers Won Over Tech Bros and High Fashion Alike,2022-03-30,The Wall Street Journal,https://www.wsj.com/articles/on-running-sneakers-cloudmonster-11648642860,https://images.wsj.net/im-514426?width=700&size=1.7777777777777777,,,,,,1,
 hoka-strategy,article,How Nike Missed the Boom in Running Culture,2024-06-27,The Wall Street Journal,https://www.wsj.com/business/nike-running-sneakers-competition-1d735fc8,https://images.wsj.net/im-972965/?size=1.5003750937734&width=2500,1,,,,,1,1
@@ -335,4 +335,4 @@ hoka-strategy,article,Inside the race to make the world’s fastest running shoe
 hoka-strategy,article,The fast and the curious: the rise of the running club,2022-01-05,Financial Times,https://www.ft.com/content/9a777a67-8d8e-40c5-a03b-286ceab99aa7,https://www.ft.com/__origami/service/image/v2/images/raw/ftcms%3Af8612503-def9-4cb3-abf7-e51c29cf925e?source=next-article&fit=scale-down&quality=highest&width=1440&dpr=1,1,,,,,,1
 hoka-strategy,spreadsheet,Deckers Outdoor (DECK) Financials,2024-11-14,"Stephen Jones, Ph.D.",https://docs.google.com/spreadsheets/d/1AFNwU3jlrIJ2gCETY-JlrvENOiulZF_cU_a4bdBa8q4/edit?gid=902636042#gid=902636042,google-sheets-2020-logo.gif,,,1,,,,
 hoka-strategy,article,The Clown Shoe That’s Changing Minimalist Running,2013-12-03,Outside Interactive,https://www.outsideonline.com/outdoor-gear/run/clown-shoe-thats-changing-minimalist-running/,https://cdn.outsideonline.com/wp-content/uploads/migrated-images_parent/migrated-images_59/hoka-one-one-shoe-running-history_fe.jpg?crop=16:9&width=960&enable=upscale&quality=100,,1,,,,,1
-hoka-strategy,article,The Re-emergence of the Minimal Running Shoe,2014-09-30,Journal of Orthopaedic & Sports Physical Therapy,https://www.jospt.org/doi/10.2519/jospt.2014.5521,https://www.jospt.org/cms/10.2519/jospt.2014.5521/asset/images/medium/jospt-775-fig001.jpg,,,,,,,1
+hoka-strategy,article,The Re-emergence of the Minimal Running Shoe,2014-09-30,Journal of Orthopaedic & Sports Physical Therapy,https://www.jospt.org/doi/10.2519/jospt.2014.5521,minimal-running-shoe.jpg,,,,,,,1
