@@ -4,6 +4,6 @@
 
 Technology, engineering, and regulatory hurdles remain, but as they are overcome, Wisk's dream will become reality. It is hoping to have its service available in Australia [in time for the 2032 Olympics](https://finance.yahoo.com/news/wisk-partners-airservices-australia-incorporate-210000920.html). 
 
-The potential of autonomous eVTOL air taxis is exciting, but what is the potential for this new market? Specifically, what is the estimated market size once the current hurdles are overcome? And is Wisk poised to be the leader in it?
+The possibility of autonomous eVTOL air taxis is exciting, but what is the commercial potential for this new market? Specifically, what is the estimated market size once the current hurdles are overcome? And is Wisk poised to be the leader in it?
 
 ---
