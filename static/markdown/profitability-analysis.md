@@ -140,7 +140,7 @@ Capital turnover uses the same denominator as ROIC, but the numerator is sales i
 ### Relationship with return on invested capital
 The combination of return on sales and capital turnover has a direct mathematical relationship with ROIC:
 ```
-ROIC_t = \frac{return\ on\ sales_t}{capital\ turnover_t}
+ROIC_t = return\ on\ sales_t \times capital\ turnover_t
 ```
 Expanding the return on sales and capital turnover ratios shows why this relationship holds. Multiplying the two produces the original ROIC calculation:
 ```
