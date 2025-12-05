@@ -55,7 +55,7 @@ Plot 3 shows average profits per thneed. Profit is greatest when the production 
 
 ## Value creation
 ### Customer value
-To understand value creation, we first need to define customer value in an industry. _Customer value_ is the aggregate value that customers assign to an industry’s products.[^2] It is determined by customers’ willingness to pay, which is always relative to some alternative: a less-preferred product in the same industry, a substitute product from a separate industry, or simply no purchase at all. For our definition of customer value, only the latter two alternatives apply. 
+To understand value creation, we first need to define customer value in an industry. Customer value is the aggregate value that customers assign to an industry’s products.[^2] It is determined by customers’ willingness to pay, which is always relative to some alternative: a less-preferred product in the same industry, a substitute product from a separate industry, or simply no purchase at all. For our definition of customer value, only the latter two alternatives apply. 
 
 To explain why, consider a passenger (we’ll call her Kara) who wants to fly to Las Vegas for vacation. Kara’s willingness to pay is the price at which, if fares rise any higher, she will not purchase a ticket from _any_ airline, choosing either to buy a substitute product (such as a bus ticket) or nothing at all (forgoing the trip). This is the price at which Kara is indifferent about sticking with or leaving the industry and defines the value she derives (for flights to Las Vegas). 
 
