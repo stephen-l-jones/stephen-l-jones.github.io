@@ -1,12 +1,12 @@
 ##### By Stephen Jones, Ph.D.
 ###### Updated January 2026
 
-FIRMS REACH superior performance in different ways. Beneath those differences lie five recurring economic logics, which I call _strategic avenues_. Each leads to higher profits differently⁠—by reshaping value, price, cost, or sales volume. Leaders who understand these avenues can craft better strategy. 
+FIRMS REACH superior performance in different ways. Beneath those differences lie five recurring economic logics, which I call _strategic avenues_. Each leads to higher profits differently. Leaders who understand these avenues can craft better strategy. 
 
-## Value composition diagrams
-Value composition diagrams show how strategic avenues affect value, price, cost, and sales. They reveal each avenue’s economic logic, showing how profit rises through higher margins or greater unit sales. 
+## Value composition
+Customer value, price, cost, and sales define the composition of value⁠—how value is created and divided by a firm. A strategic avenue uniquely affects value composition, which is articulated using value composition diagramming.
 
-A value composition diagram uses simple stacked bars to depict value creation and value capture.[^1] It is based on a firm’s demand and cost curves, as shown in Figure 1. Panel A recreates Figure 4 from [_Value Creation and Value Capture_](./value-creation-and-value-capture), which depicts a monopoly. The blue area represents consumer surplus captured by customers. The green area represents profit captured by the monopolist. And the red area represents value captured by others in the value chain, such as suppliers and employees. The value in Panel A is represented by the first stacked bar of panel B, before rivals enter the market. The height of the bar at `V` represents the average customer value per unit, or simply “unit value.” The height at `P` represents the average price of the product. And the height at `C` represents the average total cost per unit, or “unit cost.” The width of the bar represents the quantity demanded, or “unit sales.” `V − P` is the average consumer surplus per unit, and `P − C` is the firm’s average profit per unit, or “unit margin.” Like panel A, the blue, green, and red areas in panel B represent value captured by the customer, firm, and value chain, respectively. 
+A value composition diagram is a conceptual tool that uses simple stacked bars to compare differences in value creation and capture.[^1] It is based on a firm’s demand and cost curves, as shown in Figure 1. Panel A recreates Figure 4 from [_Value Creation and Value Capture_](./value-creation-and-value-capture), which depicts a monopoly. The blue area represents consumer surplus captured by customers. The green area represents profit captured by the monopolist. And the red area represents value captured by others in the value chain, such as suppliers and employees. The value in Panel A is represented by the first stacked bar of panel B, before rivals enter the market. The height of the bar at `V` represents the average customer value per unit, or simply “unit value.” The height at `P` represents the average price of the product. And the height at `C` represents the average total cost per unit, or “unit cost.” The width of the bar represents the quantity demanded, or “unit sales.” `V − P` is the average consumer surplus per unit, and `P − C` is the firm’s average profit per unit, or “unit margin.” Like panel A, the blue, green, and red areas in panel B represent value captured by the customer, firm, and value chain, respectively. 
 
 ![Figure 1. Diagramming new rival entry](../img/value-composition.png#small)
 
@@ -20,12 +20,12 @@ Southwest created less value per ticket than Delta or American (depicted by its 
 
 Panel B shows that Delta’s value composition changed over time. Delta sold far fewer tickets in 2021 than 2018 as it dealt with the effects of the Covid pandemic, including the loss of business travelers. But ticket sales rebounded by 2024. The value per ticket increased in 2024 due to Delta’s investment in premium lounges, more comfortable seats, and free Wifi (as well as general inflation). Its profit per ticket recovered too, nearly matching 2018.
 
-## Strategic avenues
+### Profit constraints
 Raising prices, lowering unit costs, and growing unit sales are the three levers for increasing profits. But industry and organization constraints can make them hard to use. Prices and unit sales are constrained by customers’ willingness to pay and industry rivalry. And unit costs cannot be lowered unless amenable value chains and opportunities for efficiency exist. 
 
 Each strategic avenue tackles these constraints differently⁠—either by easing them or by exploiting them more effectively.
 
-### 1. Pricing avenue
+## 1. Pricing avenue
 Pricing can be implemented quickly. It requires no new products or markets and works within existing demand and cost constraints.
 
 Firms regularly update their prices to maximize profit. Changes in customer preferences and competitors’ actions cause demand to fluctuate and shift, so firms must monitor customers’ willingness to pay to keep up. They do so by reviewing recent sales, benchmarking against competitors, and testing different prices in the market. For example, Procter & Gamble, maker of Tide, might set two prices for its detergent⁠—one a dollar higher than the other⁠—in a random sample of cities. By observing the prices’ effects on sales for several weeks, P&G can zero in on Tide’s demand curve. P&G’s smaller rivals may not use such A/B tests, choosing instead to follow P&G’s pricing leadership.
@@ -54,7 +54,7 @@ As startups mature and venture funding ends, they begin pricing like traditional
 
 Overall, pricing strategies are limited. They create no new value, reduce no costs, and are easily copied. But they are easy to change. And when firms precisely estimate willingness to pay, pricing becomes a powerful tool for capturing surplus.
 
-### 2. Value-creation avenue
+## 2. Value-creation avenue
 While pricing works within existing constraints, value creation seeks to change them. Value creation increases customer value and differentiate products from their rivals. It focuses on strengthening brands, improving existing products, or developing new products. For example, during the first decade of the 21st century, [Burberry](http://us.burberry.com) fell behind other luxury brands. The classic British maker of trench coats had lost its focus. But in 2006, its new CEO, [Angela Ahrendts](https://hbr.org/2013/01/burberrys-ceo-on-turning-an-aging-british-icon-into-a-global-luxury-brand), and her team began a turnaround, bringing new luster. They centralized and refocused design around Burberry’s iconic trench coat, targeted a new generation of millennials, and [brought the brand’s messaging into the digital age](https://www.youtube.com/watch?v=krQG2Hceov4). Over the next eight years, the brand’s revenues tripled and profits doubled.
 
 Nike, which has long dominated the athletic apparel and footware industry, uses innovation, design, and marketing to create distinct brand value. It spends heavily on advertising and sponsorships (which it calls demand creation) to tell its story and connect with consumers. Nike’s long-running [“Just Do It” campaign](https://www.youtube.com/watch?v=0yO7xLAGugQ) broadcasts its brand ethos. Nike’s [Innovation Kitchen](https://www.wired.com/2016/09/nike-self-lacing-design-hyperadapt/) (its R&D hub) creates new technologies and designs, which includes the Vaporfly running shoe, worn by Nike athlete Eliud Kipchoge when he (unofficially) broke the two-hour marathon barrier. Some have even argued the Vaporfly [is too advantageous and should be banned](https://www.inc.com/minda-zetlin/nike-vaporfly-next-unfair-advantage-eliud-kipchoge-marathon-2-hour-record.html). 
@@ -71,7 +71,7 @@ Thus, value creation can increase profit by increasing unit margin (panel A) or 
 
 Value-creation strategies are often praised, and rightly so⁠—but they carry risks. First, product development can lead to a type of R&D arms race with rivals. If rivals rapidly develop new product iterations, a firm may not have sufficient time to recoup its development costs for an existing product before the next version needs to enter the market. Second, product development includes demand uncertainty risks. Firms risk losing their initial investment if demand does not materialize. Third, if an innovative product is easy to copy, then market competition will let customers capture the newly created value. Thus, firms that pursue value creation must also consider whether they can construct barriers to imitation.
 
-### 3. Efficiency avenue
+## 3. Efficiency avenue
 Where value creation raises willingness to pay, efficiency attacks costs by pushing down the average cost curve. Firms commonly gain efficiencies through: 
 - Process innovation
 - Fiscal discipline
@@ -90,7 +90,7 @@ Efficiency strategies can lower fixed or variable costs, which increase profit i
 
 Efficiency strategies are common, but firms must be careful not to destroy customer value when implementing them. The quest for lower costs can have unintended consequences on brand reputation or product quality, which can be tragic at times. For example, two Boeing 737 MAX planes crashed in Indonesia and Ethopia, killing all 346 people aboard. A postmortem revealed that years of prioritizing cost and schedule impeded Boeing’s traditional emphasis on engineering excellence and safety. In this case, a system meant to stabilize the plane malfunctioned, causing the planes to crash soon after takeoff. 
 
-### 4. Market-expansion avenue
+## 4. Market-expansion avenue
 Market expansion emphasizes volume over value or cost by prioritizing customer growth. Entering new geographic markets is a common way. For example, Tesla started exporting its Model S sedan to Europe in 2013, just one year after it was released in the United States. The next year it began exporting China. Sales in Europe and China were strong enough that in 2019, Tesla started building Gigafactories in Berlin and Shanghai. The new plant in China allowed Tesla to price the Model 3 about $12 thousand cheaper than when it was imported from the United States. 
 
 Other U.S. automakers expanded into China earlier than Tesla. [GM entered the Chinese market](https://www.chinabusinessreview.com/general-motors-races-ahead-in-the-china-market/) in 1994 through a joint venture, and China was GM’s largest market in unit sales for over a decade until 2023. Ford entered through a joint venture seven years after GM. The Chinese market attracted these firms because of its explosive growth. China’s GDP grew nearly 10% year over year for two decades after 1994. And Chinese consumers [spent $7.7 trillion in 2024](https://tradingeconomics.com/china/indicators), second only to the United States. But homegrown Chinese rivals like BYD have stolen market share from U.S. and European automakers in China, and they have expanded into Europe, South America, and other Asian countries.
@@ -109,7 +109,7 @@ Market expansion increases profit by increasing unit sales, as shown in Figure 6
 
 Seeking out new country markets, new distribution channels, and new uses for products raises the risk of new competition. Entry into a foreign country can provoke foreign incumbents, which may enter a firm’s home market in response. And entry into a partner’s channel can cause friction. When Nike began opening traditional retail stores beyond its NikeTowns and outlet stores, Foot Locker and other shoe retailers resisted, cancelling their Nike orders. This forced Nike to reassure retail partners that its limited move into retail was not meant to replace them. 
 
-### 5. Rivalry-reduction avenue
+## 5. Rivalry-reduction avenue
 Rivalry reduction is rooted in market power. It attempts to increase leverage over customers and suppliers and keep out new entrants. Reducing competition lets firms raise prices (which shrinks consumer surplus) and bargain down supply costs (which lowers the value captured by suppliers). Thus, rivalry reduction leads to increased profits through higher price and lower unit cost, as Figure 7 illustrates. It doesn’t necessarily change unit value or unit sales.
 
 ![Figure 7. Rivalry reduction](../img/vcd-ave-5.png)
