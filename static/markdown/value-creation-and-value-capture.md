@@ -1,7 +1,7 @@
 ##### By Stephen Jones, Ph.D.
 ###### Updated January 2026
 
-Listen: [Spotify](https://open.spotify.com/episode/3fatVmXqTqggqPiTXcmJEq) | [Apple](https://podcasts.apple.com/us/podcast/value-creation-and-value-capture/id1869704701?i=1000745465328) | [Amazon](https://music.amazon.com/podcasts/5b58c57f-5f7a-490f-a2b3-328342142b26/episodes/9b681ce2-b563-43cc-b527-2a0f58832821/business-strategy-value-creation-and-value-capture)
+###### Listen: [Spotify](https://open.spotify.com/episode/3fatVmXqTqggqPiTXcmJEq) | [Apple](https://podcasts.apple.com/us/podcast/value-creation-and-value-capture/id1869704701?i=1000745465328) | [Amazon](https://music.amazon.com/podcasts/5b58c57f-5f7a-490f-a2b3-328342142b26/episodes/9b681ce2-b563-43cc-b527-2a0f58832821/business-strategy-value-creation-and-value-capture)
 
 INTELLIGENT STRATEGY builds on the principles of value creation and value capture, which are rooted in microeconomics. This article is a primer on these principles. 
 
