@@ -6,9 +6,9 @@
 INTELLIGENT STRATEGY builds on the principles of value creation and value capture, which are rooted in microeconomics. This article is a primer on these principles. 
 
 ## Industries
-Strategy begins with understanding your industry. An industry comprises products or services that serve the same customer need. This means products are _close substitutes_ for each other. In the soft drink industry, an A&W root beer easily substitutes for a Coke or Dr. Pepper, even if a consumer prefers one over the other. And a flight on Frontier Airlines easily substitutes for one on Delta or Alaska, even if the service is worse. 
+Strategy begins with understanding one’s industry. An industry comprises products or services that serve the same customer need. This means products are _close substitutes_ for each other. In the soft drink industry, an A&W root beer easily substitutes for a Coke or Dr. Pepper, even if a consumer prefers one over the other. And a flight on Frontier Airlines easily substitutes for one on Delta or Alaska, even if the service is worse. 
 
-Your industry’s boundary defines your rivals. Sometimes that boundary is hard to define. For instance, should soft drinks include a Starbucks bottled Frappuccino sold at Safeway? Yes⁠—if customers see bottled coffee and a Coke as close substitutes. And if they do, Starbucks and Coke are rivals, at least for their grocery products. 
+An industry’s boundary defines its rivals. Sometimes that boundary is hard to define. For instance, should soft drinks include a Starbucks bottled Frappuccino sold at Safeway? Yes⁠—if customers see bottled coffee and a Coke as close substitutes. And if they do, Starbucks and Coke are rivals, at least for their grocery products. 
 
 Industries sit on a continuum of competitiveness. _Perfectly competitive markets_ are the most competitive. They have many firms selling identical products, and firms are “price takers,” meaning they must accept the market price and cannot influence it. Commodities like sugar or rubber approach perfect competition.
 
