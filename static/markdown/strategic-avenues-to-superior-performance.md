@@ -42,7 +42,7 @@ Alternatively, firms may use a [price discrimination](https://www.khanacademy.or
 
 Figure 3 depicts how price discrimination affects profit. Raising prices for customers who have a higher willingness to pay captures, as profit, value that otherwise would be consumer surplus. This increases unit margin.
 
-![Figure 3. Pricing](../img/vcd-ave-1.png#small)
+![Figure 3. Pricing](../img/vcd-ave-1.png)
 
 Alternatively, price discrimination can increase unit sales. This happens when firms offer a lower price to potential customers with a lower willingness to pay (such as a senior citizen discount at a restaurant) while holding price steady for existing customers.
 
@@ -105,14 +105,14 @@ In the pharmaceutical industry, firms often “repurpose” their existing drugs
 
 Market expansion increases profit by increasing unit sales, as shown in Figure 6. Market expansion doesn’t require higher unit value or lower unit cost, though either may accompany it.
 
-![Figure 6. Market expansion](../img/vcd-ave-4.png#small)
+![Figure 6. Market expansion](../img/vcd-ave-4.png)
 
 Seeking out new country markets, new distribution channels, and new uses for products raises the risk of new competition. Entry into a foreign country can provoke foreign incumbents, which may enter a firm’s home market in response. And entry into a partner’s channel can cause friction. When Nike began opening traditional retail stores beyond its NikeTowns and outlet stores, Foot Locker and other shoe retailers resisted, cancelling their Nike orders. This forced Nike to reassure retail partners that its limited move into retail was not meant to replace them. 
 
 ### 5. Rivalry-reduction avenue
 Rivalry reduction is rooted in market power. It attempts to increase leverage over customers and suppliers and keep out new entrants. Reducing competition lets firms raise prices (which shrinks consumer surplus) and bargain down supply costs (which lowers the value captured by suppliers). Thus, rivalry reduction leads to increased profits through higher price and lower unit cost, as Figure 7 illustrates. It doesn’t necessarily change unit value or unit sales.
 
-![Figure 7. Rivalry reduction](../img/vcd-ave-5.png#small)
+![Figure 7. Rivalry reduction](../img/vcd-ave-5.png)
 
 Firms can limit competition and increase their power through acquisition. For example, the U.S. airline industry experienced a wave of consolidation during the Great Recession and over the next decade. Delta merged with Northwest Airlines in 2008. United merged with Continental two years later. The next year Southwest merged with AirTran, and American merged with US Airways the year after. In 2017, Alaska merged with Virgin America. Concentration in the U.S. domestic market for the top four firms⁠—American, Delta, Southwest, and United⁠—increased from 42% in 2006 to 64% in 2018, according to the Bureau of Transportation Statistics. This lowered rivalry on some routes, making it easier to raise fares.
 
