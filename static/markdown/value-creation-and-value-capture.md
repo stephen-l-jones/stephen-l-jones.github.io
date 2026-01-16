@@ -1,6 +1,8 @@
 ##### By Stephen Jones, Ph.D.
 ###### Updated January 2026
 
+###### Listen: [Spotify](https://spotifycreators-web.app.link/e/MLMP0aOUYZb) | [Apple](https://podcasts.apple.com/us/podcast/value-creation-and-value-capture/id1869704701?i=1000745465328) | [Amazon](https://music.amazon.com/podcasts/5b58c57f-5f7a-490f-a2b3-328342142b26/business-strategy)
+
 INTELLIGENT STRATEGY builds on the principles of value creation and value capture, which are rooted in microeconomics. This article is a primer on these principles. 
 
 ## Industries
@@ -18,14 +20,14 @@ This middle ground includes industries with _monopolistic competition_ and _olig
 
 Competitiveness in [oligopolies](https://en.wikipedia.org/wiki/Oligopoly) is lower than in industries with monopolistic competition. Oligopolies have a limited number of rivals, high barriers to entry, and a high minimum efficient scale, which pushes firms to become big to run efficiently. The U.S. mobile telecom industry is an example. Three companies⁠—Verizon, T-Mobile, and AT&T⁠—held 99% of the market share in 2025. With so few rivals, oligopolists can [tacitly collude](https://www.tutor2u.net/economics/reference/oligopoly-tacit-collusion) to raise prices. Parallel price increases that are uncoordinated are legal in the United States, but they can attract scrutiny by the Federal Trade Commission or Justice Department, which police anticompetitive practices.
 
-## Customer demand
+## Customer demand and firm profit
 Economists and marketers represent customer demand using a demand curve. A demand curve represents customers’ willingness to pay for a product. To illustrate this point, imagine we sell a fictional garment called a “thneed,” from Dr. Seuss’s [_The Lorax_](https://www.youtube.com/watch?v=dNMBVVdrMKo). For simplicity, assume we are a monopolist (we own all known Truffula trees) and can price as we wish. Customers value a thneed differently, so some are willing to pay more than others. 
 
 To create our thneed demand curve, we collected customer data and grouped customers by their willingness to pay, as shown in Figure 1. Four hundred customers will pay $91 for a thneed, another 400 will pay $84 for one, another 400 will pay $77, and so forth. Grouping customers this way reveals the relationship between the price we set and the quantity demanded. No customers will buy a thneed at $100. But 4,000 customers will buy a thneed at $40, and 8,000 customers will buy one at $10.
 
 ![Figure 1. Thneed demand curve](../img/micro-fig-1.png#small)
 
-## Maximizing profit
+### Maximizing profit
 We want to choose a price for our thneed that will maximize economic profit.[^1] (Assume we are not engaged in [price discrimination](https://www.investopedia.com/terms/p/price_discrimination.asp).) Figure 2 illustrates a range of prices and production levels (i.e., quantities) we could choose. The first column shows revenues we could earn. The second column shows costs. And the third column combines revenues and costs to show profits.
 
 Each row presents a slightly different view of revenues, costs, and profits. The first row shows per-unit or average values. The second row shows total values (per-unit values multiplied by the quantity, shown in thousands of dollars). The third row shows marginal or incremental values. Marginal values show how revenue, cost, or profit change when our firm produces one more unit. 
@@ -34,19 +36,19 @@ I have chosen three prices and production levels to analyze: $76 at quantity `q_
 
 ![Figure 2. Thneed revenue, costs, and profits](../img/micro-fig-2.png#small)
 
-### Revenues (plots 1, 4, 7)
+### Revenue (plots 1, 4, 7)
 Plot 1 of Figure 2 repeats the demand curve of Figure 1. The shaded area depicts total revenue at `q^{*}`, which is $49 × 3,200 = $156,800. Plot 4 shows total revenue at various production levels. The total revenue at `q_1` is $94,240. This is lower than total revenue at `q^{*}` because the higher price does not compensate for the lower quantity. At `q_2` total revenue is $120,060, which is lower than at `q^{*}` because the higher quantity does not compensate for the lower price.
 
 Plot 7 shows marginal revenues. The marginal revenue (MR) at `q_1` is $55, meaning a production increase from 1,240 to 1,241 thneeds would add $55 to total revenue. At `q_2` MR is −$26 because the revenue from an extra sale does not offset the revenue lost from the lower price. At `q^{*}` MR is $12. This means producing one more thneed would increase revenue⁠—indeed, producing another 800 thneeds would maximize revenue⁠—but it would not increase profit, as detailed later.
 
-### Costs (plots 2, 5, 8)
+### Cost (plots 2, 5, 8)
 Plot 5 shows total costs. Total costs consist of fixed costs (the gray horizontal line) and variable costs (the gray upward curve). Fixed costs remain stable regardless of production level, at least in the short term. The fixed cost for our thneed business is $22,000. Variable costs increase as more thneeds are produced, but the rate of increase depends on the baseline production level. Increasing production starting at `q_1` increases variable costs slowly. The added production makes labor more efficient and earns us volume discounts on raw materials. But increasing production starting at `q_2` increases variable costs quickly. Management becomes difficult beyond `q_2`, which raises coordination costs. Total costs follow the curvature of variable costs but are shifted higher to account for fixed costs. The total cost at `q^{*}` is $60,800.
 
 Plot 2 depicts average fixed, variable, and total costs per thneed. Because fixed costs are stable, average fixed costs decrease as production increases. Average variable costs drop initially but rise at higher production levels as coordination costs compound. The average total cost (ATC) is the sum of the average fixed and variable cost. ATC is $34 at `q_1` and drops to $19 at `q^{*}` as we gain economies of scale. ATC rises slightly to $20 at `q_2` as we hit diseconomies of scale. The shaded area captures total cost at `q^{*}`, which is $19 × 3,200 = $60,800, the same as in plot 5. 
 
 Plot 8 shows marginal costs, which are driven solely by variable costs. At `q_1` the marginal cost (MC) of increasing production from 1,240 to 1,241 thneeds is $7. At `q^{*}` the MC of producing one more thneed is $12. 
 
-### Profits (plots 3, 6, 9)
+### Profit (plots 3, 6, 9)
 We maximize profit at `q^{*}`, where total revenue less total cost is greatest. This is depicted in plot 6, which combines plots 4 and 5 (total revenues and total costs). At `q^{*}` total revenue is $156,800, total cost is $60,800, and total profit is $156,800 − $60,800 = $96,000. Notice that `q^{*}` is lower than the quantity at which revenue peaks (4,000 thneeds). This is because total revenues level off after `q^{*}` while total costs accelerate, closing the distance between them.
 
 Notice also that in plot 9, MR (blue) equals MC (red) at the profit-maximizing quantity `q^{*}`. In fact, profit is always greatest where MR equals MC. Why? Because marginal revenue and marginal cost represent the slopes of the total revenue and total cost curves (plot 6) at a given production level. When the total revenue curve rises faster than the total cost curve, increasing production expands the distance between total revenue and total cost, which increases profit. But once the cost curve rises faster than the revenue curve, extra production narrows the gap and erodes profit. Thus, profit is greatest when the slopes of the revenue and cost curves match, as shown by the intersection in plot 9 (i.e., when MR = MC).
@@ -78,7 +80,7 @@ New value may be created by forces beyond firms. Changes in macroeconomic condit
 ## Value capture
 Customer value can be captured by anyone in the chain of value creation. This includes customers, firms, suppliers, employees, governments, and others. Value capture is illustrated in Figure 4, which depicts a monopoly market. The monopolist sets the price at `p^{*}` and production quantity to `q^{*}`, where ATC is `c^{*}`. 
 
-The colored areas in Figure 4 represents the total value created and available for capture. Customers capture the blue area. This is called _consumer surplus_. The firm captures the green area as profit. The height of the green area (the difference between `p^{*}` and `c^{*}`) is the firm’s profit per unit. Others in the value chain⁠—including suppliers, employees, governments⁠—capture the red area. From the firm’s perspective, the red area represents explicit costs (e.g., paying suppliers for raw materials) and implicit costs (e.g., the implied rate of return expected by shareholders). 
+The colored areas in Figure 4 represent the total value created and available for capture. Customers capture the blue area. This is called _consumer surplus_. The firm captures the green area as profit. The height of the green area (the difference between `p^{*}` and `c^{*}`) is the firm’s profit per unit. Others in the value chain⁠—including suppliers, employees, and governments⁠—capture the red area. From the firm’s perspective, the red area represents explicit costs (e.g., paying suppliers for raw materials) and implicit costs (e.g., the implied rate of return expected by shareholders). 
 
 ![Figure 4. Value capture](../img/micro-fig-4.png#small)
 
@@ -91,7 +93,7 @@ The consequence of differentiation is illustrated in Figure 5. It shows two exam
 
 ![Figure 5. Introduction of competition](../img/micro-fig-5.png#small)
 
-Although the shifts in demand, price, quantity, and cost all move in the same direction for both examples, the shifts are more severe in Example A. This is because the new entrants’ products are so similar to the monopolist’s. Thus, the monopolist’s demand curve shifts greatly left, potentially until the monopolist earns zero economic profit. But in Example B, the monopolist’s differentiation alleviates the demand curve’s leftward shift. This allows the monopolist to retain higher prices and production.
+Although the shifts in demand, price, quantity, and cost all move in the same direction for both examples, the shifts are more severe in Example A. This is because the new entrants’ products are so similar to the monopolist’s. Thus, the monopolist’s demand curve shifts greatly left, potentially until the monopolist earns zero economic profit. But in Example B, the monopolist’s differentiation lessens the demand curve’s leftward shift. This allows the monopolist to retain higher prices and production.
 
 ### Low cost
 Even without product differentiation, a firm can capture value by lowering average total cost below rivals’ ATC. Depending on how it lowers ATC, a firm may (1) leave the price and quantity the same and simply capture more profit or (2) lower its price and increase production, which brings more price-conscious customers into the market to capture more profit. This is illustrated in Figure 6.
