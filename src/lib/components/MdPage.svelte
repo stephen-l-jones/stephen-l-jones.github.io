@@ -63,10 +63,10 @@
 	}
 	:global(.markdown-styling h4) {
 		font-family: var(--body-font);
-		font-size: 1.1rem;
-		font-weight: normal;
+		font-size: 1rem;
+		font-weight: 300;
 		color: var(--font-color);
-		margin: 0.5rem 0;
+		margin: 0 0 1rem 0;
 	}
 	:global(.markdown-styling h5) {
 		font-family: var(--body-font);
