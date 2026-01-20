@@ -1,7 +1,7 @@
 ##### By Stephen Jones, Ph.D.
 ###### Updated January 2026
 
-#### Listen: [Spotify](https://open.spotify.com/episode/3Xmj2xffpnNz7eir0RrqfA) | [Apple](https://podcasts.apple.com/us/podcast/strategic-avenues-to-superior-performance/id1869704701?i=1000745503178) | Amazon (https://music.amazon.com/podcasts/5b58c57f-5f7a-490f-a2b3-328342142b26/episodes/6422e0ea-58bd-4c01-89b2-69c1ead36d78/strategic-avenues-to-superior-performance)
+#### Listen: [Spotify](https://open.spotify.com/episode/3Xmj2xffpnNz7eir0RrqfA) | [Apple](https://podcasts.apple.com/us/podcast/strategic-avenues-to-superior-performance/id1869704701?i=1000745503178) | [Amazon](https://music.amazon.com/podcasts/5b58c57f-5f7a-490f-a2b3-328342142b26/episodes/6422e0ea-58bd-4c01-89b2-69c1ead36d78/strategic-avenues-to-superior-performance)
 
 FIRMS REACH superior performance in different ways. Beneath those differences lie five recurring economic logics, which I call _strategic avenues_. Each leads to higher profits differently. Leaders who understand these avenues can craft better strategy. 
 
