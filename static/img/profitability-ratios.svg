@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="614.40002"
+   height="398.07999"
+   viewBox="0 0 614.40002 398.07999"
+   sodipodi:docname="profitability-ratios.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect99"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.6528475,0,1 @ F,0,0,1,0,2.6528481,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.6528481,0,1 @ F,0,0,1,0,2.6528468,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <marker
+       style="overflow:visible"
+       id="marker99"
+       refX="3"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path99" />
+    </marker>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect97"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.6528501,0,1 @ F,0,1,1,0,2.652845,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.652845,0,1 @ F,0,0,1,0,2.6528468,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <marker
+       style="overflow:visible"
+       id="marker97"
+       refX="3"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path97" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker96"
+       refX="3"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path96" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker93"
+       refX="3"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path93" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker91"
+       refX="3"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path91" />
+    </marker>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect89"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.652845,0,1 @ F,0,0,1,0,2.6528521,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.6528521,0,1 @ F,0,0,1,0,2.6528536,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect88"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <marker
+       style="overflow:visible"
+       id="marker88"
+       refX="3"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path88" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="3"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect87"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.652845,0,1 @ F,0,0,1,0,2.6528521,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.6528521,0,1 @ F,0,0,1,0,2.6528496,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect86"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.6528496,0,1 @ F,0,0,1,0,2.6528477,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,2.6528477,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect85"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect83"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect81"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect79"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect78"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect72"
+       is_visible="true"
+       lpeversion="1.3"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false"
+       uniform="false" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.8847656"
+     inkscape:cx="218.86011"
+     inkscape:cy="242.73576"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g1">
+    <rect
+       style="fill:#f1f1f1;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect63"
+       width="305.39999"
+       height="252.78174"
+       x="0"
+       y="117.00681"
+       rx="4.0499091"
+       ry="3.6031005"
+       inkscape:label="operating-efficiency-box" />
+    <rect
+       style="fill:#f1f1f1;fill-opacity:1;stroke:none;stroke-width:0.999995;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect64"
+       width="305.39999"
+       height="252.78174"
+       x="309.00003"
+       y="117.00681"
+       rx="4.0499096"
+       ry="3.6031005"
+       inkscape:label="capital-efficiency-box" />
+    <g
+       id="g22"
+       inkscape:label="roic"
+       transform="translate(142.2618,-9.3844171)">
+      <g
+         id="g19"
+         transform="translate(138.62518,-3.3765263)"
+         inkscape:label="title">
+        <rect
+           style="fill:#919191;fill-opacity:1;stroke:#919191;stroke-width:1.13386;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect18"
+           width="124.15337"
+           height="42.327236"
+           x="-35.763653"
+           y="15.450153"
+           rx="4.6799998"
+           ry="3.5854795"
+           inkscape:label="title-box" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.134;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+           x="26.36837"
+           y="27.230169"
+           id="text22"
+           inkscape:label="title-text"><tspan
+             sodipodi:role="line"
+             id="tspan21"
+             x="26.36837"
+             y="27.230169"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;fill-opacity:1;stroke:none">Return on </tspan><tspan
+             sodipodi:role="line"
+             x="26.168369"
+             y="39.230137"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;fill-opacity:1;stroke:none"
+             id="tspan22">invested capital</tspan></text>
+      </g>
+      <g
+         id="g23"
+         inkscape:label="ratio">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.13386;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect19"
+           width="124.15337"
+           height="45.328594"
+           x="-35.763653"
+           y="43.383324"
+           rx="4.6799998"
+           ry="3.8397202"
+           inkscape:label="ratio-box"
+           transform="translate(138.62518,-3.3765263)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:3.77953;stroke-linecap:round;stroke-miterlimit:0.4"
+           x="163.2563"
+           y="57.172657"
+           id="text1"
+           inkscape:label="ratio-text"><tspan
+             sodipodi:role="line"
+             id="tspan1"
+             x="163.2563"
+             y="57.172657"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1">NOPAT</tspan><tspan
+             sodipodi:role="line"
+             x="163.0563"
+             y="76.372658"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1"
+             id="tspan2">avg. IC</tspan></text>
+        <path
+           style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:0.999995;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 140.21228,61.421434 H 187.3676"
+           id="path2"
+           inkscape:label="divide" />
+      </g>
+    </g>
+    <g
+       id="g27"
+       inkscape:label="nwc"
+       transform="translate(353.09425,214.96945)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.13386;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect26"
+         width="124.15337"
+         height="45.328594"
+         x="-35.763653"
+         y="43.383324"
+         rx="4.6799998"
+         ry="3.8397202"
+         inkscape:label="ratio-box" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:3.77953;stroke-linecap:round;stroke-miterlimit:0.4"
+         x="26.148191"
+         y="62.369495"
+         id="text27"
+         inkscape:label="ratio-text"><tspan
+           sodipodi:role="line"
+           id="tspan26"
+           x="26.148193"
+           y="62.369495"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1">avg. NWC</tspan><tspan
+           sodipodi:role="line"
+           x="25.948191"
+           y="81.569496"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1"
+           id="tspan27">sales</tspan></text>
+      <path
+         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -6.4382184,66.047621 H 59.064286"
+         id="path27"
+         inkscape:label="divide" />
+    </g>
+    <g
+       id="g45"
+       inkscape:label="ppe"
+       transform="translate(553.40148,198.64805)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.13386;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect44"
+         width="124.15337"
+         height="45.328594"
+         x="-37.355362"
+         y="105.46001"
+         rx="4.6799998"
+         ry="3.8397202"
+         inkscape:label="ratio-box"
+         transform="translate(-126.54094,9.8155447)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:3.77953;stroke-linecap:round;stroke-miterlimit:0.4"
+         x="24.556482"
+         y="124.44618"
+         id="text45"
+         inkscape:label="ratio-text"
+         transform="translate(-126.54094,9.8155447)"><tspan
+           sodipodi:role="line"
+           id="tspan44"
+           x="24.556482"
+           y="124.44618"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1">avg. PPE</tspan><tspan
+           sodipodi:role="line"
+           x="24.356482"
+           y="143.64618"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1"
+           id="tspan45">sales</tspan></text>
+      <path
+         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:0.999997;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -4.7913965,128.12431 H 54.234044"
+         id="path45"
+         inkscape:label="divide"
+         transform="translate(-126.54094,9.8155447)" />
+    </g>
+    <g
+       id="g36"
+       inkscape:label="other-assets"
+       transform="translate(497.4434,214.96945)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.13386;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect35"
+         width="124.15337"
+         height="45.328594"
+         x="-35.763653"
+         y="43.383324"
+         rx="4.6799998"
+         ry="3.8397202"
+         inkscape:label="ratio-box" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:3.77953;stroke-linecap:round;stroke-miterlimit:0.4"
+         x="26.148191"
+         y="62.369495"
+         id="text36"
+         inkscape:label="ratio-text"><tspan
+           sodipodi:role="line"
+           id="tspan35"
+           x="26.14819"
+           y="62.369495"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1">avg. other assets</tspan><tspan
+           sodipodi:role="line"
+           x="25.948191"
+           y="81.569496"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1"
+           id="tspan36">sales</tspan></text>
+      <path
+         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -31.127541,66.047621 H 83.753609"
+         id="path36"
+         inkscape:label="divide" />
+    </g>
+    <g
+       id="g54"
+       inkscape:label="ros"
+       transform="translate(-2.9945142,118.44736)">
+      <g
+         id="g51"
+         transform="translate(138.62518,-3.3765263)"
+         inkscape:label="title">
+        <rect
+           style="fill:#919191;fill-opacity:1;stroke:#919191;stroke-width:1.13386;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect51"
+           width="124.15337"
+           height="42.327236"
+           x="-35.763653"
+           y="15.450153"
+           rx="4.6799998"
+           ry="3.5854795"
+           inkscape:label="title-box" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.134;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+           x="26.11121"
+           y="33.230171"
+           id="text51"
+           inkscape:label="title-text"><tspan
+             sodipodi:role="line"
+             x="25.911209"
+             y="33.230171"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;fill-opacity:1;stroke:none"
+             id="tspan51">Return on sales</tspan></text>
+      </g>
+      <g
+         id="g53"
+         inkscape:label="ratio">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.13386;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect52"
+           width="124.15337"
+           height="45.328594"
+           x="-35.763653"
+           y="43.383324"
+           rx="4.6799998"
+           ry="3.8397202"
+           inkscape:label="ratio-box"
+           transform="translate(138.62518,-3.3765263)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:3.77953;stroke-linecap:round;stroke-miterlimit:0.4"
+           x="163.2563"
+           y="58.758595"
+           id="text53"
+           inkscape:label="ratio-text"><tspan
+             sodipodi:role="line"
+             id="tspan52"
+             x="163.2563"
+             y="58.758595"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1">NOPAT</tspan><tspan
+             sodipodi:role="line"
+             x="163.0563"
+             y="77.958595"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1"
+             id="tspan53">sales</tspan></text>
+        <path
+           style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:0.999998;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 140.25457,62.671094 h 47.08869"
+           id="path53"
+           inkscape:label="divide" />
+      </g>
+    </g>
+    <g
+       id="g55"
+       inkscape:label="cogs"
+       transform="translate(27.623218,300.50812)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.13386;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect57"
+         width="124.15337"
+         height="45.328594"
+         x="-0.49770823"
+         y="-42.15535"
+         rx="4.6799998"
+         ry="3.8397202"
+         inkscape:label="ratio-box" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:3.77953;stroke-linecap:round;stroke-miterlimit:0.4"
+         x="61.414135"
+         y="-23.169178"
+         id="text59"
+         inkscape:label="ratio-text"><tspan
+           sodipodi:role="line"
+           id="tspan58"
+           x="61.414135"
+           y="-23.169178"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1">COGS</tspan><tspan
+           sodipodi:role="line"
+           x="61.214134"
+           y="-3.9691772"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1"
+           id="tspan59">sales</tspan></text>
+      <path
+         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:0.999995;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 42.115769,-19.491053 H 81.090431"
+         id="path59"
+         inkscape:label="divide" />
+    </g>
+    <g
+       id="g61"
+       inkscape:label="taxes"
+       transform="translate(173.10623,300.50812)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.13386;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect59"
+         width="124.15337"
+         height="45.328594"
+         x="-0.49770823"
+         y="-42.15535"
+         rx="4.6799998"
+         ry="3.8397202"
+         inkscape:label="ratio-box" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:3.77953;stroke-linecap:round;stroke-miterlimit:0.4"
+         x="61.414135"
+         y="-23.169178"
+         id="text61"
+         inkscape:label="ratio-text"><tspan
+           sodipodi:role="line"
+           id="tspan60"
+           x="61.414135"
+           y="-23.169178"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1">adjusted taxes</tspan><tspan
+           sodipodi:role="line"
+           x="61.214134"
+           y="-3.9691772"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1"
+           id="tspan61">sales</tspan></text>
+      <path
+         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 12.844268,-19.491054 H 110.07334"
+         id="path61"
+         inkscape:label="divide" />
+    </g>
+    <g
+       id="g63"
+       inkscape:label="sga"
+       transform="translate(100.36472,356.07895)">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.13386;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect61"
+         width="124.15337"
+         height="45.328594"
+         x="-0.49770823"
+         y="-42.15535"
+         rx="4.6799998"
+         ry="3.8397202"
+         inkscape:label="ratio-box" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:3.77953;stroke-linecap:round;stroke-miterlimit:0.4"
+         x="61.414135"
+         y="-23.169178"
+         id="text63"
+         inkscape:label="ratio-text"><tspan
+           sodipodi:role="line"
+           id="tspan62"
+           x="61.414135"
+           y="-23.169178"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1">SG&amp;A</tspan><tspan
+           sodipodi:role="line"
+           x="61.214134"
+           y="-3.9691772"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1"
+           id="tspan63">sales</tspan></text>
+      <path
+         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:0.999991;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 42.239981,-19.491052 H 81.488227"
+         id="path63"
+         inkscape:label="divide" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       x="606.41565"
+       y="136.43301"
+       id="text67"
+       inkscape:label="capital-efficiency-text"><tspan
+         sodipodi:role="line"
+         id="tspan66"
+         x="606.41565"
+         y="136.43301"
+         style="font-size:16px;text-align:end;text-anchor:end">Capital</tspan><tspan
+         sodipodi:role="line"
+         x="606.01562"
+         y="155.63301"
+         id="tspan67"
+         style="font-size:16px;text-align:end;text-anchor:end">efficiency</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       x="7.4453125"
+       y="136.43301"
+       id="text69"
+       inkscape:label="capital-efficiency-text"><tspan
+         sodipodi:role="line"
+         id="tspan68"
+         x="7.4453125"
+         y="136.43301"
+         style="font-size:16px">Operating</tspan><tspan
+         sodipodi:role="line"
+         x="7.4453125"
+         y="155.63301"
+         id="tspan69"
+         style="font-size:16px">efficiency</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.3333px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       x="-308.30325"
+       y="11.824194"
+       id="text72"
+       transform="rotate(-90)"
+       inkscape:label="expense-ratio-text"><tspan
+         sodipodi:role="line"
+         id="tspan72"
+         x="-308.50327"
+         y="11.824194"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;text-anchor:middle">expense ratios</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#919191;stroke-width:1.19203;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -352.78125,103.4082 c -4.81355,0.16781 -9.62709,0.33561 -12.03386,7.97443 -2.40678,7.63882 -2.40678,22.74805 -3.91326,31.16279 -1.50647,8.41475 -4.51929,10.13464 -4.51926,11.84169 3e-5,1.70706 3.01285,3.40118 4.51929,11.80318 1.50645,8.40199 1.50645,23.51122 3.95361,31.14992 2.44715,7.6387 7.34127,7.80656 12.23548,7.97443"
+       id="path79"
+       inkscape:path-effect="#path-effect79"
+       inkscape:original-d="m -352.78125,103.4082 c -4.81355,0.16781 -9.62709,0.33561 -14.44064,0.50342 0,15.10983 0,30.21906 0,45.32859 -3.01295,1.71996 -6.02577,3.43985 -9.03866,5.15977 3.01295,1.69419 6.02577,3.38831 9.03866,5.08247 0,15.10983 0,30.21906 0,45.32859 4.89431,0.16787 9.78843,0.33573 14.68264,0.5036"
+       transform="matrix(0.65504195,0,0,1.0743822,261.66437,142.47983)"
+       inkscape:label="bracket-left" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.3333px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       x="308.32605"
+       y="-602.71777"
+       id="text79"
+       transform="rotate(90)"
+       inkscape:label="asset-ratio-text"><tspan
+         sodipodi:role="line"
+         id="tspan79"
+         x="308.12604"
+         y="-602.71777"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;text-anchor:middle">asset ratios</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#919191;stroke-width:1.19203;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -352.78125,103.4082 c -4.81355,0.16781 -9.62709,0.33561 -12.03386,7.97443 -2.40678,7.63882 -2.40678,22.74805 -3.91326,31.16279 -1.50647,8.41475 -4.51929,10.13464 -4.51926,11.84169 3e-5,1.70706 3.01285,3.40118 4.51929,11.80318 1.50645,8.40199 1.50645,23.51122 3.95361,31.14992 2.44715,7.6387 7.34127,7.80656 12.23548,7.97443"
+       id="path80"
+       inkscape:path-effect="#path-effect81"
+       inkscape:original-d="m -352.78125,103.4082 c -4.81355,0.16781 -9.62709,0.33561 -14.44064,0.50342 0,15.10983 0,30.21906 0,45.32859 -3.01295,1.71996 -6.02577,3.43985 -9.03866,5.15977 3.01295,1.69419 6.02577,3.38831 9.03866,5.08247 0,15.10983 0,30.21906 0,45.32859 4.89431,0.16787 9.78843,0.33573 14.68264,0.5036"
+       transform="matrix(-0.65504195,0,0,1.0743822,351.77641,142.47983)"
+       inkscape:label="bracket-right" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#919191;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker88);marker-end:url(#ConcaveTriangle)"
+       d="m 161.9437,128.39871 v -19.63083 a 2.652845,2.652845 135 0 1 2.65284,-2.65284 h 139.95062 a 2.6528521,2.6528521 135 0 0 2.65285,-2.65285 V 77.641106 103.46219 a 2.6528521,2.6528521 45 0 0 2.65285,2.65285 h 139.07617 a 2.6528524,2.6528524 45.000013 0 1 2.65285,2.65285 l -1e-5,19.63082"
+       id="path87"
+       inkscape:path-effect="#path-effect89"
+       inkscape:original-d="M 161.9437,128.39871 V 106.11504 H 307.20001 V 77.641106 106.11504 h 144.38187 l -1e-5,22.28367"
+       transform="translate(0,-1.6901354)"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:label="roic-arrow" />
+    <g
+       id="g106"
+       inkscape:label="expense-arrow"
+       transform="translate(0,2.1222798)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#919191;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker91)"
+         d="M 161.9437,201.66047 V 308.0666"
+         id="path90"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#919191;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker97);marker-end:url(#marker96)"
+         d="m 89.202195,256.23049 -10e-7,-16.93071 a 2.65285,2.65285 135 0 1 2.65285,-2.65285 h 67.435806 a 2.652845,2.652845 135 0 0 2.65285,-2.65285 v 0 0 a 2.652845,2.652845 45 0 0 2.65284,2.65285 l 67.43582,0 a 2.6528468,2.6528468 45 0 1 2.65285,2.65285 l 0,16.93071"
+         id="path95"
+         inkscape:path-effect="#path-effect97"
+         inkscape:original-d="m 89.202195,256.23049 -10e-7,-19.58356 H 161.9437 v -2.65285 2.65285 h 72.74151 v 19.58356"
+         transform="translate(0,-3.734715)" />
+    </g>
+    <g
+       id="g105"
+       inkscape:label="asset-arrow"
+       transform="translate(0,2.1222798)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#919191;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker93)"
+         d="m 451.58187,201.66047 -10e-6,106.40613"
+         id="path92"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#919191;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker99);marker-end:url(#ConcaveTriangle)"
+         d="m 379.40729,256.23049 v -16.93071 a 2.6528475,2.6528475 135 0 1 2.65285,-2.65285 H 448.929 a 2.6528481,2.6528481 135 0 0 2.65285,-2.65285 v 0 0 a 2.6528481,2.6528481 45 0 0 2.65285,2.65285 h 66.86886 a 2.6528509,2.6528509 44.999956 0 1 2.65285,2.65285 l 3e-5,16.93071"
+         id="path98"
+         inkscape:path-effect="#path-effect99"
+         inkscape:original-d="m 379.40729,256.23049 v -19.58356 h 72.17456 v -2.65285 2.65285 h 72.17456 l 3e-5,19.58356"
+         transform="translate(0,-3.734715)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#919191;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       x="164.89772"
+       y="230.25937"
+       id="text99"
+       inkscape:label="expense-aggr-test"><tspan
+         sodipodi:role="line"
+         id="tspan99"
+         x="164.89772"
+         y="230.25937"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#222222;fill-opacity:1;stroke:none">1 − sum(expense ratios)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#919191;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       x="455.65005"
+       y="230.25937"
+       id="text100"
+       inkscape:label="asset-aggr-text"><tspan
+         sodipodi:role="line"
+         id="tspan100"
+         x="455.65005"
+         y="230.25937"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#222222;fill-opacity:1;stroke:none">sum(asset ratios)⁻¹</tspan></text>
+    <g
+       id="g104"
+       inkscape:label="capital-turnover"
+       transform="translate(286.64365,118.44736)">
+      <g
+         id="g101"
+         transform="translate(138.62518,-3.3765263)"
+         inkscape:label="title">
+        <rect
+           style="fill:#919191;fill-opacity:1;stroke:#919191;stroke-width:1.13386;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect100"
+           width="124.15337"
+           height="42.327236"
+           x="-35.763653"
+           y="15.450153"
+           rx="4.6799998"
+           ry="3.5854795"
+           inkscape:label="title-box" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.134;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+           x="26.11121"
+           y="33.230171"
+           id="text101"
+           inkscape:label="title-text"><tspan
+             sodipodi:role="line"
+             x="25.911209"
+             y="33.230171"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;fill-opacity:1;stroke:none"
+             id="tspan101">Capital turnover</tspan></text>
+      </g>
+      <g
+         id="g103"
+         inkscape:label="ratio">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.13386;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect101"
+           width="124.15337"
+           height="45.328594"
+           x="-35.763653"
+           y="43.383324"
+           rx="4.6799998"
+           ry="3.8397202"
+           inkscape:label="ratio-box"
+           transform="translate(138.62518,-3.3765263)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:3.77953;stroke-linecap:round;stroke-miterlimit:0.4"
+           x="163.2563"
+           y="57.407032"
+           id="text103"
+           inkscape:label="ratio-text"><tspan
+             sodipodi:role="line"
+             id="tspan102"
+             x="163.2563"
+             y="57.407032"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1">sales</tspan><tspan
+             sodipodi:role="line"
+             x="163.0563"
+             y="76.607033"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1"
+             id="tspan103">avg. IC</tspan></text>
+        <path
+           style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:0.999998;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 140.80795,61.733169 H 185.7244"
+           id="path103"
+           inkscape:label="divide" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#919191;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       x="311.86563"
+       y="100.26973"
+       id="text106"
+       inkscape:label="asset-aggr-text"><tspan
+         sodipodi:role="line"
+         id="tspan106"
+         x="311.86563"
+         y="100.26973"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#222222;fill-opacity:1;stroke:none">return on sales × capital turnover </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#222222;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       x="3.7139897"
+       y="380.94922"
+       id="text107"><tspan
+         sodipodi:role="line"
+         x="3.7139897"
+         y="380.94922"
+         id="tspan108">NOPAT = net operating profit after tax; IC = invested capital; COGS = cost of goods sold; SG&amp;A = selling, general, &amp; administrative (expense); </tspan><tspan
+         sodipodi:role="line"
+         x="3.7139897"
+         y="393.74927"
+         id="tspan109">NWC = net working capital; PPE = property, plant, &amp; equipment</tspan></text>
+  </g>
+</svg>

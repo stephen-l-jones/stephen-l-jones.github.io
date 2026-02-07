@@ -85,7 +85,6 @@
 	:global(.markdown-styling p) {
 		margin: 0 0 1rem 0;
 	}
-
 	:global(.markdown-styling a) {
 		color: var(--md-a-color);
 		text-decoration: none;
@@ -101,10 +100,21 @@
 	}
 	:global(code) {
 		font-size: 1.05rem;
-		background-color: var(--md-code-background-color);
+		text-decoration: underline;
+		text-decoration-color: var(--code-underline-color);
 	}
 	:global(.markdown-figure) {
 		font-family: var(--body-font);
 		margin: 1.2rem 0;
+	}
+	:global(.markdown-styling th) {
+		background-color: var(--table-header-color);
+	}
+	:global(.markdown-styling th),
+	:global(.markdown-styling td) {
+		padding: 1px 12px;
+	}
+	:global(.markdown-styling table) {
+		margin: 0 auto 1.2rem auto;
 	}
 </style>

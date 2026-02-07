@@ -30,6 +30,8 @@
 	style:--md-a-color={$darkStore ? '#73a1eb' : '#0959da'}
 	style:--md-code-background-color={$darkStore ? '#3b3b3b' : '#eeeeee'}
 	style:--font-color-lighter={$darkStore ? '#bbbbbb' : '#666666'}
+	style:--table-header-color={$darkStore ? '#555555' : '#dddddd'}
+	style:--code-underline-color={$darkStore ? '#666666' : '#bbbbbb'}
 >
 	<nav>
 		<a href="{base}/">Home</a>
