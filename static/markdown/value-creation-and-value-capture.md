@@ -108,6 +108,6 @@ To capture value from lower ATC, a firm must maintain its low-cost advantage ove
 
 ---
 
-[^1]. It’s important to note that we’re discussing economic profits, not accounting profits. Accounting profits start with revenues and subtract explicit costs (e.g., labor, depreciation, taxes) but don’t subtract implicit opportunity costs. In contrast, economic profits account for both explicit and implicit costs. The implicit cost is the cost of capital⁠—the return investors expect on the funds they commit to a firm. Thus, accounting profits may be positive even when economic profits are zero.
+[^1]. It is important to note that we’re discussing economic profits, not accounting profits. Accounting profits start with revenues and subtract explicit costs (e.g., labor, depreciation, taxes) but don’t subtract implicit opportunity costs. In contrast, economic profits account for both explicit and implicit costs. The implicit cost is the cost of capital⁠—the return investors expect on the funds they commit to a firm. Thus, accounting profits may be positive even when economic profits are zero.
 
 [^2]. The ideas about value creation and capture are based on [work by Adam Brandenburger and Harborne Stuart](https://doi.org/10.1111/j.1430-9134.1996.00005.x), two economists who began applying cooperative game theory to business strategy in the 1990s.
