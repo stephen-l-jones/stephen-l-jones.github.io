@@ -242,7 +242,7 @@ The ratios introduced so far have been dollar-denominated, meaning they either h
 Unit-based ratios complement dollar-denominated ratios. Which unit ratios to calculate depends on the industry being analyzed.
 
 ## Analyzing profitability
-Profitability analysis begins at the top of Figure 2 and works downward, exploring branches where a firm’s ratios diverge from the benchmark. Diverging ratios may suggest an important strategic or operational difference. A poor ratio may indicate a failing strategy. A strong ratio may indicate a competitive advantage. However, it is easy to misinterpret diverging ratios, so a thorough understanding of the firm⁠—its strategy, decisions, and operations⁠—is essential.
+Profitability analysis begins at the top of Figure 2 and works downward, exploring branches where a firm’s ratios diverge from the benchmark. Diverging ratios may suggest an important strategic or operational difference. A poor ratio may indicate a failing strategy. A strong ratio may indicate a competitive advantage. However, it is easy to misinterpret diverging ratios, so a thorough understanding of the firm⁠—its strategies, decisions, and operations⁠—is essential.
 
 I’ll illustrate how to analyze profitability by briefly examining Costco in 2025, using Walmart as a benchmark.
 
