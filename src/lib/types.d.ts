@@ -5,6 +5,10 @@ interface NavPage {
     title: string;
     subtitle: string;
     iref: string;
+    rss: string;
+    spotify: string;
+    apple: string;
+    amazon: string;
 }
 
 interface Source {

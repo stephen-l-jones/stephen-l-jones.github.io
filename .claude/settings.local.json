@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell -ExecutionPolicy Bypass -File \"G:\\\\My Drive\\\\Teaching\\\\Strategy site\\\\Audio\\\\add-chapters.ps1\")",
+      "Bash(cmd /c \"powershell -ExecutionPolicy Bypass -File \"\"G:\\\\My Drive\\\\Teaching\\\\Strategy site\\\\Audio\\\\add-chapters.ps1\"\"\")",
+      "Bash(cmd /c \"powershell -ExecutionPolicy Bypass -Command \"\"& { ffmpeg -version | Select-Object -First 1 }\"\"\")",
+      "Bash(cmd /c \"powershell -ExecutionPolicy Bypass -Command \"\"ffmpeg -version 2>&1 | Select-Object -First 1\"\" 2>&1\")",
+      "Bash(where:*)",
+      "Bash(ffmpeg:*)",
+      "Bash(ffprobe:*)"
+    ]
+  }
+}

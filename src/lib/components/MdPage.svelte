@@ -20,6 +20,14 @@
 			<h4>{navPage.subtitle}</h4>
 		{/if}
 		<Figure href="/img/{navPage.iref}" />
+		{#if navPage.rss || navPage.spotify || navPage.apple || navPage.amazon}
+			<div class="podcast-icons">
+				{#if navPage.rss}<a href={navPage.rss} target="_blank" rel="noopener noreferrer"><img src="/img/rss.svg" alt="RSS" width="30" height="30" /></a>{/if}
+				{#if navPage.spotify}<a href={navPage.spotify} target="_blank" rel="noopener noreferrer"><img src="/img/spotify.svg" alt="Spotify" width="30" height="30" /></a>{/if}
+				{#if navPage.apple}<a href={navPage.apple} target="_blank" rel="noopener noreferrer"><img src="/img/apple-podcasts.svg" alt="Apple Podcasts" width="30" height="30" /></a>{/if}
+				{#if navPage.amazon}<a href={navPage.amazon} target="_blank" rel="noopener noreferrer"><img src="/img/amazon-music.svg" alt="Amazon Music" width="30" height="30" /></a>{/if}
+			</div>
+		{/if}
 		<SvelteMarkdown
 			source={markdown}
 			renderers={{
@@ -39,6 +47,15 @@
 		flex-direction: column;
 		grid-template-columns: minmax(320px, 640px);
 		justify-content: center;
+	}
+	.podcast-icons {
+		display: flex;
+		flex-direction: row;
+		gap: 10px;
+		margin: 0.5rem 0;
+	}
+	:global(.markdown-figure) + .podcast-icons {
+		margin-top: -0.8rem;
 	}
 	:global(.markdown-styling) {
 		padding: 18px 0 0 0;

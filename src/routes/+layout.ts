@@ -20,7 +20,11 @@ export const load: LayoutLoad = () => {
             strap: navPage.strap,
             title: navPage.title,
             subtitle: navPage.subtitle,
-            iref: navPage.iref
+            iref: navPage.iref,
+            rss: navPage.rss,
+            spotify: navPage.spotify,
+            apple: navPage.apple,
+            amazon: navPage.amazon
         }
     })
 
