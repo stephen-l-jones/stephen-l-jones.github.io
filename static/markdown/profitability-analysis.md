@@ -9,7 +9,7 @@ Profitability analysis differs from other forms of financial-statement analysis.
 
 This article explains how to analyze profitability: which ratios matter, how to calculate them, and how to link them to strategic decisions.
 
-## Profitability as return on invested capital
+## Profitability as return on invested capital<a name="profitability-as-return-on-invested-capital"></a>
 Return on invested capital (ROIC) captures a firm’s financial performance. It measures how well a company transforms capital into profit. An ROIC of 20% means that for every dollar invested, a firm generates 20 cents in profit from operations.
 
 ROIC belongs to a family of profitability measures including return on equity (ROE) and return on assets (ROA). This article focuses on ROIC alone. In theory, it captures profit-generating efficiency better than any other measure.
@@ -122,7 +122,7 @@ This alternative formula yields the same result for Costco’s average IC in 202
 |  Other assets                    |    $4.1   |    $3.9   |    $4.0   |
 | **Invested capital**             | **$36.1** | **$33.8** | **$35.0** |
 
-## Benchmarking ROIC
+## Benchmarking ROIC<a name="benchmarking-roic"></a>
 ROIC must be compared to a benchmark to be useful. Three common benchmarks are:
 
 1. A competitor’s ROIC.
@@ -140,7 +140,7 @@ Costco’s ROIC also beat the industry average in grocery and general merchandis
 ### ROIC and economic value creation
 A positive ROIC does not ensure that a firm is creating economic value. If a firm fails to match its cost of capital, it actually destroys value.[^8] For example, Skullcandy, a [headphones maker rooted in extreme sports](https://www.skullcandy.com), destroyed value for investors before [going private](https://www.globenewswire.com/news-release/2016/10/03/876636/0/en/Skullcandy-Closes-Going-Private-Transaction-with-Mill-Road-Capital.html). It was profitable with an ROIC of 4.6%, but fell short of its cost of capital of 7.2%. In other words, investors weren’t earning the return they expected given the risk they were taking. They would have been better served investing their capital elsewhere.
  
-## Going deeper: Return on sales and capital turnover
+## Going deeper: Return on sales and capital turnover<a name="return-on-sales-and-capital-turnover"></a>
 ROIC tells *if* a firm is profitable, but it doesn’t explain *why*. That requires deeper analysis, as shown in Figure 2. The first step is to separate ROIC into two additional ratios: return on sales and capital turnover. The two ratios give different explanations for a firm’s profitability.
 
 ![Figure 2. Profitability analysis ratios](../img/profitability-ratios.png#small)
@@ -189,7 +189,7 @@ Return on sales and capital turnover are benchmarked the same way as ROIC. These
 
 Costco was more profitable than Walmart owing to superior capital efficiency. Costco’s capital turnover in 2025 dwarfed Walmart’s: $7.86 versus $4.32. Operating efficiency doesn’t explain Costco’s higher ROIC because Costco’s return on sales was lower than Walmart’s: 2.8% for Costco compared to 3.2% for Walmart. (I explain later what drives Costco’s capital efficiency.)
 
-## Going even deeper: Expense, asset, and unit-based ratios
+## Going even deeper: Expense, asset, and unit-based ratios<a name="expense-asset-and-unit-based-ratios"></a>
 Deeper analysis reveals why a firm’s operating or capital efficiency is good or poor. Expense ratios calculated from income-statement items give operating efficiency insights. And asset ratios calculated from balance-sheet items give capital efficiency insights (see Figure 2). 
 
 Expense and asset ratios vary by industry. For example, airlines report fuel expenses, but movie studios don’t. On the other hand, movie studios report content assets, which airlines don’t have. Thus, this deeper analysis requires industry-specific knowledge, including knowing how assets are used and why different expenses exist.
@@ -241,7 +241,7 @@ The ratios introduced so far have been dollar-denominated, meaning they either h
 
 Unit-based ratios complement dollar-denominated ratios. Which unit ratios to calculate depends on the industry being analyzed.
 
-## Analyzing profitability
+## Analyzing profitability<a name="analyzing-profitability"></a>
 Profitability analysis begins at the top of Figure 2 and works downward, exploring branches where a firm’s ratios diverge from the benchmark. Diverging ratios may suggest an important strategic or operational difference. A poor ratio may indicate a failing strategy. A strong ratio may indicate a competitive advantage. However, it is easy to misinterpret diverging ratios, so a thorough understanding of the firm⁠—its strategies, decisions, and operations⁠—is essential.
 
 I’ll illustrate how to analyze profitability by briefly examining Costco in 2025, using Walmart as a benchmark.

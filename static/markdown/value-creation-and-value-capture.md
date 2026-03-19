@@ -3,7 +3,7 @@
 
 INTELLIGENT STRATEGY builds on the principles of value creation and value capture, which are rooted in microeconomics. This article is a primer on these principles. 
 
-## Industries
+## Industries<a name="industries"></a>
 Strategy begins with understanding one’s industry. An industry comprises products or services that serve the same customer need. This means products are *close substitutes* for each other. In the soft drink industry, an A&W root beer easily substitutes for a Coke or Dr. Pepper, even if a consumer prefers one over the other. And a flight on Frontier Airlines easily substitutes for one on Delta or Alaska, even if the service is worse. 
 
 An industry’s boundary defines its rivals. Sometimes that boundary is hard to define. For instance, should soft drinks include a Starbucks bottled Frappuccino sold at Safeway? Yes⁠—if customers see bottled coffee and a Coke as close substitutes. And if they do, Starbucks and Coke are rivals, at least for their grocery products. 
@@ -18,7 +18,7 @@ This middle ground includes industries with *monopolistic competition* and *olig
 
 Competitiveness in [oligopolies](https://en.wikipedia.org/wiki/Oligopoly) is lower than in industries with monopolistic competition. Oligopolies have a limited number of rivals, high barriers to entry, and a high minimum efficient scale, which pushes firms to become big to run efficiently. The U.S. mobile telecom industry is an example. Three companies⁠—Verizon, T-Mobile, and AT&T⁠—held 99% of the market share in 2025. With so few rivals, oligopolists can [tacitly collude](https://www.tutor2u.net/economics/reference/oligopoly-tacit-collusion) to raise prices. Parallel price increases that are uncoordinated are legal in the United States, but they can attract scrutiny by the Federal Trade Commission or Justice Department, which police anticompetitive practices.
 
-## Customer demand and firm profit
+## Customer demand and firm profit<a name="customer-demand-and-firm-profit"></a>
 Economists and marketers represent customer demand using a demand curve. A demand curve represents customers’ willingness to pay for a product. To illustrate this point, imagine we sell a fictional garment called a “thneed,” from Dr. Seuss’s [_The Lorax_](https://www.youtube.com/watch?v=dNMBVVdrMKo). For simplicity, assume we are a monopolist (we own all known Truffula trees) and can price as we wish. Customers value a thneed differently, so some are willing to pay more than others. 
 
 To create our thneed demand curve, we collected customer data and grouped customers by their willingness to pay, as shown in Figure 1. Four hundred customers will pay $91 for a thneed, another 400 will pay $84 for one, another 400 will pay $77, and so forth. Grouping customers this way reveals the relationship between the price we set and the quantity demanded. No customers will buy a thneed at $100. But 4,000 customers will buy a thneed at $40, and 8,000 customers will buy one at $10.
@@ -53,7 +53,7 @@ Notice also that in plot 9, MR (blue) equals MC (red) at the profit-maximizing q
 
 Plot 3 shows average profits per thneed. Profit is greatest when the production level maximizes the shaded area, which occurs at quantity `q^{*}`. The height of the shaded area is average profit per thneed at `q^{*}`, or $49 − $19 = $30. The width of the shaded area is the quantity, or 3,200 units. Thus, plot 3 also shows that the maximum profit is $30 × 3,200 = $96,000. 
 
-## Value creation
+## Value creation<a name="value-creation"></a>
 Value creation refers to the aggregate customer value firms create within an industry.[^2] Customer value is determined by customers’ willingness to pay, which is always relative to some alternative: a less-preferred product in the same industry, a substitute product from a separate industry, or simply no purchase at all. For this definition of customer value, only the latter two alternatives apply. 
 
 To explain why, consider a passenger (we’ll call her Kara) who wants to fly to Las Vegas for vacation. Kara’s willingness to pay is the price at which, if fares rise any higher, she won’t purchase a ticket from *any* airline, choosing either to buy a substitute product (such as a bus ticket) or nothing at all (forgoing the trip). This is the price at which Kara is indifferent about sticking with or leaving the industry and defines the value she derives (for flights to Las Vegas). 
@@ -75,7 +75,7 @@ The added-value principle reveals that value creation must be novel is some way�
 
 New value may be created by forces beyond firms. Changes in macroeconomic conditions, customer tastes, or national demographics can alter industry demand. For example, an aging population and a preference for caring for chronic conditions at home have increased demand for in-home healthcare services. In 2024, the U.S. Bureau of Labor Statistics projected [17% growth over the next decade](https://www.bls.gov/ooh/healthcare/home-health-aides-and-personal-care-aides.htm). This shifts the demand curve outward, prompting in-home healthcare providers to expand their services, which creates more value.
 
-## Value capture
+## Value capture<a name="value-capture"></a>
 Customer value can be captured by anyone in the chain of value creation. This includes customers, firms, suppliers, employees, governments, and others. Value capture is illustrated in Figure 4, which depicts a monopoly market. The monopolist sets the price at `p^{*}` and production quantity to `q^{*}`, where ATC is `c^{*}`. 
 
 The colored areas in Figure 4 represent the total value created and available for capture. Customers capture the blue area. This is called *consumer surplus*. The firm captures the green area as profit. The height of the green area (the difference between `p^{*}` and `c^{*}`) is the firm’s profit per unit. Others in the value chain⁠—including suppliers, employees, and governments⁠—capture the red area. From the firm’s perspective, the red area represents explicit costs (e.g., paying suppliers for raw materials) and implicit costs (e.g., the implied rate of return expected by shareholders). 
