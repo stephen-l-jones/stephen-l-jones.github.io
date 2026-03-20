@@ -1,5 +1,5 @@
 ##### By Stephen Jones, Ph.D.
-###### Updated February 2026
+###### Updated March 2026
 
 COSTCO IS the world’s third-largest retailer. Since its founding in Seattle in 1983, the company has mastered the membership-club model, selling bulk quantities at steep discounts. Today it operates more than 900 warehouses serving 145m cardholders worldwide. Despite razor-thin margins, Costco has grown revenue and profit year after year while earning a reputation for customer loyalty and employee satisfaction. Yet its approach seems counterintuitive. It caps markups, pays workers well above industry standards, and has a product range of just 3,700 SKUs⁠—compared with tens of thousands at traditional retailers. How does Costco succeed while defying retail convention?
 
@@ -23,16 +23,16 @@ ROIC is the ratio of *net operating profit after tax* (NOPAT) to average *invest
 ```
 \text{ROIC}_t = \frac{\text{NOPAT}_t}{\text{average IC}_t} = \frac{\text{NOPAT}_t}{(\text{IC}_t + \text{IC}_{t-1})/2}
 ```
-For example, Costco’s NOPAT in the fiscal year ended August 2025 was $7.8bn, and its IC at the end of fiscal 2025 and 2024 was $36.1bn and $33.8bn, respectively. So Costco’s ROIC for 2025 was:
+For example, Costco’s NOPAT in the fiscal year ended August 2025 was $7.8bn, and its IC at the end of fiscal 2025 and 2024 was $35.8bn and $33.5bn, respectively. So Costco’s ROIC for 2025 was:
 ```
 \begin{aligned}
   \text{Costco ROIC}_{2025} &= \frac{\text{NOPAT}_{2025}}{(\text{IC}_{2025} + \text{IC}_{2024})/2} \\
-                            &= \frac{\$7.8\text{bn}}{(\$36.1\text{bn} + \$33.8\text{bn})/2} \\
-                            &= \frac{\$7.8\text{bn}}{\$35.0\text{bn}} \\
-                            &= 22.3\%
+                            &= \frac{\$7.8\text{bn}}{(\$35.8\text{bn} + \$33.4\text{bn})/2} \\
+                            &= \frac{\$7.8\text{bn}}{\$34.6\text{bn}} \\
+                            &= 22.5\%
 \end{aligned}
 ```
-For every dollar invested, Costco generated 22.3 cents in profit from operations.
+For every dollar invested, Costco generated 22.5 cents in profit from operations.
 
 ### Net operating profit after tax (NOPAT) calculation
 NOPAT, the ROIC numerator, is calculated from income-statement items. (Financial-statement items appear in ``underlined monospace``.) The formula for year `t` is:
@@ -74,20 +74,20 @@ IC is the ROIC denominator and is calculated using balance-sheet items, starting
 ```
 NIBCLs stands for *non-interest-bearing current liabilities*. They are current liabilities (due within one year) that have no implied or express rate of return. (In contrast, interest-bearing current liabilities earn a return. For example, the ``current portion of long-term debt`` earns interest.) NIBCLs include items such as ``accounts payable``, ``taxes payable``, ``unearned revenue``, ``accrued wages payable``, and other accrued liabilities. They represent capital from suppliers, governments, customers, and employees that is briefly held by the firm.
 
-NIBCLs can constitute a large portion of a firm’s capital base. Costco’s NIBCLs were $36.7bn in 2025, constituting 48% of its total assets. Of that, $27.7bn was accounts payable owed to suppliers. But suppliers are not Costco investors; they don’t earn a return by letting Costco hold money owed to them. Thus, accounts payable and other NIBCLs aren’t considered “invested” capital and are subtracted from total assets in the IC formula.
+NIBCLs can constitute a large portion of a firm’s capital base. Costco’s NIBCLs were $37bn in 2025, constituting 48% of its total assets. Over half of the NIBCLs was accounts payable owed to suppliers. But suppliers are not Costco investors; they don’t earn a return by letting Costco hold money owed to them. Thus, accounts payable and other NIBCLs aren’t considered “invested” capital and are subtracted from total assets in the IC formula.
 
 *Excess cash* is cash that is not employed in a firm’s operations. For example, at the end of 2025, Apple held $132bn of ``cash`` and [``marketable securities``](https://www.investopedia.com/terms/m/marketablesecurities.asp) (which are liquid like cash). But Apple uses only a small fraction of that cash in its day-to-day operations. Most of it sits in accounts earning a return. Since excess cash is not being used, it is subtracted from total assets in the IC formula.
 
 While conceptually clear, excess cash is difficult to quantify because it is not a balance-sheet item. So a heuristic is used to estimate it. A firm normally needs cash [equal to 2% to 5% of annual sales](https://www.shareholderforum.com/returns/Library/20140604_Mauboussin-Callahan.pdf) to run its daily operations. Cash held beyond that is excess.[^5] A stable firm in a stable industry might only need cash equal to 2% of sales. A growing firm in a volatile industry might need cash equal to 5% of sales (or more).
 
-At the end of 2025, Costco held $15.3bn in cash and short-term investments, and 2025 sales were $275.2bn. Assuming Costco needed cash equal to 4% of sales, its 2025 cash need was $275.2bn × 0.04 = $11.0bn. Thus, Costco held $15.3bn − $11.0bn = $4.3bn in excess cash.[^6] At the end of 2024, Costco had $1.0bn in excess cash. Costco’s average IC in 2025 was:
+At the end of 2025, Costco held $15.3bn in cash and short-term investments, and 2025 sales were $275.2bn. Assuming Costco needed cash equal to 4% of sales, its 2025 cash need was $275.2bn × 0.04 = $11bn. Thus, Costco held $15.3bn − $11bn = $4.3bn in excess cash.[^6] At the end of 2024, Costco had $0.9bn in excess cash. Costco’s average IC in 2025 was:
 
 |  Costco (in billions) |    2025   |    2024   | Average   |
 |:----------------------|----------:|----------:|----------:|
-|  Total assets         |   $77.1   |   $69.8   |   $73.5   |
-|  Less: NIBCLs         |   $36.7   |   $35.0   |   $35.9   |
-|  Less: Excess cash    |    $4.3   |    $1.0   |    $2.7   |
-| **Invested capital**  | **$36.1** | **$33.8** | **$35.0** |
+|  Total assets         |   $77.1   |   $69.7   |   $73.4   |
+|  Less: NIBCLs         |   $37.0   |   $35.4   |   $36.2   |
+|  Less: Excess cash    |    $4.3   |    $0.9   |    $2.6   |
+| **Invested capital**  | **$35.8** | **$33.4** | **$34.6** |
 
 These IC numbers were used to calculate Costco’s ROIC above.
 
@@ -100,11 +100,11 @@ Current assets is used to calculate a firm’s net working capital (NWC). For th
 ```
 This is a non-standard formula for NWC. (Usually it is calculated as current assets less current liabilities.) But we use this formulation because it answers the question, “How much invested capital is needed to run the firm’s day-to-day operations?” A lower NWC suggests that a firm can operate primarily on the “free” financing NIBCLs provide. Indeed, a negative NWC benefits a firm: it indicates that the firm’s NIBCLs fully meet its short-term capital needs, with some free financing to spare. 
 
-Costco had current assets of $38.4bn and $34.3bn at the end of 2025 and 2024, respectively, so its NWC was:
+Costco had current assets of $38.4bn and $34.2bn at the end of 2025 and 2024, respectively, so its NWC was:
 ```
 \begin{aligned}
-  \text{Costco NWC}_{2025} &= \$38.4\text{bn}-\$36.7\text{bn}-\$4.3\text{bn} = \text{−\$2.6bn} \\
-  \text{Costco NWC}_{2024} &= \$34.3\text{bn}-\$35.0\text{bn}-\$1.0\text{bn} = \text{−\$1.7bn}
+  \text{Costco NWC}_{2025} &= \$38.4\text{bn}-\$37.0\text{bn}-\$4.3\text{bn} = \text{−\$2.9bn} \\
+  \text{Costco NWC}_{2024} &= \$34.2\text{bn}-\$35.4\text{bn}-\$0.9\text{bn} = \text{−\$2.1bn}
 \end{aligned}
 ```
 Costco sells its goods before suppliers’ invoices become due. And it collects annual membership fees (as unearned revenue) when members join or renew. In this way, Costco’s suppliers and members finance Costco’s day-to-day operations interest-free.
@@ -117,10 +117,10 @@ This alternative formula yields the same result for Costco’s average IC in 202
 
 |  Costco (in billions)            |    2025   |    2024   | Average   |
 |:---------------------------------|----------:|----------:|----------:|
-|  Net working capital             |   −$2.6   |   −$1.7   |   −$2.1   |
-|  Net PPE + operating leases[^7]  |   $34.6   |   $31.6   |   $33.1   |
+|  Net working capital             |   −$2.9   |   −$2.1   |   −$2.5   |
+|  Net PPE + leases[^7]            |   $34.6   |   $31.6   |   $33.1   |
 |  Other assets                    |    $4.1   |    $3.9   |    $4.0   |
-| **Invested capital**             | **$36.1** | **$33.8** | **$35.0** |
+| **Invested capital**             | **$35.8** | **$33.4** | **$34.6** |
 
 ## Benchmarking ROIC<a name="benchmarking-roic"></a>
 ROIC must be compared to a benchmark to be useful. Three common benchmarks are:
@@ -129,11 +129,11 @@ ROIC must be compared to a benchmark to be useful. Three common benchmarks are:
 2. A firm’s historical ROIC.
 3. The average ROIC in a firm’s industry.
 
-Walmart is a suitable benchmark for Costco, as both companies are large U.S.-based grocery and general merchandise retailers. Walmart’s ROIC in 2025 was 13.8%. So Costco, with an ROIC of 22.3%, earned 8.5 cents more than Walmart for every dollar invested. This reveals that Costco is highly profitable, besting the world’s largest retailer. 
+Walmart is a suitable benchmark for Costco, as both companies are large U.S.-based grocery and general merchandise retailers. Walmart’s ROIC in 2025 was 13.2%. So Costco, with an ROIC of 22.5%, earned 9.3 cents more than Walmart for every dollar invested. This reveals that Costco is highly profitable, besting the world’s largest retailer. 
 
 Costco’s success came from steady improvement over time, as shown in Figure 1. Its ROIC in 2025 was nearly double its 11.4% ROIC in 2012. In contrast, Walmart’s ROIC dipped and then recovered over the same period.
 
-![Figure 1. Costco v. Walmart](../img/costco-v-walmart.png#small)
+![Figure 1. Costco v. Walmart: Return on invested capital](../img/costco-v-walmart.png#small)
 
 Costco’s ROIC also beat the industry average in grocery and general merchandise, which, combined, was an estimated 13.8% in 2025. These benchmarks show that Costco is a superior performer.
 
@@ -167,9 +167,9 @@ Capital turnover’s numerator is sales and denominator is average IC, the same 
 ```
 Costco’s capital turnover in 2025 was:
 ```
-\text{Costco capital turnover}_{2025} = \frac{\$275.2\text{bn}}{\$35.0\text{bn}} = \$7.86 
+\text{Costco capital turnover}_{2025} = \frac{\$275.2\text{bn}}{\$34.6\text{bn}} = \$7.95 
 ```
-This means Costco generated $7.86 of revenue for every dollar invested.
+This means Costco generated $7.95 of revenue for every dollar invested.
 
 ### Relationship with return on invested capital
 Return on sales and capital turnover directly relate to ROIC:
@@ -187,7 +187,7 @@ A firm with a negative return on sales will have a negative ROIC; raising capita
 ### Benchmarking operating and capital efficiency
 Return on sales and capital turnover are benchmarked the same way as ROIC. These benchmarks offer the first insight into why a firm’s ROIC is good or poor. If a firm’s return on sales diverges from the benchmark return on sales, then operating efficiency⁠—and the strategies that drive it⁠—help explain the firm’s better or worse profitability. Likewise, if a firm’s capital turnover diverges from the benchmark capital turnover, then capital efficiency and the associated strategies explain the profitability difference.
 
-Costco was more profitable than Walmart owing to superior capital efficiency. Costco’s capital turnover in 2025 dwarfed Walmart’s: $7.86 versus $4.32. Operating efficiency doesn’t explain Costco’s higher ROIC because Costco’s return on sales was lower than Walmart’s: 2.8% for Costco compared to 3.2% for Walmart. (I explain later what drives Costco’s capital efficiency.)
+Costco was more profitable than Walmart owing to superior capital efficiency. Costco’s capital turnover in 2025 dwarfed Walmart’s: $7.95 versus $4.02. Operating efficiency doesn’t explain Costco’s higher ROIC because Costco’s return on sales was lower than Walmart’s: 2.8% for Costco compared to 3.3% for Walmart. (I explain later what drives Costco’s capital efficiency.)
 
 ## Going even deeper: Expense, asset, and unit-based ratios<a name="expense-asset-and-unit-based-ratios"></a>
 Deeper analysis reveals why a firm’s operating or capital efficiency is good or poor. Expense ratios calculated from income-statement items give operating efficiency insights. And asset ratios calculated from balance-sheet items give capital efficiency insights (see Figure 2). 
@@ -230,9 +230,9 @@ Asset ratios affect capital turnover the same way that expense ratios affect ret
                             &= \left(\frac{\text{average NWC}_t}{\text{sales}_t} + \frac{\text{average PPE}_t}{\text{sales}_t} + \frac{\text{average other assets}_t}{\text{sales}_t}\right)^{-1}
 \end{aligned}
 ```
-Costco’s average other assets over sales was 1.5% in 2025. Combined with its average NWC over sales (−0.8%) and average PPE over sales (12.0%), Costco’s capital turnover can be expressed as:
+Costco’s average other assets over sales was 1.5% in 2025. Combined with its average NWC over sales (−0.9%) and average PPE over sales (12.0%), Costco’s capital turnover can be expressed as:
 ```
-\text{Costco capital turnover}_{2025} = (−0.8\%+12.0\%+1.5\%)^{-1} = \$7.86
+\text{Costco capital turnover}_{2025} = ({−}0.9\%+12.0\%+1.5\%)^{-1} ≈ \$7.95
 ```
 This formulation shows why increasing asset ratios decrease capital turnover.
 
@@ -247,21 +247,21 @@ Profitability analysis begins at the top of Figure 2 and works downward, explori
 I’ll illustrate how to analyze profitability by briefly examining Costco in 2025, using Walmart as a benchmark.
 
 ### Costco vs. Walmart
-Costco’s profitability in 2025 was strong relative to Walmart’s, as shown in Figure 3. Costco’s ROIC was 22.3% compared to Walmart’s ROIC of 13.8%. 
+Costco’s profitability in 2025 was strong relative to Walmart’s, as shown in Figure 3. Costco’s ROIC was 22.5% compared to Walmart’s ROIC of 13.2%. 
 
 ![Figure 3. Profitability analysis: Costco v. Walmart, FY 2025](../img/profitability-costco-v-walmart.png#small)
 
-Costco’s profitability was stronger because of its superior capital efficiency. Costco’s capital turnover was $7.86 compared to Walmart’s $4.32. Costco’s return on sales was lower, so its operating efficiency doesn’t explain its higher profitability.
+Costco’s profitability was stronger because of its superior capital efficiency. Costco’s capital turnover was $7.95 compared to Walmart’s $4.02. Costco’s return on sales was lower, so its operating efficiency doesn’t explain its higher profitability.
 
-Drilling deeper shows why Costco’s capital efficiency was higher. Costco’s average PPE over sales was lower than Walmart’s: 12.0% vs. 19.8%. (A lower asset ratio is better.) This reveals that Costco uses less retail space to generate each dollar of sales. Revenue per square foot highlights the difference: Costco generated $2,039 per square foot of retail space, whereas Walmart generated only $647. Costco is much better at using its warehouses to generate revenue.
+Drilling deeper shows why Costco’s capital efficiency was higher. Costco’s average PPE over sales was lower than Walmart’s: 12.0% vs. 19.8%. (A lower asset ratio is better.) This reveals that Costco uses less retail space to generate each dollar of sales. Revenue per square foot highlights the difference: Costco generated $2,072 per square foot of retail space, whereas Walmart generated only $671. Costco is much better at using its warehouses to generate revenue.
 
-On the other hand, Costco’s working capital doesn’t explain its higher profitability. Costco’s average NWC over sales was −0.8% compared to Walmart’s −2.3%. Walmart’s ratio is lower, which suggests Walmart manages its working capital better. (Walmart has a larger surplus of interest-free capital to cover day-to-day operations.)
+On the other hand, Costco’s working capital doesn’t explain its higher profitability. Costco’s average NWC over sales was −0.9% compared to Walmart’s −1.3%. Walmart’s ratio is lower, which suggests Walmart manages its working capital better. (Walmart has a larger surplus of interest-free capital to cover day-to-day operations.)
 
 Why is Costco better at generating revenue from its retail footprint? First, Costco sells in bulk quantities, which gives it greater revenue per customer visit. So a busy Costco will generate more revenue than a busy Walmart. 
 
 Second, Costco sells only high-volume merchandise. In contrast, Walmart sells many high- and low-volume products. A typical supercenter has around 120,000 SKUs; a Costco warehouse only has about 3,700 SKUs⁠—narrowed to the most in-demand items. So everything Costco sells flies off the pallet, which generates stronger revenue per square foot.
 
-Indeed, this is the key to Costco’s profitability: volume. All of its strategic decisions revolve around increasing volume. For example, Costco’s operating efficiency is lower than Walmart’s because its COGS over sales is worse than Walmart’s: 87.2% vs. 75.1%. (A higher expense ratio is worse.) But this suggests Costco is making a strategic choice. Costco scrupulously limits the markup on the goods it sells, such as its $4.99 whole roasted chicken. So its higher COGS over sales represents a lower retail price than Walmart, not a higher input cost. And its annual membership fee allows it to lower prices further. Costco’s low prices drive greater demand, which further pushes up volumes.
+Indeed, this is the key to Costco’s profitability: volume. All of its strategic decisions revolve around increasing volume. For example, Costco’s operating efficiency is lower than Walmart’s because its COGS over sales is worse than Walmart’s: 87.2% vs. 75.2%. (A higher expense ratio is worse.) But this suggests Costco is making a strategic choice. Costco scrupulously limits the markup on the goods it sells, such as its $4.99 whole roasted chicken. So its higher COGS over sales represents a lower retail price than Walmart, not a higher input cost. And its annual membership fee allows it to lower prices further. Costco’s low prices drive greater demand, which further pushes up volumes.
 
 Now imagine that Costco wanted to sell a wider variety of products to be more convenient⁠—to be more of a one-stop shop like Walmart. What would happen to its performance? A large increase in SKUs would cause Costco’s profitability to plummet. The added SKUs would have lower volumes, hurting its capital efficiency. So Costco cannot copy Walmart. 
 
@@ -281,7 +281,7 @@ This analysis shows that while Costco and Walmart both focus on low cost, they h
 
 [^5]. The formula is `\text{max}(0,\ \text{cash}_t − \text{sales}_t \times p)`, where `p` is a chosen percentage (e.g., 2%). Alternatively, excess cash can be considered any cash that’s not needed to cover a firm’s current liabilities less non-cash current assets. The alternative formula is `\text{min}(\text{cash}_t,\ \text{max}(0,\ \text{current assets}_t − \text{current liabilities}_t))`.
 
-[^6]. Using the alternative method in footnote 5, Costco’s excess cash in 2025 was `\text{min}(\$14.2\text{bn},\ \text{max}(0,\ \$38.4\text{bn}−\$37.1\text{bn})) = \$1.3\text{bn}`.
+[^6]. Using the alternative method in footnote 5, Costco’s excess cash in 2025 was `\text{min}(\$15.3\text{bn},\ \text{max}(0,\ \$38.4\text{bn}−\$37.1\text{bn})) = \$1.3\text{bn}`.
 
 [^7]. Many firms choose to lease rather than own the land and buildings they use. These leases are called right-of-use assets and appear separately from PPE on a balance sheet. They are considered PPE for profitability analysis and should be added to PPE when calculating IC. 
 
