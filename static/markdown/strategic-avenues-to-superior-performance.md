@@ -6,15 +6,15 @@ FIRMS REACH superior performance in different ways. Beneath those differences li
 ## Value composition<a name="value-composition"></a>
 Customer value, price, cost, and sales define the composition of value⁠—how value is created and divided by a firm. A strategic avenue uniquely affects value composition, which is easily diagrammed.
 
-A value composition diagram uses simple stacked bars to compare differences in value creation and capture.[^1] It is based on a firm’s demand and cost curves, as shown in Figure 1. Panel A recreates Figure 4 from [_Value Creation and Value Capture_](./value-creation-and-value-capture), which depicts a monopoly. The blue area represents consumer surplus captured by customers. The green area represents profit captured by the monopolist. And the red area represents value captured by others in the value chain, such as suppliers and employees. The value in Panel A is represented by the first stacked bar of panel B, before rivals enter the market. The height of the bar at `V` represents the average customer value per unit, or simply “unit value.” The height at `P` represents the average price of the product. And the height at `C` represents the average total cost per unit, or “unit cost.” The width of the bar represents the quantity demanded, or “unit sales.” `V − P` is the average consumer surplus per unit, and `P − C` is the firm’s average profit per unit, or “unit margin.” Like panel A, the blue, green, and red areas in panel B represent value captured by the customer, firm, and value chain, respectively. 
+A value composition diagram uses simple stacked bars to compare differences in value creation and capture.[^1] It is based on a firm’s demand and cost curves, as shown in Figure 1. Panel A recreates Figure 4 from “[Value Creation and Value Capture](./value-creation-and-value-capture),” which depicts a monopoly. The blue area represents consumer surplus captured by customers. The green area represents profit captured by the monopolist. And the red area represents value captured by others in the value chain, such as suppliers and employees. The value in Panel A is represented by the first stacked bar of panel B, before rivals enter the market. The height of the bar at `V` represents the average customer value per unit, or simply “unit value.” The height at `P` represents the average price of the product. And the height at `C` represents the average total cost per unit, or “unit cost.” The width of the bar represents the quantity demanded, or “unit sales.” `V − P` is the average consumer surplus per unit, and `P − C` is the firm’s average profit per unit, or “unit margin.” Like panel A, the blue, green, and red areas in panel B represent value captured by the customer, firm, and value chain, respectively. 
 
-![Figure 1. Diagramming new rival entry](../img/value-composition.png#small)
+![Figure 1. Diagramming new rival entry](../img/value-composition.svg#small)
 
 Value composition diagrams compare two or more firms or compare the same firm at different times. The comparisons illustrate how strategies alter unit value, price, unit cost, or unit sales. In panel B, competition lowers demand for the monopolist’s product, which reduces unit sales (represented by the narrower width). Unit cost increases because the monopolist loses economies of scale. And the monopolist must lower its price. Combined, these shrink the monopolist’s profit. Note, however, that added rivalry does not lower value per unit. The firm creates the same value, but customers capture more of it.
 
 Consider the value composition of selected U.S. airlines in Figure 2, panel A. Delta and American created similar value per ticket in 2024 (with Delta slightly higher) because of their similar class options (economy, first-class, etc.), airport lounges, and frequent flyer programs. Their ticket sales were also similar, depicted by their comparable widths. (The “ticket” I use here is standardized at 1,500 passenger miles, analogous to a flight from Washington D.C. to Denver, Colorado.) But Delta’s revenue per ticket (which includes the fare, baggage fees, and other revenues) was $400 while American’s was only $364⁠—a $36 difference. And Delta generated more profit per ticket: $24 versus American’s $8. Thus, Delta stronger profit came from higher pricing and greater efficiency. 
 
-![Figure 2. U.S. airline industry](../img/carrier-value-composition.png#small)
+![Figure 2. U.S. airline industry](../img/carrier-value-composition.svg#small)
 
 Southwest created less value per ticket than Delta or American (depicted by its shorter height) because it focuses on economy class and has fewer frills. Frontier created even less unit value as a no-frills airline. Frontier was smaller than its rivals in 2024 based on ticket sales. Frontier’s revenue per ticket was only $185, which is much lower than the other three airlines. But its cost per ticket was also lower, so it scraped out a $4 profit per ticket. Frontier targets a different kind of flyer: a bargain hunter who will forgo perks for a cheaper flight.
 
@@ -42,7 +42,7 @@ Alternatively, firms may use a [price discrimination](https://www.khanacademy.or
 
 Figure 3 depicts how price discrimination affects profit. Raising prices for customers who have a higher willingness to pay captures, as profit, value that otherwise would be consumer surplus. This increases unit margin.
 
-![Figure 3. Pricing](../img/vcd-ave-1.png)
+![Figure 3. Pricing](../img/vcd-ave-1.svg)
 
 Price discrimination can also increase unit sales. This happens when firms offer a lower price to potential customers with a lower willingness to pay (such as a senior citizen discount at a restaurant) while holding price steady for existing customers.
 
@@ -63,7 +63,7 @@ Nike, which has long dominated the athletic apparel and footwear industry, uses 
 
 When firms like Burberry, Nike, and Square innovate and strengthen their brands, they increase customers’ willingness to pay. This is depicted in panel A of Figure 4 by the increase in unit value. Firms also incur additional expenses, often in R&D and marketing, which increase unit cost. But as long as unit value increases more than unit cost, firms can grow their profit. They do so by increasing their price, potentially as much as the increase in unit value⁠—leaving consumer surplus unchanged. In this way, firms capture most of the newly created value.
 
-![Figure 4. Value creation](../img/vcd-ave-2.png#small)
+![Figure 4. Value creation](../img/vcd-ave-2.svg#small)
 
 Panel B shows an alternate way to increase profit. Instead of raising their price, firms may let customers capture most of the newly created value. This will increase demand and expand unit sales. This strategy works well when demand is elastic and greater production creates economies of scale. The scale economies can offset the additional R&D and marketing costs from value creation, helping retain the original profit margin. 
 
@@ -84,9 +84,9 @@ Other retailers are using automation to lower costs. [Amazon’s massive warehou
 
 Strategic supply chain relationships often play a role in lowering costs. Tesla built its Gigafactory 1 in Nevada with its partner Panasonic, a Japanese electronics conglomerate. Both Tesla and Panasonic employ workers at the [4.9 million square-foot Gigafactory](https://www.theverge.com/transportation/2018/11/30/18118451/tesla-gigafactory-nevada-video-elon-musk-jobs-model-3). Panasonic manufactures battery cells that Tesla uses in its Model 3 sedans. Panasonic’s intellectual property and manufacturing prowess provide Tesla access to the latest in battery technology without needing to develop the technology in house. Because Panasonic is co-located inside the facility, Tesla can create more efficient manufacturing processes. The partnership is duplicated at the [Gigafactory 2 site in New York](https://electrek.co/2019/05/15/tesla-gigafactory-2-panasonic-solar-companies/). Panasonic produces solar cells that are used in Tesla’s solar panel business. While the partnership benefits both companies, it is not exclusive. Panasonic sells its solar cells to other solar manufacturers, and Tesla uses other partners for its [Gigafactory 3 in Shanghai, China](https://electrek.co/2019/11/27/panasonic-partner-tesla-gigafactory-3-battery-production/).
 
-Efficiency strategies can lower fixed or variable costs, which increase profit in different ways, as shown in Figure 5. Panel A depicts firms that lower their fixed costs. This lowers unit cost but doesn’t require a change in price to maximize profit (see [_Value Creation and Value Capture_](./value-creation-and-value-capture)). Thus, the increase in profit is caused by improved unit margin, not unit sales. Panel B depicts firms that lower their variable costs. Lower variable costs allow firms to cut prices, attracting more price-conscious customers. This, in turn, increases unit sales, creates greater economies of scale, and maximizes profit. Thus, lowering variable costs increases unit margins and unit sales. 
+Efficiency strategies can lower fixed or variable costs, which increase profit in different ways, as shown in Figure 5. Panel A depicts firms that lower their fixed costs. This lowers unit cost but doesn’t require a change in price to maximize profit (see “[Value Creation and Value Capture](./value-creation-and-value-capture)”). Thus, the increase in profit is caused by improved unit margin, not unit sales. Panel B depicts firms that lower their variable costs. Lower variable costs allow firms to cut prices, attracting more price-conscious customers. This, in turn, increases unit sales, creates greater economies of scale, and maximizes profit. Thus, lowering variable costs increases unit margins and unit sales. 
 
-![Figure 5. Efficiency](../img/vcd-ave-3.png#small)
+![Figure 5. Efficiency](../img/vcd-ave-3.svg#small)
 
 Efficiency strategies are common, but firms must be careful not to destroy customer value when implementing them. The quest for lower costs can have unintended consequences on brand reputation or product quality, which can be tragic at times. For example, two Boeing 737 MAX planes crashed in Indonesia and Ethiopia, killing all 346 people aboard. A postmortem revealed that years of prioritizing cost and schedule impeded Boeing’s traditional emphasis on engineering excellence and safety. In this case, a system meant to stabilize the plane malfunctioned, causing the planes to crash soon after takeoff. 
 
@@ -105,14 +105,14 @@ In the pharmaceutical industry, firms “repurpose” their existing drugs, mean
 
 Market expansion increases profit by increasing unit sales, as shown in Figure 6. Market expansion doesn’t require higher unit value or lower unit cost, though either may accompany it.
 
-![Figure 6. Market expansion](../img/vcd-ave-4.png)
+![Figure 6. Market expansion](../img/vcd-ave-4.svg)
 
 Seeking out new country markets, new distribution channels, and new uses for products raises the risk of new competition. Entry into a foreign country can provoke foreign incumbents, which may enter a firm’s home market in response. And entry into a partner’s channel can cause friction. When Nike began opening traditional retail stores beyond its NikeTowns and outlet stores, Foot Locker and other shoe retailers resisted, cancelling their Nike orders. This forced Nike to reassure retail partners that its limited move into retail was not meant to replace them. 
 
 ## 5. Rivalry-reduction avenue<a name="5-rivalry-reduction-avenue"></a>
 Rivalry reduction is rooted in market power. It attempts to increase leverage over customers and suppliers and keep out new entrants. Reducing competition lets firms raise prices (which shrinks consumer surplus) and bargain down supply costs (which lowers the value captured by suppliers). Thus, rivalry reduction leads to increased profits through higher price and lower unit cost, as Figure 7 illustrates. It doesn’t necessarily change unit value or unit sales.
 
-![Figure 7. Rivalry reduction](../img/vcd-ave-5.png)
+![Figure 7. Rivalry reduction](../img/vcd-ave-5.svg)
 
 Firms can limit competition and increase their power through acquisition. For example, the U.S. airline industry experienced a wave of consolidation during the Great Recession and over the next decade. Delta merged with Northwest Airlines in 2008. United merged with Continental two years later. The next year Southwest merged with AirTran, and American merged with US Airways the year after. In 2017, Alaska merged with Virgin America. Concentration in the U.S. domestic market for the top four firms⁠—American, Delta, Southwest, and United⁠—increased from 42% in 2006 to 64% in 2018, according to the Bureau of Transportation Statistics. This lowered rivalry on some routes, making it easier to raise fares.
 

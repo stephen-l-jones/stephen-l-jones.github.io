@@ -24,7 +24,7 @@ These IO theories assert that firms are relatively homogeneous within an industr
 
 Evidence suggests that industries affect firm performance. The profitability of 85 global industries in 2018 is shown in Figure 1, ordered by return on invested capital (ROIC)[^1] less the cost of capital.[^2] Industries on the left were highly profitable, including tobacco (34%), healthcare services (19%), and aerospace (13%). Industries on the right performed poorly. Autos and telecom had an ROIC of 2% and 5% *below* their cost of capital, respectively. 
 
-![Figure 1. Industry return on invested capital less cost of capital](../img/industry-roic.png#small)
+![Figure 1. Industry return on invested capital less cost of capital](../img/industry-roic.svg#small)
 
 Yet focusing on industry alone has clear limitations. These theories help firms choose *where* to compete but offer little guidance on *how* to compete once there. 
 
@@ -37,7 +37,7 @@ Those in the IO economics camp pushed back against the resource-based view. They
 
 Figure 2 illustrates these differences in five industries in the United States from 2016-18. The circles indicate the profitability of the firms in each industry, measured by ROIC. The profitability of automotive firms varied widely, but the profitability of apparel firms stayed within a narrower band. This suggests apparel firms are constrained by their industry. 
 
-![Figure 2. Return on invested capital of U.S. firms in selected industries](../img/firm-roic.png#small)
+![Figure 2. Return on invested capital of U.S. firms in selected industries](../img/firm-roic.svg#small)
 
 Yet the industry effects pale in comparison to individual firm effects. The industry average ROICs, indicated by the dashed lines, were quite similar, ranging from 7% to 12%, whereas the variation in individual firms’ ROICs was much larger. Even in apparel, the most constrained industry, firm profitability ranged from −2% to 24%. 
 
@@ -82,7 +82,7 @@ The true benefit of these strategy theories is the guidance they provide in a wi
 
 ---
 
-[^1]. ROIC captures the profit created for every dollar of capital invested in a firm, expressed as a percentage. See [*Profitability Analysis*](https://stephen-l-jones.github.io/articles/profitability-analysis) for more detail.
+[^1]. ROIC captures the profit created for every dollar of capital invested in a firm, expressed as a percentage. See “[Profitability Analysis](https://stephen-l-jones.github.io/articles/profitability-analysis)” for more detail.
 
 [^2]. For firms to create economic value, they must earn an ROIC higher than their cost of capital. The cost of capital is the rate of return that investors expect given a firm’s risk profile. If a firm fails to generate an ROIC above its cost of capital, then investors lose⁠—they could have employed their capital more productively elsewhere.
 

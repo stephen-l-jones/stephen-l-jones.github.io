@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="640"
+   height="670"
+   viewBox="0 0 169.33333 177.27083"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="strategy-components-framework.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.4274172"
+     inkscape:cx="398.62206"
+     inkscape:cy="386.36216"
+     inkscape:window-width="2560"
+     inkscape:window-height="1351"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect5"
+       width="105.63383"
+       height="57.840034"
+       x="31.849747"
+       y="117.07367"
+       rx="5.8208332"
+       ry="5.8208332"
+       inkscape:label="background" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect1"
+       width="164.7829"
+       height="154.69226"
+       x="2.2752144"
+       y="11.289731"
+       rx="5.8208332"
+       ry="5.8208332"
+       inkscape:label="background" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-dasharray:none"
+       id="rect6"
+       width="105.63383"
+       height="57.840034"
+       x="31.849747"
+       y="2.4298728"
+       rx="5.8208332"
+       ry="5.8208332"
+       inkscape:label="background" />
+    <g
+       id="g51"
+       inkscape:label="internal"
+       transform="matrix(0.27760242,0,0,0.2776063,-19.15174,-36.287418)"
+       style="stroke-width:0.953095">
+      <path
+         d="m 387.0009,193.41114 c 0,-8.64157 6.15701,-15.6462 13.75285,-15.6462 H 650.2437 c 7.59584,0 13.75283,7.00463 13.75283,15.6462 v 513.18174 c 0,8.64155 -6.15699,15.64618 -13.75283,15.64618 H 400.75375 c -7.59584,0 -13.75285,-7.00463 -13.75285,-15.64618 z"
+         stroke="#999999"
+         stroke-width="0.666666"
+         stroke-miterlimit="8"
+         stroke-dasharray="2.66667, 2"
+         fill="none"
+         fill-rule="evenodd"
+         id="path4"
+         style="stroke:#777777;stroke-width:0.953095;stroke-dasharray:3.81239, 2.8593;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         fill="#333333"
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="22.4631px"
+         transform="scale(1.0000107,0.9999893)"
+         id="text5"
+         style="font-size:21.3333px;fill:#000000;fill-opacity:1;stroke-width:0.953094"
+         x="616.18646"
+         y="716.53845"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.953094"
+           id="tspan48">Internal</tspan></text>
+    </g>
+    <g
+       id="g52"
+       inkscape:label="external"
+       transform="matrix(0.27760242,0,0,0.2776063,-19.15174,-36.287418)"
+       style="stroke-width:0.953095">
+      <path
+         d="m 84.001451,193.32273 c 0,-8.59254 6.157335,-15.55865 13.752259,-15.55865 h 249.49022 c 7.59491,0 13.75223,6.96611 13.75223,15.55865 v 513.35681 c 0,8.59255 -6.15732,15.55866 -13.75223,15.55866 H 97.75371 c -7.594924,0 -13.752259,-6.96611 -13.752259,-15.55866 z"
+         stroke="#999999"
+         stroke-width="0.666666"
+         stroke-miterlimit="8"
+         stroke-dasharray="2.66667, 2"
+         fill="none"
+         fill-rule="evenodd"
+         id="path6"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#777777;stroke-width:0.953092;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:8;stroke-dasharray:3.81239, 2.85929;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1" />
+      <text
+         fill="#333333"
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="22.4631px"
+         transform="scale(1.0000107,0.9999893)"
+         id="text7"
+         style="font-size:21.3333px;fill:#000000;fill-opacity:1;stroke-width:0.953094"
+         x="134.53651"
+         y="716.53845"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.953094"
+           id="tspan49">External</tspan></text>
+    </g>
+    <g
+       id="g53"
+       inkscape:label="capabilities"
+       transform="matrix(0.27760241,0,0,0.2776063,-19.156636,-36.287419)"
+       style="stroke-width:0.953095">
+      <path
+         d="m 190.25001,570.30925 c 0,-9.42176 8.14741,-17.05925 18.19819,-17.05925 h 331.10361 c 10.05077,0 18.19818,7.63749 18.19818,17.05925 v 167.3815 c 0,9.42176 -8.14741,17.05925 -18.19818,17.05925 H 208.4482 c -10.05078,0 -18.19819,-7.63749 -18.19819,-17.05925 z"
+         stroke="#999999"
+         stroke-width="0.666666"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="#f5f5f5"
+         fill-rule="evenodd"
+         id="path1"
+         style="fill:#e2e2e2;fill-opacity:0.67;stroke-width:0.476547;stroke-dasharray:none" />
+      <text
+         fill="#333333"
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="22.4631px"
+         id="text1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#000000;fill-opacity:1;stroke-width:0.953094"
+         x="373.96582"
+         y="744.80469"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.953094"
+           id="tspan46">Capabilities</tspan></text>
+    </g>
+    <g
+       id="g54"
+       inkscape:label="value-proposition"
+       transform="matrix(0.27760241,0,0,0.2776063,-19.15174,-36.287419)"
+       style="stroke-width:0.953095">
+      <path
+         d="m 190.25001,162.30927 c 0,-9.42175 8.14741,-17.05927 18.19819,-17.05927 h 331.10361 c 10.05077,0 18.19818,7.63752 18.19818,17.05927 v 167.38149 c 0,9.42176 -8.14741,17.05924 -18.19818,17.05924 H 208.4482 c -10.05078,0 -18.19819,-7.63748 -18.19819,-17.05924 z"
+         stroke="#999999"
+         stroke-width="0.666666"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         fill="#f5f5f5"
+         fill-rule="evenodd"
+         id="path2"
+         style="fill:#e2e2e2;fill-opacity:0.67000002;stroke:#777777;stroke-width:0.476547;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         fill="#333333"
+         font-family="Roboto, Roboto_MSFontService, sans-serif"
+         font-weight="400"
+         font-size="22.4631px"
+         id="text3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Roboto;-inkscape-font-specification:Roboto;fill:#000000;fill-opacity:1;stroke-width:0.953094"
+         x="374.58594"
+         y="169.41406"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.953094"
+           id="tspan47">Value proposition</tspan></text>
+    </g>
+    <g
+       id="g39"
+       inkscape:label="hub-and-spoke"
+       transform="matrix(0.27760241,0,0,0.2776063,-34.014092,-46.32516)"
+       style="stroke-width:0.953095">
+      <path
+         d="m 405.20358,486.1582 c 0,-12.32589 9.99141,-22.31754 22.31704,-22.31754 12.32561,0 22.31704,9.99164 22.31704,22.31754 0,12.32588 -9.99143,22.3175 -22.31704,22.3175 -12.32563,0 -22.31704,-9.99162 -22.31704,-22.3175 z"
+         stroke="#999999"
+         stroke-width="3"
+         stroke-miterlimit="8"
+         fill="#f2f2f2"
+         fill-rule="evenodd"
+         id="path32"
+         style="display:inline;fill:#f1f1f1;fill-opacity:1;stroke:#777777;stroke-width:3.81238;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="font-variation-settings:normal;opacity:1;fill:#fea7a4;fill-opacity:0.164933;stroke:#777777;stroke-width:3.81238;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 367.52063,598.1582 46.50622,-93.18564"
+         id="path34"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="font-variation-settings:normal;opacity:1;fill:#fea7a4;fill-opacity:0.164933;stroke:#777777;stroke-width:3.81238;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 487.52063,598.1582 441.01437,504.97256"
+         id="path35" />
+      <path
+         style="font-variation-settings:normal;opacity:1;fill:#fea7a4;fill-opacity:0.164933;stroke:#777777;stroke-width:3.81238;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 367.52063,374.15817 46.50622,93.18564"
+         id="path36" />
+      <path
+         style="font-variation-settings:normal;opacity:1;fill:#fea7a4;fill-opacity:0.164933;stroke:#777777;stroke-width:3.81238;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 441.01437,467.34381 46.50626,-93.18564"
+         id="path37" />
+      <path
+         style="font-variation-settings:normal;opacity:1;fill:#fea7a4;fill-opacity:0.164933;stroke:#777777;stroke-width:3.81238;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 317.02063,486.15818 88.18295,2e-5"
+         id="path38"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="font-variation-settings:normal;opacity:1;fill:#fea7a4;fill-opacity:0.164933;stroke:#777777;stroke-width:3.81238;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 449.83766,486.1582 88.18297,-3e-5"
+         id="path39" />
+    </g>
+    <g
+       id="g46"
+       inkscape:label="components"
+       transform="matrix(0.27760241,0,0,0.2776063,-28.38373,-44.475041)"
+       style="stroke-width:0.953095">
+      <g
+         id="g50"
+         inkscape:label="external"
+         style="stroke-width:0.953095"
+         transform="translate(-20.264466,-6.6645273)">
+        <g
+           id="g43"
+           inkscape:label="competitor"
+           style="stroke-width:0.953095">
+          <path
+             d="m 161.02063,419.51323 c 0,-6.27118 5.08386,-11.35506 11.35506,-11.35506 h 133.28988 c 6.27119,0 11.35506,5.08388 11.35506,11.35506 v 133.28989 c 0,6.2712 -5.08387,11.35506 -11.35506,11.35506 H 172.37569 c -6.2712,0 -11.35506,-5.08386 -11.35506,-11.35506 z"
+             stroke="#e06a6a"
+             stroke-linejoin="round"
+             stroke-miterlimit="10"
+             fill="#ea9999"
+             fill-rule="evenodd"
+             id="path8"
+             style="font-variation-settings:normal;display:inline;opacity:1;fill:#fea7a4;fill-opacity:1;stroke:#cb3b32;stroke-width:0.953095;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+             inkscape:label="competitor" />
+          <text
+             fill="#333333"
+             font-family="Roboto, Roboto_MSFontService, sans-serif"
+             font-weight="700"
+             font-size="22.4631px"
+             id="text9"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';stroke-width:0.953094"
+             x="163.55188"
+             y="494.69528"><tspan
+               style="font-size:24px;fill:#000000;fill-opacity:1;stroke-width:0.953094;-inkscape-font-specification:'Roboto Bold';font-family:Roboto;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+               id="tspan39">COMPETITOR</tspan></text>
+        </g>
+        <g
+           id="g44"
+           inkscape:label="partner"
+           style="stroke-width:0.953095">
+          <path
+             d="m 251.0206,608.01323 c 0,-6.27118 5.08387,-11.35506 11.35506,-11.35506 h 133.28988 c 6.2712,0 11.35506,5.08388 11.35506,11.35506 V 741.3031 c 0,6.27119 -5.08386,11.35507 -11.35506,11.35507 H 262.37566 c -6.27119,0 -11.35506,-5.08388 -11.35506,-11.35507 z"
+             stroke="#927fc3"
+             stroke-linejoin="round"
+             stroke-miterlimit="10"
+             fill="#b4a7d6"
+             fill-rule="evenodd"
+             id="path16"
+             style="font-variation-settings:normal;opacity:1;fill:#e8b3fd;fill-opacity:1;stroke:#b246d0;stroke-width:0.953095;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+             inkscape:label="partner" />
+          <text
+             fill="#333333"
+             font-family="Roboto, Roboto_MSFontService, sans-serif"
+             font-weight="700"
+             font-size="22.4631px"
+             id="text16"
+             style="font-size:24px;fill:#000000;fill-opacity:1;stroke-width:0.953094;-inkscape-font-specification:'Roboto Bold';font-family:Roboto;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+             x="276.0271"
+             y="683.18939">PARTNER</text>
+        </g>
+        <g
+           id="g40"
+           inkscape:label="customer"
+           style="stroke-width:0.953095">
+          <path
+             d="m 251.0206,232.71929 c 0,-7.2137 5.91241,-13.06112 13.20627,-13.06112 h 129.58747 c 7.29387,0 13.20626,5.84742 13.20626,13.06112 v 129.87773 c 0,7.21371 -5.91239,13.06115 -13.20626,13.06115 H 264.22687 c -7.29386,0 -13.20627,-5.84744 -13.20627,-13.06115 z"
+             stroke="#dff600"
+             stroke-linejoin="round"
+             stroke-miterlimit="10"
+             fill="#f6ff97"
+             fill-rule="evenodd"
+             id="path20"
+             style="font-variation-settings:normal;opacity:1;fill:#fbf270;fill-opacity:1;stroke:#a29d63;stroke-width:0.953095;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+             inkscape:label="box" />
+          <text
+             fill="#333333"
+             font-family="Roboto, Roboto_MSFontService, sans-serif"
+             font-weight="700"
+             font-size="22.4631px"
+             id="text21"
+             style="font-size:24px;fill:#000000;fill-opacity:1;stroke-width:0.953094"
+             x="265.15341"
+             y="306.19528"
+             inkscape:label="label"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+               id="tspan1">CUSTOMER</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g49"
+         inkscape:label="internal"
+         style="stroke-width:0.953095"
+         transform="translate(14.296528,14.296326)">
+        <g
+           id="g42"
+           inkscape:label="finance"
+           style="stroke-width:0.953095"
+           transform="translate(-34.560994,-20.960853)">
+          <path
+             d="m 538.02063,419.51323 c 0,-6.27118 5.08385,-11.35506 11.35506,-11.35506 h 133.28988 c 6.27119,0 11.35506,5.08388 11.35506,11.35506 v 133.28989 c 0,6.2712 -5.08387,11.35506 -11.35506,11.35506 H 549.37569 c -6.27121,0 -11.35506,-5.08386 -11.35506,-11.35506 z"
+             stroke="#98e779"
+             stroke-linejoin="round"
+             stroke-miterlimit="10"
+             fill="#cdf3bd"
+             fill-rule="evenodd"
+             id="path10"
+             style="font-variation-settings:normal;display:inline;opacity:1;fill:#93d789;fill-opacity:1;stroke:#647e61;stroke-width:0.953095;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+             inkscape:label="finance" />
+          <text
+             fill="#333333"
+             font-family="Roboto, Roboto_MSFontService, sans-serif"
+             font-weight="700"
+             font-size="22.4631px"
+             id="text11"
+             style="font-size:24px;fill:#000000;fill-opacity:1;stroke-width:0.953094;-inkscape-font-specification:'Roboto Bold';font-family:Roboto;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+             x="565.72375"
+             y="494.69528">FINANCE</text>
+        </g>
+        <g
+           id="g45"
+           inkscape:label="operations"
+           style="stroke-width:0.953095"
+           transform="translate(-34.560994,-20.960853)">
+          <path
+             d="m 448.02061,608.01324 c 0,-6.27118 5.08381,-11.35507 11.35501,-11.35507 h 133.28997 c 6.2712,0 11.35501,5.08389 11.35501,11.35507 v 133.28987 c 0,6.27119 -5.08381,11.35507 -11.35501,11.35507 H 459.37562 c -6.2712,0 -11.35501,-5.08389 -11.35501,-11.35507 z"
+             stroke="#8fcaff"
+             stroke-linejoin="round"
+             stroke-miterlimit="10"
+             fill="#c2e2ff"
+             fill-rule="evenodd"
+             id="path17"
+             style="font-variation-settings:normal;opacity:1;fill:#9ccbff;fill-opacity:1;stroke:#3c7cb0;stroke-width:0.953094;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+             inkscape:label="operations" />
+          <text
+             fill="#333333"
+             font-family="Roboto, Roboto_MSFontService, sans-serif"
+             font-weight="700"
+             font-size="22.4631px"
+             id="text18"
+             style="font-size:24px;fill:#000000;fill-opacity:1;stroke-width:0.953094;-inkscape-font-specification:'Roboto Bold';font-family:Roboto;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+             x="453.08252"
+             y="683.18945">OPERATIONS</text>
+        </g>
+        <g
+           id="g41"
+           inkscape:label="product"
+           style="stroke-width:0.953095"
+           transform="translate(-34.560994,-20.960853)">
+          <path
+             d="m 448.02061,230.88844 c 0,-6.20227 5.08387,-11.23027 11.35507,-11.23027 h 133.28987 c 6.2712,0 11.35507,5.028 11.35507,11.23027 v 133.53943 c 0,6.20229 -5.08387,11.2303 -11.35507,11.2303 H 459.37568 c -6.2712,0 -11.35507,-5.02801 -11.35507,-11.2303 z"
+             stroke="#f5a555"
+             stroke-linejoin="round"
+             stroke-miterlimit="10"
+             fill="#f9cb9c"
+             fill-rule="evenodd"
+             id="path22"
+             style="font-variation-settings:normal;opacity:1;fill:#ffc881;fill-opacity:1;stroke:#a47a37;stroke-width:0.953095;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1" />
+          <text
+             fill="#404040"
+             font-family="Roboto, Roboto_MSFontService, sans-serif"
+             font-weight="700"
+             font-size="22.4631px"
+             id="text23"
+             style="font-size:24px;fill:#000000;fill-opacity:1;stroke-width:0.953094;-inkscape-font-specification:'Roboto Bold';font-family:Roboto;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
+             x="470.9718"
+             y="306.19528">PRODUCT</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

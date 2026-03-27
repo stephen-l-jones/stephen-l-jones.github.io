@@ -133,7 +133,7 @@ Walmart is a suitable benchmark for Costco, as both companies are large U.S.-bas
 
 Costco’s success came from steady improvement over time, as shown in Figure 1. Its ROIC in 2025 was nearly double its 11.4% ROIC in 2012. In contrast, Walmart’s ROIC dipped and then recovered over the same period.
 
-![Figure 1. Costco v. Walmart: Return on invested capital](../img/costco-v-walmart.png#small)
+![Figure 1. Costco v. Walmart: Return on invested capital](../img/costco-v-walmart.svg#small)
 
 Costco’s ROIC also beat the industry average in grocery and general merchandise, which, combined, was an estimated 13.8% in 2025. These benchmarks show that Costco is a superior performer.
 
@@ -143,7 +143,7 @@ A positive ROIC does not ensure that a firm is creating economic value. If a fir
 ## Going deeper: Return on sales and capital turnover<a name="return-on-sales-and-capital-turnover"></a>
 ROIC tells *if* a firm is profitable, but it doesn’t explain *why*. That requires deeper analysis, as shown in Figure 2. The first step is to separate ROIC into two additional ratios: return on sales and capital turnover. The two ratios give different explanations for a firm’s profitability.
 
-![Figure 2. Profitability analysis ratios](../img/profitability-ratios.png#small)
+![Figure 2. Profitability analysis ratios](../img/profitability-ratios.svg#small)
 
 ### Return on sales
 Return on sales measures a firm’s operating efficiency. It is the percentage of revenue that becomes profit after subtracting operating costs. Firms that control their costs earn a higher return on sales.
@@ -249,7 +249,7 @@ I’ll illustrate how to analyze profitability by briefly examining Costco in 20
 ### Costco vs. Walmart
 Costco’s profitability in 2025 was strong relative to Walmart’s, as shown in Figure 3. Costco’s ROIC was 22.5% compared to Walmart’s ROIC of 13.2%. 
 
-![Figure 3. Profitability analysis: Costco v. Walmart, FY 2025](../img/profitability-costco-v-walmart.png#small)
+![Figure 3. Profitability analysis: Costco v. Walmart, FY 2025](../img/profitability-costco-v-walmart.svg#small)
 
 Costco’s profitability was stronger because of its superior capital efficiency. Costco’s capital turnover was $7.95 compared to Walmart’s $4.02. Costco’s return on sales was lower, so its operating efficiency doesn’t explain its higher profitability.
 

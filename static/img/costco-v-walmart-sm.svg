@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='480.00pt' height='270.00pt' viewBox='0 0 480.00 270.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw0ODAuMDB8MC4wMHwyNzAuMDA='>
+    <rect x='0.00' y='0.00' width='480.00' height='270.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw0ODAuMDB8MC4wMHwyNzAuMDA=)'>
+<rect x='0.00' y='0.00' width='480.00' height='270.00' style='stroke-width: 1.36; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpMzkuMjV8NDczLjAzfDYuOTd8MjI3LjI1'>
+    <rect x='39.25' y='6.97' width='433.78' height='220.27' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMzkuMjV8NDczLjAzfDYuOTd8MjI3LjI1)'>
+<polyline points='43.50,154.56 75.72,141.86 107.94,148.47 140.16,133.26 172.37,142.39 204.59,132.74 236.81,115.01 269.03,101.06 301.24,81.55 333.46,62.46 365.68,56.38 397.90,68.44 430.11,45.89 462.33,39.07 ' style='stroke-width: 2.13; stroke: #FF7F00; stroke-linecap: butt;' />
+<polyline points='43.50,135.36 75.72,143.33 107.94,155.08 140.16,153.30 172.37,162.74 204.59,165.78 236.81,173.86 269.03,180.57 301.24,171.44 333.46,179.42 365.68,150.57 397.90,185.60 430.11,144.28 462.33,135.15 ' style='stroke-width: 2.13; stroke: #222222; stroke-linecap: butt;' />
+<text x='385.01' y='48.66' text-anchor='end' style='font-size: 14.00px;fill: #FF7F00; font-family: "Roboto";' textLength='44.20px' lengthAdjust='spacingAndGlyphs'>Costco</text>
+<text x='385.01' y='195.51' text-anchor='end' style='font-size: 14.00px;fill: #222222; font-family: "Roboto";' textLength='52.78px' lengthAdjust='spacingAndGlyphs'>Walmart</text>
+</g>
+<g clip-path='url(#cpMC4wMHw0ODAuMDB8MC4wMHwyNzAuMDA=)'>
+<polyline points='39.25,227.25 39.25,6.97 ' style='stroke-width: 0.93; stroke: #222222; stroke-linecap: butt;' />
+<text x='32.97' y='226.98' text-anchor='end' style='font-size: 14.00px;fill: #222222; font-family: "Roboto";' textLength='18.12px' lengthAdjust='spacingAndGlyphs'>5%</text>
+<text x='32.97' y='174.53' text-anchor='end' style='font-size: 14.00px;fill: #222222; font-family: "Roboto";' textLength='26.00px' lengthAdjust='spacingAndGlyphs'>10%</text>
+<text x='32.97' y='122.09' text-anchor='end' style='font-size: 14.00px;fill: #222222; font-family: "Roboto";' textLength='26.00px' lengthAdjust='spacingAndGlyphs'>15%</text>
+<text x='32.97' y='69.64' text-anchor='end' style='font-size: 14.00px;fill: #222222; font-family: "Roboto";' textLength='26.00px' lengthAdjust='spacingAndGlyphs'>20%</text>
+<text x='32.97' y='17.19' text-anchor='end' style='font-size: 14.00px;fill: #222222; font-family: "Roboto";' textLength='26.00px' lengthAdjust='spacingAndGlyphs'>25%</text>
+<polyline points='35.76,222.00 39.25,222.00 ' style='stroke-width: 0.93; stroke: #222222; stroke-linecap: butt;' />
+<polyline points='35.76,169.56 39.25,169.56 ' style='stroke-width: 0.93; stroke: #222222; stroke-linecap: butt;' />
+<polyline points='35.76,117.11 39.25,117.11 ' style='stroke-width: 0.93; stroke: #222222; stroke-linecap: butt;' />
+<polyline points='35.76,64.66 39.25,64.66 ' style='stroke-width: 0.93; stroke: #222222; stroke-linecap: butt;' />
+<polyline points='35.76,12.22 39.25,12.22 ' style='stroke-width: 0.93; stroke: #222222; stroke-linecap: butt;' />
+<polyline points='39.25,227.25 473.03,227.25 ' style='stroke-width: 0.93; stroke: #222222; stroke-linecap: butt;' />
+<polyline points='43.50,230.73 43.50,227.25 ' style='stroke-width: 0.93; stroke: #222222; stroke-linecap: butt;' />
+<polyline points='140.16,230.73 140.16,227.25 ' style='stroke-width: 0.93; stroke: #222222; stroke-linecap: butt;' />
+<polyline points='236.81,230.73 236.81,227.25 ' style='stroke-width: 0.93; stroke: #222222; stroke-linecap: butt;' />
+<polyline points='333.46,230.73 333.46,227.25 ' style='stroke-width: 0.93; stroke: #222222; stroke-linecap: butt;' />
+<polyline points='430.11,230.73 430.11,227.25 ' style='stroke-width: 0.93; stroke: #222222; stroke-linecap: butt;' />
+<text x='43.50' y='243.47' text-anchor='middle' style='font-size: 14.00px;fill: #222222; font-family: "Roboto";' textLength='31.50px' lengthAdjust='spacingAndGlyphs'>2012</text>
+<text x='140.16' y='243.47' text-anchor='middle' style='font-size: 14.00px;fill: #222222; font-family: "Roboto";' textLength='31.50px' lengthAdjust='spacingAndGlyphs'>2015</text>
+<text x='236.81' y='243.47' text-anchor='middle' style='font-size: 14.00px;fill: #222222; font-family: "Roboto";' textLength='31.50px' lengthAdjust='spacingAndGlyphs'>2018</text>
+<text x='333.46' y='243.47' text-anchor='middle' style='font-size: 14.00px;fill: #222222; font-family: "Roboto";' textLength='31.50px' lengthAdjust='spacingAndGlyphs'>2021</text>
+<text x='430.11' y='243.47' text-anchor='middle' style='font-size: 14.00px;fill: #222222; font-family: "Roboto";' textLength='31.50px' lengthAdjust='spacingAndGlyphs'>2024</text>
+<text x='473.03' y='260.84' text-anchor='end' style='font-size: 10.50px;fill: #666666; font-family: "Roboto";' textLength='111.42px' lengthAdjust='spacingAndGlyphs'>Source: Company 10-Ks</text>
+</g>
+</g>
+</svg>

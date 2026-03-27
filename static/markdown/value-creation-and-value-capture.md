@@ -10,7 +10,7 @@ An industry’s boundary defines its rivals. Sometimes that boundary is hard to 
 
 Industries sit on a continuum of competitiveness. *Perfectly competitive markets* are the most competitive. They have many firms selling identical products, and firms are “price takers,” meaning they must accept the market price and cannot influence it. Commodities like sugar or rubber approach perfect competition.
 
-_Monopolies_ have no competition. They consist of only one firm, which sets the industry price. Their dominance pushes governments to regulate them. For example, [PacifiCorp](https://www.pacificorp.com/), a utility, is the sole electricity provider in regions of six Western states. These states require PacifiCorp to seek approval from public utility commissions to raise electricity prices.
+*Monopolies* have no competition. They consist of only one firm, which sets the industry price. Their dominance pushes governments to regulate them. For example, [PacifiCorp](https://www.pacificorp.com/), a utility, is the sole electricity provider in regions of six Western states. These states require PacifiCorp to seek approval from public utility commissions to raise electricity prices.
 
 At these extremes of the competitive continuum, the scope of potential strategies is restricted. In (near) perfectly competitive markets, firms are limited to efficiency strategies to keep costs low. In monopoly markets, most strategies deal with political and regulatory issues. But in industries between these extremes, firms can choose from a breadth of options.
 
@@ -19,11 +19,11 @@ This middle ground includes industries with *monopolistic competition* and *olig
 Competitiveness in [oligopolies](https://en.wikipedia.org/wiki/Oligopoly) is lower than in industries with monopolistic competition. Oligopolies have a limited number of rivals, high barriers to entry, and a high minimum efficient scale, which pushes firms to become big to run efficiently. The U.S. mobile telecom industry is an example. Three companies⁠—Verizon, T-Mobile, and AT&T⁠—held 99% of the market share in 2025. With so few rivals, oligopolists can [tacitly collude](https://www.tutor2u.net/economics/reference/oligopoly-tacit-collusion) to raise prices. Parallel price increases that are uncoordinated are legal in the United States, but they can attract scrutiny by the Federal Trade Commission or Justice Department, which police anticompetitive practices.
 
 ## Customer demand and firm profit<a name="customer-demand-and-firm-profit"></a>
-Economists and marketers represent customer demand using a demand curve. A demand curve represents customers’ willingness to pay for a product. To illustrate this point, imagine we sell a fictional garment called a “thneed,” from Dr. Seuss’s [_The Lorax_](https://www.youtube.com/watch?v=dNMBVVdrMKo). For simplicity, assume we are a monopolist (we own all known Truffula trees) and can price as we wish. Customers value a thneed differently, so some are willing to pay more than others. 
+Economists and marketers represent customer demand using a demand curve. A demand curve represents customers’ willingness to pay for a product. To illustrate this point, imagine we sell a fictional garment called a “thneed,” from Dr. Seuss’s [*The Lorax*](https://www.youtube.com/watch?v=dNMBVVdrMKo). For simplicity, assume we are a monopolist (we own all known Truffula trees) and can price as we wish. Customers value a thneed differently, so some are willing to pay more than others. 
 
 To create our thneed demand curve, we collected customer data and grouped customers by their willingness to pay, as shown in Figure 1. Four hundred customers will pay $91 for a thneed, another 400 will pay $84 for one, another 400 will pay $77, and so forth. Grouping customers this way reveals the relationship between the price we set and the quantity demanded. No customers will buy a thneed at $100. But 4,000 customers will buy a thneed at $40, and 8,000 customers will buy one at $10.
 
-![Figure 1. Thneed demand curve](../img/micro-fig-1.png#small)
+![Figure 1. Thneed demand curve](../img/micro-fig-1.svg#small)
 
 ### Maximizing profit
 We want to choose a price for our thneed that will maximize economic profit.[^1] (Assume we are not engaged in [price discrimination](https://www.investopedia.com/terms/p/price_discrimination.asp).) Figure 2 illustrates a range of prices and production levels (i.e., quantities) we could choose. The first column shows revenues we could earn. The second column shows costs. And the third column combines revenues and costs to show profits.
@@ -32,7 +32,7 @@ Each row presents a slightly different view of revenues, costs, and profits. The
 
 I have chosen three prices and production levels to analyze: $76 at quantity `q_1` = 1,240 thneeds; $18 at `q_2` = 6,670 thneeds; and $49 at `q^{*}` = 3,200 thneeds, which maximizes total profit. 
 
-![Figure 2. Thneed revenue, costs, and profits](../img/micro-fig-2.png#small)
+![Figure 2. Thneed revenue, costs, and profits](../img/micro-fig-2.svg#small)
 
 ### Revenue (plots 1, 4, 7)
 Plot 1 of Figure 2 repeats the demand curve of Figure 1. The shaded area depicts total revenue at `q^{*}`, which is $49 × 3,200 = $156,800. Plot 4 shows total revenue at various production levels. The total revenue at `q_1` is $94,240. This is lower than total revenue at `q^{*}` because the higher price does not compensate for the lower quantity. At `q_2` total revenue is $120,060, which is lower than at `q^{*}` because the higher quantity does not compensate for the lower price.
@@ -62,7 +62,7 @@ Normally, the price at which a customer will leave the industry is higher than t
 
 Figure 3 depicts this aggregate willingness to pay, captured by the industry demand curve `D`. It also depicts quantity `Q`, which is the aggregate production of all firms. The shaded area (a), which is bounded by `D` and `Q`, is the value created in the industry. Created value excludes the area under `D` to the right of `Q`. Firms don’t price their products low enough to bring customers to the right of `Q` into the market, so their value does not materialize. 
 
-![Figure 3. Value creation](../img/micro-fig-3.png#small)
+![Figure 3. Value creation](../img/micro-fig-3.svg#small)
 
 Additional value is created in area (b) when the industry demand curve shifts outward or upward from `D` to `D′` and area (c) when firms increase aggregate production from `Q` to `Q′`. When both `D` and `Q` shift, additional value is created in areas (b), (c), and (d). 
 
@@ -80,7 +80,7 @@ Customer value can be captured by anyone in the chain of value creation. This in
 
 The colored areas in Figure 4 represent the total value created and available for capture. Customers capture the blue area. This is called *consumer surplus*. The firm captures the green area as profit. The height of the green area (the difference between `p^{*}` and `c^{*}`) is the firm’s profit per unit. Others in the value chain⁠—including suppliers, employees, and governments⁠—capture the red area. From the firm’s perspective, the red area represents explicit costs (e.g., paying suppliers for raw materials) and implicit costs (e.g., the implied rate of return expected by shareholders). 
 
-![Figure 4. Value capture](../img/micro-fig-4.png#small)
+![Figure 4. Value capture](../img/micro-fig-4.svg#small)
 
 ### Product differentiation
 A firm captures value when it differentiates its product from competitors’ products (and customers value the difference). To understand why, consider the opposite⁠⁠—when rival products are identical. In such case, price is the only factor customers can use to discriminate between products, so customers will naturally choose the lowest-priced product. This pushes prices ever downward. Traditional airlines feel this pricing pressure. American, Delta, United, and Alaska all have similar service and safety records, so flyers primarily use price to choose among them. This makes pricing a ruthless game in the industry, with each airline vying to beat its rivals’ prices (yet still turn a profit). 
@@ -89,7 +89,7 @@ Differentiation changes the terms of competition. It alleviates some of the down
 
 The consequence of differentiation is illustrated in Figure 5. It shows two examples of new entrants entering a monopolist’s market. In Example A, two new entrants introduce products that are nearly identical to the original monopolist’s product, depicted by the Venn diagram in the upper right. In Example B, two new entrants introduce products, but the monopolist differentiates its product from the new entrants’ products. Both examples present the original demand curve `d` for the monopolist and the profit-maximizing price `p^{*}` and production level `q^{*}`. The large light-green area depicts the original profit (`[p^{*} − c^{*}] × q^{*}`). However, in both examples, the new competition lowers customers’ willingness to pay and the monopolist’s demand curve shifts left to `d′`. To maximize profit at `d′`, the monopolist lowers production to `q′` and lowers its price to `p′`. Its ATC also increases somewhat to `c′`. The smaller dark-green area depicts the new profit. 
 
-![Figure 5. Introduction of competition](../img/micro-fig-5.png#small)
+![Figure 5. Introduction of competition](../img/micro-fig-5.svg#small)
 
 Although the shifts in demand, price, quantity, and cost all move in the same direction for both examples, the shifts are more severe in Example A. This is because the new entrants’ products are so similar to the monopolist’s. Thus, the monopolist’s demand curve shifts greatly left, potentially until the monopolist earns zero economic profit. But in Example B, the monopolist’s differentiation lessens the demand curve’s leftward shift. This allows the monopolist to retain higher prices and production.
 
@@ -100,7 +100,7 @@ Figure 6 begins with Example A of Figure 5 (where firms sell similar products) a
 
 Example B depicts the effect of lower variable costs. Lower variable costs flatten the ATC curve, which changes marginal costs too. The firm maximizes profit by lowering its price to `p′` and increasing production to `q′`. This attracts price-conscious customers to the market.
 
-![Figure 6. Introduction of lower costs](../img/micro-fig-6.png#small)
+![Figure 6. Introduction of lower costs](../img/micro-fig-6.svg#small)
 
 To capture value from lower ATC, a firm must maintain its low-cost advantage over rivals. In other words, it must differentiate on operational efficiency. If rivals can copy its lower cost, competition will push the demand curve left and profits will disappear. Ultimately, customers will capture the benefits. In contrast, if the firm introduces hard-to-imitate cost savings and lowers its price, rivals won’t follow, lest they incur losses. This insulates the firm from price competition and protects its cost (and profit) advantage.
 

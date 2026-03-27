@@ -4,9 +4,9 @@
 <svg
    version="1.1"
    id="svg1"
-   width="315"
-   height="725"
-   viewBox="0 0 315 725.00001"
+   width="480"
+   height="1072"
+   viewBox="0 0 480 1072"
    sodipodi:docname="profitability-ratios-sm.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    inkscape:export-filename="profitability-ratios-sm.png"
@@ -404,9 +404,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.8847656"
-     inkscape:cx="412.51814"
-     inkscape:cy="375.37824"
+     inkscape:zoom="1.3327305"
+     inkscape:cx="239.73338"
+     inkscape:cy="257.74152"
      inkscape:window-width="2560"
      inkscape:window-height="1351"
      inkscape:window-x="-9"
@@ -418,163 +418,179 @@
      inkscape:label="Image"
      id="g1">
     <rect
-       style="fill:#f1f1f1;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none"
+       id="rect1"
+       width="480.34973"
+       height="1072"
+       x="-1.3692134e-07"
+       y="-2.6216107e-06"
+       rx="10"
+       ry="10" />
+    <rect
+       style="fill:#f1f1f1;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
        id="rect63"
-       width="305.39999"
-       height="252.78174"
-       x="8.6332645"
-       y="390.07999"
-       rx="4.0499091"
-       ry="3.6031005"
+       width="446.92682"
+       height="369.9245"
+       x="22.853613"
+       y="578.75464"
+       rx="5.8536582"
+       ry="5.8536582"
        inkscape:label="operating-efficiency-box" />
     <rect
        style="fill:#f1f1f1;fill-opacity:1;stroke:none;stroke-width:0.999995;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
        id="rect64"
-       width="305.39999"
-       height="252.78174"
-       x="8.6332645"
-       y="109.00681"
-       rx="4.0499096"
-       ry="3.6031005"
+       width="446.92682"
+       height="369.9245"
+       x="22.853613"
+       y="167.42802"
+       rx="5.8536582"
+       ry="5.8536582"
        inkscape:label="capital-efficiency-box" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#222222;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
-       x="13.753047"
-       y="653.41907"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6098px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:-0.585366px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#222222;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       x="30.345976"
+       y="964.12885"
        id="text107"
        inkscape:label="notes"><tspan
          sodipodi:role="line"
-         x="13.753047"
-         y="653.41907"
-         id="tspan108">NOPAT = net operating profit after tax</tspan><tspan
+         x="30.345976"
+         y="964.12885"
+         id="tspan108"
+         style="stroke-width:0.999999">NOPAT = net operating profit after tax</tspan><tspan
          sodipodi:role="line"
-         x="13.753047"
-         y="666.21912"
-         id="tspan16">IC = invested capital </tspan><tspan
+         x="30.345976"
+         y="982.8606"
+         id="tspan16"
+         style="stroke-width:0.999999">IC = invested capital </tspan><tspan
          sodipodi:role="line"
-         x="13.753047"
-         y="679.01917"
-         id="tspan14">COGS = cost of goods sold </tspan><tspan
+         x="30.345976"
+         y="1001.5923"
+         id="tspan14"
+         style="stroke-width:0.999999">COGS = cost of goods sold </tspan><tspan
          sodipodi:role="line"
-         x="13.753047"
-         y="691.81921"
-         id="tspan15">SG&amp;A = selling, general, &amp; administrative (expense)</tspan><tspan
+         x="30.345976"
+         y="1020.3242"
+         id="tspan15"
+         style="stroke-width:0.999999">SG&amp;A = selling, general, &amp; administrative (expense)</tspan><tspan
          sodipodi:role="line"
-         x="13.753047"
-         y="704.6192"
-         id="tspan109">NWC = net working capital</tspan><tspan
+         x="30.345976"
+         y="1039.0559"
+         id="tspan109"
+         style="stroke-width:0.999999">NWC = net working capital</tspan><tspan
          sodipodi:role="line"
-         x="13.753047"
-         y="717.41925"
-         id="tspan17">PPE = property, plant, &amp; equipment</tspan></text>
+         x="30.345976"
+         y="1057.7876"
+         id="tspan17"
+         style="stroke-width:0.999999">PPE = property, plant, &amp; equipment</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
-       x="306.04886"
-       y="128.43301"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.4146px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:end;letter-spacing:-0.585366px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       x="458.09592"
+       y="195.85661"
        id="text67"
        inkscape:label="capital-efficiency-text"><tspan
          sodipodi:role="line"
          id="tspan66"
-         x="306.04886"
-         y="128.43301"
-         style="font-size:16px;text-align:end;text-anchor:end">Capital</tspan><tspan
+         x="458.09592"
+         y="195.85661"
+         style="font-size:23.4146px;text-align:end;text-anchor:end;stroke-width:0.999999">Capital</tspan><tspan
          sodipodi:role="line"
-         x="305.64886"
-         y="147.63301"
+         x="457.51056"
+         y="223.95413"
          id="tspan67"
-         style="font-size:16px;text-align:end;text-anchor:end">efficiency</tspan></text>
+         style="font-size:23.4146px;text-align:end;text-anchor:end;stroke-width:0.999999">efficiency</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
-       x="16.078579"
-       y="409.5062"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.4146px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:start;letter-spacing:-0.585366px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       x="33.749191"
+       y="607.18323"
        id="text69"
        inkscape:label="capital-efficiency-text"><tspan
          sodipodi:role="line"
          id="tspan68"
-         x="16.078579"
-         y="409.5062"
-         style="font-size:16px">Operating</tspan><tspan
+         x="33.749191"
+         y="607.18323"
+         style="font-size:23.4146px;stroke-width:0.999999">Operating</tspan><tspan
          sodipodi:role="line"
-         x="16.078579"
-         y="428.70621"
+         x="33.749191"
+         y="635.28076"
          id="tspan69"
-         style="font-size:16px">efficiency</tspan></text>
+         style="font-size:23.4146px;stroke-width:0.999999">efficiency</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.3333px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
-       x="-581.3764"
-       y="21.518612"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:19.5121px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;letter-spacing:-0.585366px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       x="-858.70056"
+       y="41.710217"
        id="text72"
        transform="rotate(-90)"
        inkscape:label="expense-ratio-text"><tspan
          sodipodi:role="line"
          id="tspan72"
-         x="-581.57642"
-         y="21.518612"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;text-anchor:middle">expense ratios</tspan></text>
+         x="-858.99323"
+         y="41.710217"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:19.5121px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;text-anchor:middle;stroke-width:0.999999">expense ratios</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.3333px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#919191;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
-       x="300.32605"
-       y="-301.8204"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:19.5121px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;letter-spacing:-0.585366px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#919191;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       x="447.40741"
+       y="-451.90796"
        id="text79"
        transform="rotate(90)"
        inkscape:label="asset-ratio-text"><tspan
          sodipodi:role="line"
          id="tspan79"
-         x="300.12604"
-         y="-301.8204"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:13.3333px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;text-anchor:middle">asset ratios</tspan></text>
+         x="447.11472"
+         y="-451.90796"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:19.5121px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:center;text-anchor:middle;stroke-width:0.999999">asset ratios</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#919191;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
-       x="173.53101"
-       y="503.33255"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15.6098px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.585366px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#919191;stroke-width:0.999999;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       x="264.16736"
+       y="744.49005"
        id="text99"
        inkscape:label="expense-aggr-test"><tspan
          sodipodi:role="line"
          id="tspan99"
-         x="173.53101"
-         y="503.33255"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#222222;fill-opacity:1;stroke:none">1 − sum(expense ratios)</tspan></text>
+         x="264.16736"
+         y="744.49005"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6098px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#222222;fill-opacity:1;stroke:none;stroke-width:0.999999">1 − sum(expense ratios)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#919191;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
-       x="155.28329"
-       y="222.25937"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15.6098px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.585366px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#919191;stroke-width:0.999999;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       x="237.46341"
+       y="333.16348"
        id="text100"
        inkscape:label="asset-aggr-text"><tspan
          sodipodi:role="line"
          id="tspan100"
-         x="155.28329"
-         y="222.25937"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#222222;fill-opacity:1;stroke:none">sum(asset ratios)⁻¹</tspan></text>
+         x="237.46341"
+         y="333.16348"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6098px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#222222;fill-opacity:1;stroke:none;stroke-width:0.999999">sum(asset ratios)⁻¹</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.6667px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#919191;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
-       x="75.85968"
-       y="90.516411"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:15.6098px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.585366px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#919191;stroke-width:0.999999;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       x="121.23373"
+       y="140.3689"
        id="text106"
        inkscape:label="asset-aggr-text"><tspan
          sodipodi:role="line"
          id="tspan106"
-         x="75.85968"
-         y="90.516411"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#222222;fill-opacity:1;stroke:none">return on sales × capital turnover </tspan></text>
+         x="121.23373"
+         y="140.3689"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.6098px;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;text-anchor:start;fill:#222222;fill-opacity:1;stroke:none;stroke-width:0.999999">return on sales × capital turnover </tspan></text>
     <g
        id="g106"
        inkscape:label="expense-arrow"
-       transform="translate(8.633265,275.19546)">
+       transform="matrix(1.4634146,0,0,1.4634146,22.853613,410.63092)"
+       style="stroke-width:0.683333">
       <path
-         style="fill:none;fill-opacity:1;stroke:#919191;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker91)"
+         style="fill:none;fill-opacity:1;stroke:#919191;stroke-width:0.683333;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker91)"
          d="m 161.80008,200.37826 0.14367,107.68834"
          id="path90"
          sodipodi:nodetypes="cc" />
       <path
-         style="fill:none;fill-opacity:1;stroke:#919191;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker97);marker-end:url(#marker96)"
+         style="fill:none;fill-opacity:1;stroke:#919191;stroke-width:0.683333;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker97);marker-end:url(#marker96)"
          d="m 89.202195,256.23049 -10e-7,-16.93071 a 2.65285,2.65285 135 0 1 2.65285,-2.65285 h 67.435806 a 2.652845,2.652845 135 0 0 2.65285,-2.65285 v 0 0 a 2.652845,2.652845 45 0 0 2.65284,2.65285 l 67.43582,0 a 2.6528468,2.6528468 45 0 1 2.65285,2.65285 l 0,16.93071"
          id="path95"
          inkscape:path-effect="#path-effect97"
@@ -584,14 +600,15 @@
     <g
        id="g105"
        inkscape:label="asset-arrow"
-       transform="translate(-300.36676,-5.8777202)">
+       transform="matrix(1.4634146,0,0,1.4634146,-429.34153,-0.69567819)"
+       style="stroke-width:0.683333">
       <path
-         style="fill:none;fill-opacity:1;stroke:#919191;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker93)"
+         style="fill:none;fill-opacity:1;stroke:#919191;stroke-width:0.683333;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker93)"
          d="m 451.43825,200.31079 0.14361,107.75581"
          id="path92"
          sodipodi:nodetypes="cc" />
       <path
-         style="fill:none;fill-opacity:1;stroke:#919191;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker99);marker-end:url(#ConcaveTriangle)"
+         style="fill:none;fill-opacity:1;stroke:#919191;stroke-width:0.683333;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker99);marker-end:url(#ConcaveTriangle)"
          d="m 379.40729,256.23049 v -16.93071 a 2.6528475,2.6528475 135 0 1 2.65285,-2.65285 H 448.929 a 2.6528481,2.6528481 135 0 0 2.65285,-2.65285 v 0 0 a 2.6528481,2.6528481 45 0 0 2.65285,2.65285 h 66.86886 a 2.6528509,2.6528509 44.999956 0 1 2.65285,2.65285 l 3e-5,16.93071"
          id="path98"
          inkscape:path-effect="#path-effect99"
@@ -599,27 +616,28 @@
          transform="translate(0,-3.734715)" />
     </g>
     <path
-       style="fill:none;fill-opacity:0.293542;stroke:#919191;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:0.293542;stroke:#919191;stroke-width:0.683333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
        d="m 30.577852,253.57976 -5.633134,0 a 6.3668371,6.3668371 135 0 0 -6.366837,6.36684 v 42.00938 a 5.561322,5.561322 125.9504 0 1 -4.617361,6.36683 5.5770413,5.5770413 53.940832 0 1 4.635797,6.36679 l 0.121649,42.00981 a 6.3853022,6.3853022 44.917044 0 0 6.385276,6.36681 h 5.63313"
        id="path4"
        inkscape:path-effect="#path-effect4"
        inkscape:original-d="M 30.577852,253.57976 H 18.577881 v 54.74305 h -4.617361 4.617361 l 0.158522,54.74341 h 11.999969"
-       transform="translate(11.758775,273.07318)"
+       transform="matrix(1.4634146,0,0,1.4634146,27.42753,407.52514)"
        inkscape:label="expenses-brace" />
     <path
-       style="fill:none;fill-opacity:0.293542;stroke:#919191;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:0.293542;stroke:#919191;stroke-width:0.683333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
        d="m 30.577852,253.57976 -5.633134,0 a 6.3668371,6.3668371 135 0 0 -6.366837,6.36684 v 42.00938 a 5.561322,5.561322 125.9504 0 1 -4.617361,6.36683 5.5770413,5.5770413 53.940832 0 1 4.635797,6.36679 l 0.121649,42.00981 a 6.3853022,6.3853022 44.917044 0 0 6.385276,6.36681 h 5.63313"
        id="path5"
        inkscape:path-effect="#path-effect6"
        inkscape:original-d="M 30.577852,253.57976 H 18.577881 v 54.74305 h -4.617361 4.617361 l 0.158522,54.74341 h 11.999969"
-       transform="matrix(-1,0,0,1,309.64349,-8)"
+       transform="matrix(-1.4634146,0,0,1.4634146,463.35637,-3.8014535)"
        inkscape:label="assets-brace" />
     <g
        id="g27"
        inkscape:label="nwc"
-       transform="translate(52.727485,206.96945)">
+       transform="matrix(1.4634146,0,0,1.4634146,87.381738,310.78798)"
+       style="stroke-width:0.683333">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.13386;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:0.774804;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          id="rect26"
          width="123.86614"
          height="43.866138"
@@ -630,7 +648,7 @@
          inkscape:label="ratio-box" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:3.77953;stroke-linecap:round;stroke-miterlimit:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:2.58268;stroke-linecap:round;stroke-miterlimit:0.4"
          x="26.148191"
          y="61.407799"
          id="text27"
@@ -639,14 +657,14 @@
            id="tspan26"
            x="26.148193"
            y="61.407799"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1">avg. NWC</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1;stroke-width:2.58268">avg. NWC</tspan><tspan
            sodipodi:role="line"
            x="25.948191"
            y="80.607803"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1;stroke-width:2.58268"
            id="tspan27">sales</tspan></text>
       <path
-         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:0.683333;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          d="M -6.4382184,65.316393 H 59.064286"
          id="path27"
          inkscape:label="divide" />
@@ -654,9 +672,10 @@
     <g
        id="g45"
        inkscape:label="ppe"
-       transform="translate(253.03472,190.64805)">
+       transform="matrix(1.4634146,0,0,1.4634146,380.51427,286.903)"
+       style="stroke-width:0.683333">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.13386;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:0.774804;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          id="rect44"
          width="123.86614"
          height="43.866138"
@@ -667,7 +686,7 @@
          inkscape:label="ratio-box" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:3.77953;stroke-linecap:round;stroke-miterlimit:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:2.58268;stroke-linecap:round;stroke-miterlimit:0.4"
          x="-101.98446"
          y="133.21799"
          id="text45"
@@ -676,14 +695,14 @@
            id="tspan44"
            x="-101.98446"
            y="133.21799"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1">avg. PPE</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1;stroke-width:2.58268">avg. PPE</tspan><tspan
            sodipodi:role="line"
            x="-102.18446"
            y="152.41798"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1;stroke-width:2.58268"
            id="tspan45">sales</tspan></text>
       <path
-         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:0.999997;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:0.683331;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          d="m -131.33234,137.20862 h 59.025444"
          id="path45"
          inkscape:label="divide" />
@@ -691,9 +710,10 @@
     <g
        id="g36"
        inkscape:label="other-assets"
-       transform="translate(197.07664,206.96945)">
+       transform="matrix(1.4634146,0,0,1.4634146,298.6244,310.78798)"
+       style="stroke-width:0.683333">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.13386;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:0.774804;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          id="rect35"
          width="123.86614"
          height="43.866138"
@@ -704,7 +724,7 @@
          inkscape:label="ratio-box" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:3.77953;stroke-linecap:round;stroke-miterlimit:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:2.58268;stroke-linecap:round;stroke-miterlimit:0.4"
          x="26.148191"
          y="61.638424"
          id="text36"
@@ -713,14 +733,14 @@
            id="tspan35"
            x="26.14819"
            y="61.638424"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1">avg. other assets</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1;stroke-width:2.58268">avg. other assets</tspan><tspan
            sodipodi:role="line"
            x="25.948191"
            y="80.838425"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1;stroke-width:2.58268"
            id="tspan36">sales</tspan></text>
       <path
-         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:0.683333;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          d="M -31.127541,65.316549 H 83.753609"
          id="path36"
          inkscape:label="divide" />
@@ -728,9 +748,10 @@
     <g
        id="g55"
        inkscape:label="cogs"
-       transform="translate(36.256485,573.5813)">
+       transform="matrix(1.4634146,0,0,1.4634146,63.277836,847.29311)"
+       style="stroke-width:0.683333">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.13386;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:0.774804;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          id="rect57"
          width="123.86614"
          height="43.866138"
@@ -741,7 +762,7 @@
          inkscape:label="ratio-box" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:3.77953;stroke-linecap:round;stroke-miterlimit:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:2.58268;stroke-linecap:round;stroke-miterlimit:0.4"
          x="61.414135"
          y="-24.130875"
          id="text59"
@@ -750,14 +771,14 @@
            id="tspan58"
            x="61.414135"
            y="-24.130875"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1">COGS</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1;stroke-width:2.58268">COGS</tspan><tspan
            sodipodi:role="line"
            x="61.214134"
            y="-4.9308739"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1;stroke-width:2.58268"
            id="tspan59">sales</tspan></text>
       <path
-         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:0.999995;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:0.68333;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          d="M 42.115769,-20.222281 H 81.090431"
          id="path59"
          inkscape:label="divide" />
@@ -765,9 +786,10 @@
     <g
        id="g61"
        inkscape:label="taxes"
-       transform="translate(181.7395,573.5813)">
+       transform="matrix(1.4634146,0,0,1.4634146,276.1798,847.29311)"
+       style="stroke-width:0.683333">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.13386;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:0.774804;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          id="rect59"
          width="123.86614"
          height="43.866138"
@@ -778,7 +800,7 @@
          inkscape:label="ratio-box" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:3.77953;stroke-linecap:round;stroke-miterlimit:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:2.58268;stroke-linecap:round;stroke-miterlimit:0.4"
          x="61.414135"
          y="-23.900406"
          id="text61"
@@ -787,14 +809,14 @@
            id="tspan60"
            x="61.414135"
            y="-23.900406"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1">adjusted taxes</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1;stroke-width:2.58268">adjusted taxes</tspan><tspan
            sodipodi:role="line"
            x="61.214134"
            y="-4.7004051"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1;stroke-width:2.58268"
            id="tspan61">sales</tspan></text>
       <path
-         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:1;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:0.683333;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          d="M 12.844268,-20.222281 H 110.07334"
          id="path61"
          inkscape:label="divide" />
@@ -802,9 +824,10 @@
     <g
        id="g63"
        inkscape:label="sga"
-       transform="translate(108.99799,629.15213)">
+       transform="matrix(1.4634146,0,0,1.4634146,169.72881,928.61627)"
+       style="stroke-width:0.683333">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.13386;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:0.774804;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          id="rect61"
          width="123.86614"
          height="43.866138"
@@ -815,7 +838,7 @@
          inkscape:label="ratio-box" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:3.77953;stroke-linecap:round;stroke-miterlimit:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:2.58268;stroke-linecap:round;stroke-miterlimit:0.4"
          x="61.414135"
          y="-24.130875"
          id="text63"
@@ -824,31 +847,31 @@
            id="tspan62"
            x="61.414135"
            y="-24.130875"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1">SG&amp;A</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1;stroke-width:2.58268">SG&amp;A</tspan><tspan
            sodipodi:role="line"
            x="61.214134"
            y="-4.9308739"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1;stroke-width:2.58268"
            id="tspan63">sales</tspan></text>
       <path
-         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:0.999991;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:0.683327;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          d="M 42.239981,-20.222281 H 81.488227"
          id="path63"
          inkscape:label="divide" />
     </g>
     <g
        id="g51"
-       transform="matrix(0.99893356,0,0,1,144.29216,389.0571)"
+       transform="matrix(1.4618539,0,0,1.4634146,221.37882,577.2577)"
        inkscape:label="ros-title"
-       style="stroke-width:1.00054;stroke-dasharray:none">
+       style="stroke-width:0.683702;stroke-dasharray:none">
       <path
          id="rect6"
-         style="fill:#919191;fill-opacity:1;stroke:#919191;stroke-width:1.00053;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#919191;fill-opacity:1;stroke:#919191;stroke-width:0.683695;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:label="title-box"
          d="m -31.151663,14.01608 c -2.592314,0 -4.678957,1.636146 -4.678957,3.667906 V 46.51581 c 0,-2.17583 2.086643,-3.927616 4.678957,-3.927616 H 83.62333 c 2.590485,0 4.676018,1.747923 4.678957,3.921623 V 17.683986 c 0,-2.03176 -2.086643,-3.667906 -4.678957,-3.667906 z" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.00054;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:0.683702;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          x="26.11121"
          y="33.230171"
          id="text51"
@@ -857,16 +880,16 @@
            sodipodi:role="line"
            x="25.911209"
            y="33.230171"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.00054;stroke-dasharray:none"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.683702;stroke-dasharray:none"
            id="tspan51">Return on sales</tspan></text>
     </g>
     <g
        id="g53"
        inkscape:label="ros"
-       transform="matrix(1.0010723,0,0,1,5.4617952,391.52054)"
-       style="stroke-width:0.999464;stroke-dasharray:none">
+       transform="matrix(1.4649838,0,0,1.4634146,18.212438,580.86274)"
+       style="stroke-width:0.682967;stroke-dasharray:none">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:0.999464;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:0.682967;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          id="rect52"
          width="123.86664"
          height="44.000538"
@@ -877,7 +900,7 @@
          inkscape:label="ratio-box" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:0.999464;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:0.682967;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none"
          x="163.2563"
          y="58.140408"
          id="text53"
@@ -886,31 +909,31 @@
            id="tspan52"
            x="163.2563"
            y="58.140408"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1;stroke-width:0.999464;stroke-dasharray:none">NOPAT</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1;stroke-width:0.682967;stroke-dasharray:none">NOPAT</tspan><tspan
            sodipodi:role="line"
            x="163.0563"
            y="77.340408"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1;stroke-width:0.999464;stroke-dasharray:none"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1;stroke-width:0.682967;stroke-dasharray:none"
            id="tspan53">sales</tspan></text>
       <path
-         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:0.999464;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:0.682967;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          d="m 140.25457,62.052908 h 47.08869"
          id="path53"
          inkscape:label="divide" />
     </g>
     <g
        id="g101"
-       transform="matrix(0.99999575,0,0,1,124.90192,107.07083)"
+       transform="matrix(1.4634084,0,0,1.4634146,193.00286,164.59488)"
        inkscape:label="capital-turnover-title"
-       style="stroke-width:1">
+       style="stroke-width:0.683333">
       <path
          id="path9"
-         style="fill:#919191;fill-opacity:1;stroke:#919191;stroke-width:1;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#919191;fill-opacity:1;stroke:#919191;stroke-width:0.683333;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:label="title-box"
          d="m -31.156872,14.92917 c -2.589549,0 -4.673967,1.636146 -4.673967,3.667906 V 47.4289 c 0,-2.17583 2.084418,-3.927616 4.673967,-3.927616 H 83.49572 c 2.587723,0 4.671032,1.747923 4.673968,3.921623 V 18.597076 c 0,-2.03176 -2.084418,-3.667906 -4.673968,-3.667906 z" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.134;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:0.7749;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          x="26.11121"
          y="33.230171"
          id="text101"
@@ -918,15 +941,16 @@
            sodipodi:role="line"
            x="25.911209"
            y="33.230171"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.134"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.7749"
            id="tspan101">Capital turnover</tspan></text>
     </g>
     <g
        id="g103"
        inkscape:label="capital-turnover"
-       transform="translate(-13.723113,110.56013)">
+       transform="matrix(1.4634146,0,0,1.4634146,-9.863037,169.70117)"
+       style="stroke-width:0.683333">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.13386;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:0.774804;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          id="rect101"
          width="123.86614"
          height="43.866138"
@@ -937,7 +961,7 @@
          inkscape:label="ratio-box" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:3.77953;stroke-linecap:round;stroke-miterlimit:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:2.58268;stroke-linecap:round;stroke-miterlimit:0.4"
          x="163.2563"
          y="56.675804"
          id="text103"
@@ -946,30 +970,31 @@
            id="tspan102"
            x="163.2563"
            y="56.675804"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1">sales</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1;stroke-width:2.58268">sales</tspan><tspan
            sodipodi:role="line"
            x="163.0563"
            y="75.875809"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1;stroke-width:2.58268"
            id="tspan103">avg. IC</tspan></text>
       <path
-         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:0.999998;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:0.683332;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          d="M 140.80795,61.939867 H 185.7244"
          id="path103"
          inkscape:label="divide" />
     </g>
     <g
        id="g19"
-       transform="translate(45.117245,-12.760943)"
-       inkscape:label="roic-title">
+       transform="matrix(1.4634146,0,0,1.4634146,76.244802,-10.768687)"
+       inkscape:label="roic-title"
+       style="stroke-width:0.683333">
       <path
          id="path8"
-         style="fill:#919191;fill-opacity:1;stroke:#919191;stroke-width:1.00001;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#919191;fill-opacity:1;stroke:#919191;stroke-width:0.68334;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:label="title-box"
          d="m -31.310025,14.760948 c -2.589538,0 -4.673947,1.636159 -4.673947,3.667936 v 28.832062 c 0,-2.17586 2.084409,-3.92765 4.673947,-3.92765 H 83.342071 c 2.587711,0 4.671011,1.74794 4.673947,3.92165 V 18.428884 c 0,-2.031777 -2.084409,-3.667936 -4.673947,-3.667936 z" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.134;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:0.7749;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          x="26.36837"
          y="27.230169"
          id="text22"
@@ -978,19 +1003,20 @@
            id="tspan21"
            x="26.36837"
            y="27.230169"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;fill-opacity:1;stroke:none">Return on </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.7749">Return on </tspan><tspan
            sodipodi:role="line"
            x="26.168369"
            y="39.230137"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;fill-opacity:1;stroke:none"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:0.9;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.7749"
            id="tspan22">invested capital</tspan></text>
     </g>
     <g
        id="g23"
        inkscape:label="roic"
-       transform="translate(-93.661335,-9.439868)">
+       transform="matrix(1.4634146,0,0,1.4634146,-126.8458,-5.9085773)"
+       style="stroke-width:0.683333">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:1.13386;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#ffffff;fill-opacity:1;stroke:#919191;stroke-width:0.774804;stroke-linecap:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          id="rect19"
          width="123.86614"
          height="43.866138"
@@ -1001,7 +1027,7 @@
          inkscape:label="ratio-box" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:3.77953;stroke-linecap:round;stroke-miterlimit:0.4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;letter-spacing:-0.4px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#222222;fill-opacity:1;stroke-width:2.58268;stroke-linecap:round;stroke-miterlimit:0.4"
          x="163.2563"
          y="56.441429"
          id="text1"
@@ -1010,25 +1036,25 @@
            id="tspan1"
            x="163.2563"
            y="56.441429"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1">NOPAT</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1;stroke-width:2.58268">NOPAT</tspan><tspan
            sodipodi:role="line"
            x="163.0563"
            y="75.641434"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:1.2;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#222222;fill-opacity:1;stroke-width:2.58268"
            id="tspan2">avg. IC</tspan></text>
       <path
-         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:0.999995;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#f5f5f5;fill-opacity:1;stroke:#222222;stroke-width:0.68333;stroke-linecap:square;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1"
          d="M 140.21228,61.144012 H 187.3676"
          id="path2"
          inkscape:label="divide" />
     </g>
     <path
-       style="fill:none;fill-opacity:0.479452;stroke:#919191;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker14);marker-end:url(#ConcaveTriangle)"
+       style="fill:none;fill-opacity:0.479452;stroke:#919191;stroke-width:0.683333;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0.4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker14);marker-end:url(#ConcaveTriangle)"
        d="m 451.43799,130 v -21.13233 a 2.7264259,2.7264259 45 0 0 -2.72643,-2.72643 h -74.48511 a 2.7264226,2.7264226 44.999986 0 1 -2.72642,-2.72642 l -10e-6,-17.356917 10e-6,17.356917 a 2.7264198,2.7264198 134.99999 0 1 -2.72642,2.72642 h -65.18042 a 2.7264272,2.7264272 135 0 0 -2.72643,2.72643 v 274.54715 a 2.7264196,2.7264196 45 0 0 2.72642,2.72642 h 164.54716 a 2.7264207,2.7264207 44.999989 0 1 2.72642,2.72642 l 10e-6,22.20552"
        id="path13"
        inkscape:path-effect="#path-effect14"
        inkscape:original-d="m 451.43799,130 v -23.85876 h -79.93796 l -10e-6,-20.083337 10e-6,20.083337 h -70.63327 v 280 h 170 l 10e-6,24.93194"
-       transform="translate(-300.36676,-11.62483)"
+       transform="matrix(1.4634146,0,0,1.4634146,-429.34153,-9.1060826)"
        sodipodi:nodetypes="ccccccccc" />
   </g>
 </svg>

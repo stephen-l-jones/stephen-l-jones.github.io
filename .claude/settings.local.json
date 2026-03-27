@@ -7,7 +7,12 @@
       "Bash(cmd /c \"powershell -ExecutionPolicy Bypass -Command \"\"ffmpeg -version 2>&1 | Select-Object -First 1\"\" 2>&1\")",
       "Bash(where:*)",
       "Bash(ffmpeg:*)",
-      "Bash(ffprobe:*)"
+      "Bash(ffprobe:*)",
+      "WebFetch(domain:www.wsj.com)",
+      "WebSearch",
+      "WebFetch(domain:hbr.org)",
+      "WebFetch(domain:fortune.com)",
+      "WebFetch(domain:www.cnbc.com)"
     ]
   }
 }
