@@ -5,6 +5,7 @@
 	import MathEqBlock from '$lib/components/MathEqBlock.svelte';
 	import Endnote from '$lib/components/Endnote.svelte';
 	import EndnoteParagraph from '$lib/components/EndnoteParagraph.svelte';
+	import Link from '$lib/components/Link.svelte';
 
 	export let markdown = '';
 	export let navPage: NavPage;
@@ -32,6 +33,7 @@
 			source={markdown}
 			renderers={{
 				image: Figure,
+				link: Link,
 				codespan: MathEq,
 				code: MathEqBlock,
 				paragraph: EndnoteParagraph,

@@ -7,7 +7,7 @@ Profitability analysis helps answer that question. It reveals when strategies wo
 
 Profitability analysis differs from other forms of financial-statement analysis. An investment banker scrutinizes financial statements to estimate enterprise value, often ahead of an acquisition. An investor does much the same when deciding whether to buy or sell shares. A strategist, by contrast, analyzes profitability to improve performance. The goal is to increase a firm’s value, not merely calculate it.
 
-This article explains how to analyze profitability: which ratios matter, how to calculate them, and how to link them to strategic decisions.
+This article explains how to analyze profitability: which ratios matter, how to calculate them, and how to link them to strategic decisions. The example data and ratios can be [downloaded here](/data/financials-costco-v-walmart.xlsx).
 
 ## Profitability as return on invested capital<a name="profitability-as-return-on-invested-capital"></a>
 Return on invested capital (ROIC) captures a firm’s financial performance. It measures how well a company transforms capital into profit. An ROIC of 20% means that for every dollar invested, a firm generates 20 cents in profit from operations.
@@ -82,17 +82,17 @@ While conceptually clear, excess cash is difficult to quantify because it is not
 
 At the end of 2025, Costco held $15.3bn in cash and short-term investments, and 2025 sales were $275.2bn. Assuming Costco needed cash equal to 4% of sales, its 2025 cash need was $275.2bn × 0.04 = $11bn. Thus, Costco held $15.3bn − $11bn = $4.3bn in excess cash.[^6] At the end of 2024, Costco had $0.9bn in excess cash. Costco’s average IC in 2025 was:
 
-|  Costco (in billions) |    2025   |    2024   | Average   |
+|  Costco (in billions) |    2025   |    2024   | Average[^7]   |
 |:----------------------|----------:|----------:|----------:|
 |  Total assets         |   $77.1   |   $69.7   |   $73.4   |
-|  Less: NIBCLs         |   $37.0   |   $35.4   |   $36.2   |
+|  Less: NIBCLs         |   $37.0   |   $35.4   |   $36.3   |
 |  Less: Excess cash    |    $4.3   |    $0.9   |    $2.6   |
 | **Invested capital**  | **$35.8** | **$33.4** | **$34.6** |
 
 These IC numbers were used to calculate Costco’s ROIC above.
 
 ### An alternative IC calculation
-Total assets can be separated into three kinds of assets: (1) current assets, (2) property, plant, and equipment (PPE), and (3) other assets. Current assets is the ``total current assets`` balance-sheet item. PPE is the ``net property, plant, and equipment`` balance-sheet item.[^7] And other assets includes all other long-term assets on the balance sheet, such as ``goodwill`` and ``intangible assets``.
+Total assets can be separated into three kinds of assets: (1) current assets, (2) property, plant, and equipment (PPE), and (3) other assets. Current assets is the ``total current assets`` balance-sheet item. PPE is the ``net property, plant, and equipment`` balance-sheet item.[^8] And other assets includes all other long-term assets on the balance sheet, such as ``goodwill`` and ``intangible assets``.
 
 Current assets is used to calculate a firm’s net working capital (NWC). For the purposes of profitability analysis, NWC at the end of year `t` is:
 ```
@@ -115,10 +115,10 @@ Starting with NWC instead of ``total assets``, the IC at the end of year `t` is 
 ```
 This alternative formula yields the same result for Costco’s average IC in 2025:
 
-|  Costco (in billions)            |    2025   |    2024   | Average   |
+|  Costco (in billions)            |    2025   |    2024   | Average[^7]   |
 |:---------------------------------|----------:|----------:|----------:|
-|  Net working capital             |   −$2.9   |   −$2.1   |   −$2.5   |
-|  Net PPE + leases[^7]            |   $34.6   |   $31.6   |   $33.1   |
+|  Net working capital             |   −$2.9   |   −$2.1   |   −$2.6   |
+|  Net PPE + leases[^8]            |   $34.6   |   $31.6   |   $33.1   |
 |  Other assets                    |    $4.1   |    $3.9   |    $4.0   |
 | **Invested capital**             | **$35.8** | **$33.4** | **$34.6** |
 
@@ -129,7 +129,7 @@ ROIC must be compared to a benchmark to be useful. Three common benchmarks are:
 2. A firm’s historical ROIC.
 3. The average ROIC in a firm’s industry.
 
-Walmart is a suitable benchmark for Costco, as both companies are large U.S.-based grocery and general merchandise retailers. Walmart’s ROIC in 2025 was 13.2%. So Costco, with an ROIC of 22.5%, earned 9.3 cents more than Walmart for every dollar invested. This reveals that Costco is highly profitable, besting the world’s largest retailer. 
+Walmart is a suitable benchmark for Costco, as both companies are large U.S.-based grocery and general merchandise retailers. Walmart’s ROIC in 2025 was 13.3%. So Costco, with an ROIC of 22.5%, earned 9.3 cents more than Walmart for every dollar invested. This reveals that Costco is highly profitable, besting the world’s largest retailer. 
 
 Costco’s success came from steady improvement over time, as shown in Figure 1. Its ROIC in 2025 was nearly double its 11.4% ROIC in 2012. In contrast, Walmart’s ROIC dipped and then recovered over the same period.
 
@@ -138,7 +138,7 @@ Costco’s success came from steady improvement over time, as shown in Figure 1.
 Costco’s ROIC also beat the industry average in grocery and general merchandise, which, combined, was an estimated 13.8% in 2025. These benchmarks show that Costco is a superior performer.
 
 ### ROIC and economic value creation
-A positive ROIC does not ensure that a firm is creating economic value. If a firm fails to match its cost of capital, it actually destroys value.[^8] For example, Skullcandy, a [headphones maker rooted in extreme sports](https://www.skullcandy.com), destroyed value for investors before [going private](https://www.globenewswire.com/news-release/2016/10/03/876636/0/en/Skullcandy-Closes-Going-Private-Transaction-with-Mill-Road-Capital.html). It was profitable with an ROIC of 4.6%, but fell short of its cost of capital of 7.2%. In other words, investors weren’t earning the return they expected given the risk they were taking. They would have been better served investing their capital elsewhere.
+A positive ROIC does not ensure that a firm is creating economic value. If a firm fails to match its cost of capital, it actually destroys value.[^9] For example, Skullcandy, a [headphones maker rooted in extreme sports](https://www.skullcandy.com), destroyed value for investors before [going private](https://www.globenewswire.com/news-release/2016/10/03/876636/0/en/Skullcandy-Closes-Going-Private-Transaction-with-Mill-Road-Capital.html). It was profitable with an ROIC of 4.6%, but fell short of its cost of capital of 7.2%. In other words, investors weren’t earning the return they expected given the risk they were taking. They would have been better served investing their capital elsewhere.
  
 ## Going deeper: Return on sales and capital turnover<a name="return-on-sales-and-capital-turnover"></a>
 ROIC tells *if* a firm is profitable, but it doesn’t explain *why*. That requires deeper analysis, as shown in Figure 2. The first step is to separate ROIC into two additional ratios: return on sales and capital turnover. The two ratios give different explanations for a firm’s profitability.
@@ -247,7 +247,7 @@ Profitability analysis begins at the top of Figure 2 and works downward, explori
 I’ll illustrate how to analyze profitability by briefly examining Costco in 2025, using Walmart as a benchmark.
 
 ### Costco vs. Walmart
-Costco’s profitability in 2025 was strong relative to Walmart’s, as shown in Figure 3. Costco’s ROIC was 22.5% compared to Walmart’s ROIC of 13.2%. 
+Costco’s profitability in 2025 was strong relative to Walmart’s, as shown in Figure 3. Costco’s ROIC was 22.5% compared to Walmart’s ROIC of 13.3%. 
 
 ![Figure 3. Profitability analysis: Costco v. Walmart, FY 2025](../img/profitability-costco-v-walmart.svg#small)
 
@@ -283,6 +283,8 @@ This analysis shows that while Costco and Walmart both focus on low cost, they h
 
 [^6]. Using the alternative method in footnote 5, Costco’s excess cash in 2025 was `\text{min}(\$15.3\text{bn},\ \text{max}(0,\ \$38.4\text{bn}−\$37.1\text{bn})) = \$1.3\text{bn}`.
 
-[^7]. Many firms choose to lease rather than own the land and buildings they use. These leases are called right-of-use assets and appear separately from PPE on a balance sheet. They are considered PPE for profitability analysis and should be added to PPE when calculating IC. 
+[^7]. Average balance sheet values may not sum to average invested capital due to rounding.
 
-[^8]. In the case of debt, such as corporate bonds or bank loans, the cost of capital is the coupon or interest rate for the debt. In the case of equity, the cost of capital is the implied rate of return expected by shareholders. A firm’s cost of capital is normally based on its [weighted average cost of capital](https://www.investopedia.com/terms/w/wacc.asp).
+[^8]. Many firms choose to lease rather than own the land and buildings they use. These leases are called right-of-use assets and appear separately from PPE on a balance sheet. They are considered PPE for profitability analysis and should be added to PPE when calculating IC. 
+
+[^9]. In the case of debt, such as corporate bonds or bank loans, the cost of capital is the coupon or interest rate for the debt. In the case of equity, the cost of capital is the implied rate of return expected by shareholders. A firm’s cost of capital is normally based on its [weighted average cost of capital](https://www.investopedia.com/terms/w/wacc.asp).
