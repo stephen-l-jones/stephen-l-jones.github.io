@@ -39,7 +39,7 @@ Jobs could not prove his skeptics wrong. But he could improve his chances of get
 
 ## ACER Framework
 
-Evaluating claims, answering questions, and choosing actions require four types of thinking, which I call cognitive modes: analysis, creation, evaluation, and reflection. These four modes make up the ACER framework. Though the modes are presented in order here, a skilled critical thinker moves fluidly among them for any reasoning task. Each mode has a [set of skills](#APPENDIX) that has expanded in our AI age to include AI-specific skills.
+Evaluating claims, answering questions, and choosing actions require four types of thinking, which I call cognitive modes: analysis, creation, evaluation, and reflection. These four modes make up the ACER framework. Though the modes are presented in order here, a skilled critical thinker moves fluidly among them for any reasoning task. Each mode has a [set of skills](#appendix) that has expanded in our AI age to include AI-specific skills.
 
 ACER skills help resolve the AI dilemma. By applying them, students and employees can boost productivity while continuing to learn.
 
@@ -107,7 +107,7 @@ Domain knowledge improves reflection too. Experts notice when AI is subtly resha
 4. Identify sources of information that may answer a question or be evidence for a claim.
 5. Assess whether information is irrelevant or is evidence for or against a claim.
 6. Identify what is unknown or missing for answering a question or evaluating a claim.
-7. **[+AI]** Identify private, local, or contextual information that AI lacks.
+7. [+AI] Identify private, local, or contextual information that AI lacks.
 
 ***Creation***
 
@@ -117,8 +117,8 @@ Domain knowledge improves reflection too. Experts notice when AI is subtly resha
 4. Generate an explanation or infer the cause of a problem or phenomenon.
 5. Use assumptions and estimates to produce a claim when evidence is limited.
 6. Construct a novel argument or model using logic, evidence, and inferences.
-7. **[+AI]** Use AI-generated ideas or arguments as raw material for original thinking.
-8. **[+AI]** Construct prompts that give AI context, constraints, and direction to produce its output.
+7. [+AI] Use AI-generated ideas or arguments as raw material for original thinking.
+8. [+AI] Construct prompts that give AI context, constraints, and direction to produce its output.
 
 ***Evaluation***
 
@@ -128,8 +128,8 @@ Domain knowledge improves reflection too. Experts notice when AI is subtly resha
 4. Identify implicit assumptions, limitations, or biases in reasoning or an argument.
 5. Distinguish between stronger and weaker forms of an argument.
 6. Construct the strongest version of a position (steelman) before critiquing it.
-7. **[+AI]** Evaluate which AI role is appropriate, if any, given the cognitive demands, desired outcomes, and learning goals of a task.
-8. **[+AI]** Assess how data or training limitations affect the reliability of AI output.
+7. [+AI] Evaluate which AI role is appropriate, if any, given the cognitive demands, desired outcomes, and learning goals of a task.
+8. [+AI] Assess how data or training limitations affect the reliability of AI output.
 
 ***Reflection***
 
@@ -139,8 +139,8 @@ Domain knowledge improves reflection too. Experts notice when AI is subtly resha
 4. Calibrate your confidence in a conclusion to the actual strength of your evidence and reasoning.
 5. Recognize when your current reasoning approach isn’t working and adjust your strategy.
 6. Reflect on the quality of your own reasoning process and identify what could be improved.
-7. **[+AI]** Notice when AI reframes or anchors your thinking in a new way.
-8. **[+AI]** Assess whether you have sufficient domain knowledge to critically evaluate AI’s claims.
-9. **[+AI]** Recognize when you are using AI to avoid discomfort or cognitive effort.
-10. **[+AI]** Assess whether your AI use or lack thereof is improving or hampering your learning.
-11. **[+AI]** Assess whether you have internalized ideas or arguments that AI introduced or whether you are reliant on AI to use them.
+7. [+AI] Notice when AI reframes or anchors your thinking in a new way.
+8. [+AI] Assess whether you have sufficient domain knowledge to critically evaluate AI’s claims.
+9. [+AI] Recognize when you are using AI to avoid discomfort or cognitive effort.
+10. [+AI] Assess whether your AI use or lack thereof is improving or hampering your learning.
+11. [+AI] Assess whether you have internalized ideas or arguments that AI introduced or whether you are reliant on AI to use them.
