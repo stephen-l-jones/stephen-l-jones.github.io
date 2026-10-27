@@ -1,7 +1,7 @@
 ##### By Stephen Jones, Ph.D.
 ###### Updated October 2026
 
-BENJAMIN FRANKLIN BECAME one of the most celebrated scientists of his age for his observations on electricity, including his famous kite-and-key experiment. Yet he never received scientific training. Instead, his success drew on his insatiable curiosity, his skeptical attitude, and the humility to change his mind when evidence countered his opinion.
+BENJAMIN FRANKLIN became one of the most celebrated scientists of his age for his observations on electricity, including his famous kite-and-key experiment. Yet he never received scientific training. Instead, his success drew on his insatiable curiosity, his skeptical attitude, and the humility to change his mind when evidence countered his opinion.
 
 On one transatlantic voyage, Franklin noticed something odd. Two ships in the fleet had smooth wakes, while the wakes behind every other ship were choppy. He pointed this out to the captain, who reckoned the cooks had just emptied their greasy dishwater over the side. Franklin initially dismissed the captain’s explanation, though he was unable to proffer an alternative. He kept musing on the oddity, later learning from an experienced mariner that Atlantic fishermen used oil to smooth the water.
 
