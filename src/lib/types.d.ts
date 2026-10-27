@@ -5,6 +5,7 @@ interface NavPage {
     title: string;
     subtitle: string;
     iref: string;
+    icaption: string;
     rss: string;
     spotify: string;
     apple: string;

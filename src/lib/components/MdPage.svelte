@@ -20,7 +20,7 @@
 		{#if !!navPage.subtitle}
 			<h4>{navPage.subtitle}</h4>
 		{/if}
-		<Figure href="/img/{navPage.iref}" />
+		<Figure href="/img/{navPage.iref}" credit={navPage.icaption} />
 		{#if navPage.rss || navPage.spotify || navPage.apple || navPage.amazon}
 			<div class="podcast-icons">
 				{#if navPage.rss}<a href={navPage.rss} target="_blank" rel="noopener noreferrer"><img src="/img/rss.svg" alt="RSS" width="30" height="30" /></a>{/if}

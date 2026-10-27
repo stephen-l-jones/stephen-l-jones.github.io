@@ -8,6 +8,6 @@ Critics are unconvinced, pointing to Delta’s own president describing the tool
 
 Rivals are watching closely, and some are exploring similar systems. Yet whether the strategy will deliver on its early promise remains far from certain.
 
-Is Delta's AI pricing strategy likely to significantly increase the company’s profits? If not, why? If so, under what conditions?
+Is Delta’s AI pricing strategy likely to significantly increase the company’s profits? If not, why? If so, under what conditions?
 
 ---

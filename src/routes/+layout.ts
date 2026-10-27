@@ -21,6 +21,7 @@ export const load: LayoutLoad = () => {
             title: navPage.title,
             subtitle: navPage.subtitle,
             iref: navPage.iref,
+            icaption: navPage.icaption,
             rss: navPage.rss,
             spotify: navPage.spotify,
             apple: navPage.apple,
