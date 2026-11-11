@@ -1,5 +1,6 @@
 <script lang="ts">
 	export let text = '';
+	export let nested = false;
 
 	let endnoteText = text
 		.replace(/^\[\^.+?\]/g, (endnote, index) => {
@@ -22,4 +23,8 @@
 		});
 </script>
 
-{@html endnoteText}
+{#if nested}
+	<slot />
+{:else}
+	{@html endnoteText}
+{/if}

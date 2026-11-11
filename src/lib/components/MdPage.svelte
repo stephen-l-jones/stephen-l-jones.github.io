@@ -1,5 +1,6 @@
 <script lang="ts">
 	import SvelteMarkdown from 'svelte-markdown';
+	import { Lexer } from 'marked';
 	import Figure from '$lib/components/Figure.svelte';
 	import MathEq from '$lib/components/MathEq.svelte';
 	import MathEqBlock from '$lib/components/MathEqBlock.svelte';
@@ -9,10 +10,25 @@
 
 	export let markdown = '';
 	export let navPage: NavPage;
+
+	// Tight list items yield text tokens that contain inline tokens (bold, links).
+	// Flag them so Endnote renders the children instead of the raw text.
+	function flagNestedText(tokens: any[]) {
+		for (const token of tokens) {
+			if (token.type === 'text' && token.tokens) token.nested = true;
+			if (token.tokens) flagNestedText(token.tokens);
+			if (token.items) flagNestedText(token.items);
+			if (token.header) flagNestedText(token.header);
+			if (token.rows) token.rows.forEach(flagNestedText);
+		}
+		return tokens;
+	}
+
+	$: tokens = flagNestedText(new Lexer().lex(markdown));
 </script>
 
 <div class="markdown">
-	<div class="markdown-styling">
+	<div class="markdown-styling" class:table-ruled={navPage.tableStyle === 'ruled'}>
 		{#if !!navPage.strap}
 			<h5>{navPage.strap}</h5>
 		{/if}
@@ -30,7 +46,7 @@
 			</div>
 		{/if}
 		<SvelteMarkdown
-			source={markdown}
+			source={tokens}
 			renderers={{
 				image: Figure,
 				link: Link,
@@ -135,5 +151,23 @@
 	}
 	:global(.markdown-styling table) {
 		margin: 0 auto 1.2rem auto;
+	}
+	/* tableStyle "ruled": left-aligned, full-width, horizontal rules only. */
+	:global(.markdown-styling.table-ruled table) {
+		width: 100%;
+		margin: 0 0 1.2rem 0;
+		border-collapse: collapse;
+	}
+	:global(.markdown-styling.table-ruled th),
+	:global(.markdown-styling.table-ruled td) {
+		padding: 4px 12px;
+		text-align: left;
+		vertical-align: top;
+		border-bottom: 1px solid var(--table-header-color);
+	}
+	:global(.markdown-styling.table-ruled th) {
+		background-color: var(--table-header-color);
+		border-top: 1px solid var(--font-color);
+		border-bottom: 1px solid var(--font-color);
 	}
 </style>

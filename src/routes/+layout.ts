@@ -25,7 +25,8 @@ export const load: LayoutLoad = () => {
             rss: navPage.rss,
             spotify: navPage.spotify,
             apple: navPage.apple,
-            amazon: navPage.amazon
+            amazon: navPage.amazon,
+            tableStyle: navPage.tableStyle
         }
     })
 

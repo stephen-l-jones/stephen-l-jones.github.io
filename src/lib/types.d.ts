@@ -10,6 +10,7 @@ interface NavPage {
     spotify: string;
     apple: string;
     amazon: string;
+    tableStyle?: string;
 }
 
 interface Source {
