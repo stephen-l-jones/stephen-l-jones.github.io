@@ -55,7 +55,7 @@ Analysis is the act of decomposing a problem into its basic elements, identifyin
 
 Fadem settled the shrinking burrito bowl debate using analysis skills. He first decomposed the problem into its parts: ingredients, location, order channel (digital versus in-store), and weight. He fixed the order at six ingredients, so only the amount of each could vary. This created a reliable measure for portion size. Then he collected evidence from the eight locations. He examined relationships between weight and location and between weight and order channel, since customers suspected digital orders were being shorted. The channel data showed no difference, eliminating one explanation. But weights varied widely by location, which led Fadem to conclude that individual restaurants were skimping.
 
-Analysis converts a confusing, complex situation into something workable. Without analysis, reasoning rests solely on intuition, which is less reliable. Analysis is also foundational for creation, which generates new insights and compelling arguments.
+Analysis converts a confusing, complex situation into something workable. Without analysis, reasoning rests solely on intuition, which is less reliable. Analysis also supplies the spark for new ideas. People rarely have a fresh insight about a problem they haven’t first broken down.
 
 AI accelerates analysis by retrieving information and spotting patterns. But AI can work only with what it can access. Personal opinions and private data are invisible to it. Suppose staffing cuts reduce a store’s sales. AI can’t explain the drop if no one supplies the staff schedules. Effective analysis with AI requires knowing what AI doesn’t know⁠—and deciding what to feed in.
 
