@@ -82,7 +82,7 @@ When output matters more, accelerators work well. When learning is the goal, amp
 
 Others’ expectations and users’ own goals can conflict. A manager’s deadline may favor a producer, while an employee’s own development favors a tutor or thinking partner. Neither is always right, so users have to weigh the trade-off deliberately.
 
-*On this task, are mistakes costly or hard to catch?* Users rarely know in advance which side of the frontier a task falls on. But they can judge what a mistake would cost and whether they could catch one. Mistakes in routine tasks are usually cheap and easy to spot. In a task like the BCG segment decision, a mistake is costly, and a polished answer can hide it.
+*On this task, is there a risk of costly or hard-to-catch mistakes?* Users rarely know in advance which side of the frontier a task falls on. But they can judge what a mistake would cost and whether they could catch one. Mistakes in routine tasks are usually cheap and easy to spot. In a task like the BCG segment decision, a mistake is costly, and a polished answer can hide it.
 
 When the risk of hidden mistakes is low, users can safely rely on accelerators. When it is high, they have two options. They can do more of the thinking themselves, using amplifiers for the judgment-heavy parts of the work. Or they can still use an accelerator but carefully check its output against independent sources. For brainstorming, that source can be users’ own list of ideas, generated before they see AI’s. For an agent, high risk also calls for closer oversight, such as approving its actions before it takes them.
 
