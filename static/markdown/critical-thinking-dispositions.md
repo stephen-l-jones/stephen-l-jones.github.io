@@ -21,9 +21,9 @@ Other tests cast further doubt. A woman, told that d’Eslon was magnetizing her
 
 The Franklin Commission concluded that the effects were real, but imagination alone produced them.
 
-The intellectual dispositions Franklin displayed⁠—curiosity, skepticism, and humility⁠—are essential for critical thinkers, as are integrity and courage. Knowing how to think critically isn’t enough. Good reasoning also requires a committed heart⁠—the motivation, attitude, and ethical orientation to pursue truth.
+The dispositions Franklin displayed⁠—curiosity, skepticism, and humility⁠—are essential for critical thinkers, as are integrity and courage. Knowing how to think critically isn’t enough. Good reasoning also requires a committed heart⁠—the motivation, attitude, and ethical orientation to pursue truth.
 
-This second article in the *Critical Thinking in the Age of AI* series explains five dispositions critical thinkers strive to develop.
+This second article in the *Critical Thinking in the Age of AI* series describes five intellectual virtues critical thinkers strive to develop.
 
 ## Curiosity
 

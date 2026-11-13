@@ -23,7 +23,7 @@ But evidence suggests there is a way forward. Impaired thinking is not inevitabl
 
 Research on students suggests the same. In the MIT study, those who wrote unaided before using AI engaged with it more strategically, showing better recall and stronger brain connectivity. And researchers who tracked 27,000 high-schoolers in China found that AI users who spent as much time on homework as non-users [did as well on exams](https://cepr.org/voxeu/columns/generative-ai-learning-penalty-secondary-school).
 
-This *Critical Thinking in the Age of AI* series offers a thoughtful approach to AI⁠—one that raises productivity while still building the capacity to think. This first article introduces critical thinking and the ACER framework. The second, [*Critical Thinking Dispositions*](./critical-thinking-dispositions), describes the five intellectual dispositions for critical thinking, and the third, [*Deliberate Delegation to AI*](./deliberate-delegation-to-ai), explains how users can delegate work while retaining ownership of their thinking.
+This *Critical Thinking in the Age of AI* series offers a thoughtful approach to AI⁠—one that raises productivity while still building the capacity to think. This first article introduces critical thinking and the ACER framework. The second, [*Critical Thinking Dispositions*](./critical-thinking-dispositions), describes the five intellectual virtues critical thinkers strive to develop, and the third, [*Deliberate Delegation to AI*](./deliberate-delegation-to-ai), explains how users can delegate work while retaining ownership of their thinking.
 
 ## Critical thinking in business
 
