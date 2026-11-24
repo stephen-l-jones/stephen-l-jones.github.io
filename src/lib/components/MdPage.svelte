@@ -130,6 +130,25 @@
 	:global(.markdown-styling a):visited {
 		color: var(--md-a-color);
 	}
+	/* Blockquotes render as pull quotes: text repeated from the body for emphasis. */
+	:global(.markdown-styling blockquote) {
+		margin: 1.8rem 2rem;
+		padding: 0.9rem 0;
+		border-top: 2px solid var(--font-color);
+		border-bottom: 2px solid var(--font-color);
+		font-family: var(--body-font);
+		font-size: 1.3rem;
+		font-weight: 600;
+		line-height: 1.4;
+	}
+	:global(.markdown-styling blockquote p) {
+		margin: 0;
+	}
+	@media (max-width: 480px) {
+		:global(.markdown-styling blockquote) {
+			margin: 1.5rem 1rem;
+		}
+	}
 	:global(.markdown-styling .endnote) {
 		font-size: 1rem;
 	}

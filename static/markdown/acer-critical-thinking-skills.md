@@ -11,6 +11,8 @@ Managers also need critical thinkers who can detect AI hallucinations. One law f
 
 Better models will reduce these failures, but they won’t remove the need for critical thinkers. Someone must still specify business objectives, know the models’ weaknesses, judge their outputs, deploy them ethically, and answer for them.
 
+> Students and employees must use AI to stay relevant, but they risk impairing their critical thinking skills if they offload their cognitive work onto AI.
+
 Yet as AI advances, it threatens to dull the development of critical thinking. Early evidence is worrying. [One study](https://www.mdpi.com/2075-4698/15/1/6) of 666 people, spanning ages and education levels, found a negative relationship between frequent AI use and critical thinking ability. Cognitive offloading⁠—the act of delegating strenuous thinking to AI⁠—appeared to be the culprit.
 
 Experimental evidence shows the same harmful effect. [Researchers at Anthropic](https://www.anthropic.com/research/AI-assistance-coding-skills) had 52 software engineers complete an unfamiliar coding task, half with AI and half without, and then quizzed them. The AI group finished no faster and scored nearly two letter grades lower.
@@ -27,9 +29,11 @@ This *Critical Thinking in the Age of AI* series offers a thoughtful approach to
 
 ## Critical thinking in business
 
-Critical thinking is *a process of disciplined reasoning to form warranted beliefs and defensible decisions*. Critical thinkers use their skills in three ways. First, they evaluate claims of truth, sifting out unwarranted claims⁠—those that lack adequate justification. Claims are made constantly in business, and many sound plausible. But claims are warranted only when they rest on good evidence and sound reasoning. They fail when they start with faulty information or use poor logic.
+Critical thinking is a process of disciplined reasoning to form warranted beliefs and defensible decisions. Critical thinkers use their skills in three ways. First, they evaluate claims of truth, sifting out unwarranted claims⁠—those that lack adequate justification. Claims are made constantly in business, and many sound plausible. But claims are warranted only when they rest on good evidence and sound reasoning. They fail when they start with faulty information or use poor logic.
 
 Progressive has advertised that “on average, drivers who switch and save with Progressive save over $900.” This claim is true, and carefully bounded (lest Progressive run afoul of regulators). But the implied conclusion⁠—that a driver who switches will save $900⁠—isn’t warranted. The statistic is based on a group of switchers who aren’t representative. The group includes only drivers who were paying too much before switching; it doesn’t include drivers who found Progressive more expensive and stayed put. Any particular driver may already have a competitive rate and shouldn’t expect such savings. Yet insurers advertise such claims because many consumers jump to the unwarranted conclusion.
+
+> Critical thinking is a process of disciplined reasoning to form warranted beliefs and defensible decisions.
 
 Second, critical thinkers answer business questions by turning raw data into reasoned answers⁠—ones justified by more than gut feel. They analyze data on customer complaints, financial results, and competitors’ prices. They describe the relationships they find and infer answers from them.
 
@@ -87,6 +91,8 @@ Reflection, also called metacognition, is thinking about one’s own thinking. W
 
 Reflection lets critical thinkers catch and correct flaws in their analysis, creation, and evaluation. It is the feedback loop that converts experience into learning and mistakes into improvement. Without it, people easily repeat their reasoning mistakes. In this sense, reflection is the mode that monitors and protects the integrity of the others.
 
+> Am I using AI to accelerate my learning, or to avoid hard thinking?
+
 After Klarna’s CEO, Sebastian Siemiatkowski, acknowledged the company’s chatbot had lowered customer service quality, some concluded that the deployment had fallen short. But Siemiatkowski, reflecting on his own evaluation criteria, reached a different conclusion. Cost, he said, had been too dominant a factor in the assessment. The AI had performed well on the metrics it was given. The mistake was in what Klarna had chosen to measure, a judgment he was responsible for.
 
 AI raises new questions for reflection. *Do I know enough about this domain to judge the output? Have I internalized this idea, or can I only use it with AI’s help? Has AI reframed the problem without my noticing?*
@@ -111,7 +117,7 @@ Domain knowledge improves reflection too. Experts notice when AI is subtly resha
 
 **ACER Critical Thinking Skills**
 
-Skills marked [+AI] apply only when working with AI. The others apply with or without AI.
+Skills marked [+AI] apply when working with AI. The others apply with or without AI.
 
 ***Analysis***
 
