@@ -33,7 +33,7 @@ Progressive has advertised that “on average, drivers who switch and save with 
 
 Second, critical thinkers answer business questions by turning raw data into reasoned answers⁠—ones justified by more than gut feel. They analyze data on customer complaints, financial results, and competitors’ prices. They describe the relationships they find and infer answers from them.
 
-In 2024, TikTok users accused Chipotle of shrinking its portions, but the CEO denied it. So Wells Fargo analyst Zachary Fadem decided to settle the growing debate: was the company telling the truth, or skimping on chicken? He and his team ordered the same burrito bowl 75 times across eight New York locations and weighed each one. The median was 1.3 pounds, but weights varied widely. Some locations served roughly a third more than others, and the heaviest bowl weighed nearly twice the lightest. Fadem concluded that Chipotle hadn’t systematically shrunk portions⁠—the analysis supported the CEO’s claim⁠—but individual restaurants were skimping. The company ultimately conceded it had an execution problem at some locations.
+In 2024, TikTok users accused Chipotle of shrinking its portions, and some began filming servers to pressure them into larger scoops. The CEO denied that portions had changed. Zachary Fadem, the Wells Fargo analyst who covered Chipotle, decided to weigh in. He couldn’t test whether bowls had shrunk without data on past portions, but he could test whether they were consistent. He and his team ordered the same chicken burrito bowl 75 times across eight New York locations and weighed each one. The median was 1.3 pounds, but weights varied widely by location. Some served roughly a third more than others, and the heaviest bowl weighed nearly twice the lightest. Fadem concluded that Chipotle had a consistency problem. Some restaurants were skimping⁠—a point Chipotle ultimately conceded.
 
 Third, critical thinkers choose appropriate courses of action while facing ambiguity. An organization’s future is uncertain and its present is complex, so making good decisions is hard. Critical thinkers cut through ambiguity to get at the heart of a situation, and craft well-reasoned arguments to convince others of the path forward.
 
@@ -53,11 +53,11 @@ ACER skills help resolve the AI dilemma. By applying them, students and employee
 
 Analysis is the act of decomposing a problem into its basic elements, identifying how those elements relate to each other, and locating evidence that bears on the question at hand. *What is this made of? How do the pieces connect? What evidence do I have?* Analysis includes recognizing patterns in data, judging what information is relevant, and acknowledging what is missing.
 
-Fadem settled the shrinking burrito bowl debate using analysis skills. He first decomposed the problem into its parts: ingredients, location, order channel (digital versus in-store), and weight. He fixed the order at six ingredients, so only the amount of each could vary. This created a reliable measure for portion size. Then he collected evidence from the eight locations. He examined relationships between weight and location and between weight and order channel, since customers suspected digital orders were being shorted. The channel data showed no difference, eliminating one explanation. But weights varied widely by location, which led Fadem to conclude that individual restaurants were skimping.
+Fadem brought analysis skills to the burrito bowl debate. He first acknowledged what was missing⁠—past weights⁠—and narrowed the question to one he could answer. He then decomposed the problem into its parts: ingredients, location, order channel (online versus in-store), and weight. He fixed the order at six ingredients, so only the amount of each could vary. This created a reliable measure for portion size. Next he collected evidence from the eight locations and examined how weight varied by location and by order channel. Online orders weighed about the same as in-store ones, so they weren’t being shorted. But weights varied widely by location, pointing to individual restaurants.
 
 Analysis converts a confusing, complex situation into something workable. Without analysis, reasoning rests solely on intuition, which is less reliable. Analysis also supplies the spark for new ideas. People rarely have a fresh insight about a problem they haven’t first broken down.
 
-AI accelerates analysis by retrieving information and spotting patterns. But AI can work only with what it can access. Personal opinions and private data are invisible to it. Suppose staffing cuts reduce a store’s sales. AI can’t explain the drop if no one supplies the staff schedules. Effective analysis with AI requires knowing what AI doesn’t know⁠—and deciding what to feed in.
+AI accelerates analysis by retrieving information and spotting patterns. But AI can work only with what it can access. A company’s private data and what its employees know firsthand are invisible to it. Suppose staffing cuts reduce a store’s sales. AI can’t accurately explain the drop if no one supplies the staff schedules, but it will try anyway. Effective analysis with AI requires knowing what AI doesn’t know⁠—and deciding what to bring into the conversation.
 
 ### Creation
 
@@ -79,7 +79,7 @@ It is also the cognitive mode most directly threatened by myside bias⁠—the i
 
 Critical thinkers evaluate AI output like any other source, and are careful not to be taken in by its polish. They also consider how its training data limits its reliability. And before using it, they [choose the role](./deliberate-delegation-to-ai#choosing-roles) AI should play in a thinking task, if any⁠—a choice that depends on their learning goals, the risks of using AI, and others’ expectations.
 
-A failure to evaluate led to the brief that cited six fabricated cases. Steven Schwartz, the lawyer who “wrote” the brief, had practiced law for 30 years when he turned to ChatGPT for research help. His firm’s legal database had limited access to federal cases, so he asked ChatGPT instead. Nothing in the output looked suspicious. When opposing counsel could not locate the cases, Schwartz did not look for them in an authoritative source. He asked ChatGPT whether the cases were real. It said yes. He pressed further, and it produced what appeared to be excerpts of the decisions, which he filed with the court. Schwartz failed on two counts. He never judged the output against an independent standard. (Checking a source against itself isn’t verification.) And he didn’t carefully choose AI’s role. He assigned a record-retrieval task to a text-generation tool. He [testified](https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1:2022cv01461/575368/54) that it had never occurred to him the tool could invent cases.
+A failure to evaluate led to the brief that cited six fabricated cases. Steven Schwartz, the lawyer who “wrote” the brief, had practiced law for 30 years when he turned to ChatGPT for research help. His firm’s legal database had limited access to federal cases, so he asked ChatGPT instead. Nothing in the output looked suspicious. When opposing counsel could not locate the cases, Schwartz did not look for them in an authoritative source. He asked ChatGPT whether the cases were real. It said yes. He pressed further, and it produced what appeared to be excerpts of the decisions, which he filed with the court. Schwartz failed on two counts. He never judged the output against an independent standard. (Checking a source against itself isn’t verification.) And he didn’t carefully choose AI’s role. He went looking for case law with a tool that, in 2023, couldn’t look anything up. In effect, he assigned a record-retrieval task to a text-generation tool. He [testified](https://law.justia.com/cases/federal/district-courts/new-york/nysdce/1:2022cv01461/575368/54) that it had never occurred to him the tool could invent cases.
 
 ### Reflection
 
@@ -99,7 +99,7 @@ It also serves those reluctant to use AI at all. *Am I avoiding it where it woul
 
 ACER skills are general, applying within business and beyond. But domain knowledge is needed to use them well. A marketing manager with deep knowledge of a target audience can critically evaluate a proposed advertising campaign better than an intern. And a strategist can more easily identify patterns in a complex industry after many years working in it. Domain knowledge thus sharpens critical thinking.
 
-Domain knowledge also helps critical thinkers judge AI output. Because AI sounds confident even when it’s wrong, novices can be misled. Expertise is needed to spot an error within a fluent answer.
+Domain knowledge also helps critical thinkers judge AI output. Because AI sounds confident even when it’s wrong, novices can be misled. Expertise is needed to spot an error within a fluent answer. Still, novices can use AI to build that expertise, asking it to explain concepts and checking its output against other sources.
 
 Domain knowledge improves reflection too. Experts notice when AI is subtly reshaping their thinking, and can decide whether to accept it. They also judge their own learning more accurately. A fluent explanation can feel like understanding, so novices may assume they have internalized more than they have.
 
@@ -111,6 +111,8 @@ Domain knowledge improves reflection too. Experts notice when AI is subtly resha
 
 **ACER Critical Thinking Skills**
 
+Skills marked [+AI] apply only when working with AI. The others apply with or without AI.
+
 ***Analysis***
 
 1. Decompose a problem, phenomenon, or argument into its basic elements or constituent concepts.
@@ -119,7 +121,7 @@ Domain knowledge improves reflection too. Experts notice when AI is subtly resha
 4. Identify sources of information that may answer a question or be evidence for a claim.
 5. Assess whether information is irrelevant or is evidence for or against a claim.
 6. Identify what is unknown or missing for answering a question or evaluating a claim.
-7. [+AI] Identify private, local, or contextual information that AI lacks.
+7. [+AI] Identify private and firsthand information that AI lacks.
 
 ***Creation***
 
@@ -128,19 +130,19 @@ Domain knowledge improves reflection too. Experts notice when AI is subtly resha
 3. Predict an outcome from patterns, relationships, or evidence.
 4. Generate an explanation or infer the cause of a problem or phenomenon.
 5. Use assumptions and estimates to produce a claim when evidence is limited.
-6. Construct a novel argument or model using logic, evidence, and inferences.
+6. Construct a novel argument using logic, evidence, and inferences.
 7. [+AI] Use AI-generated ideas or arguments as raw material for original thinking.
-8. [+AI] Construct prompts that give AI context, constraints, and direction to produce its output.
+8. [+AI] Direct AI with context, constraints, and goals.
 
 ***Evaluation***
 
 1. Judge the quality of work using a set of criteria.
-2. Assess whether a premise holds, a logical statement is valid, or an inference is warranted.
+2. Assess whether a premise holds, a conclusion is valid, or an inference is warranted.
 3. Weigh the logical and evidentiary support for and against a claim or argument.
-4. Identify implicit assumptions, limitations, or biases in reasoning or an argument.
+4. Identify hidden assumptions, limitations, or biases in reasoning or an argument.
 5. Distinguish between stronger and weaker forms of an argument.
 6. Construct the strongest version of a position (steelman) before critiquing it.
-7. [+AI] Evaluate which AI role is appropriate, if any, given learning goals, the risks of using AI, and others’ expectations.
+7. [+AI] Evaluate which AI role is appropriate, if any.
 8. [+AI] Assess how data or training limitations affect the reliability of AI output.
 
 ***Reflection***
