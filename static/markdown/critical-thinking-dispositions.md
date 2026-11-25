@@ -5,23 +5,25 @@ BENJAMIN FRANKLIN became one of the most celebrated scientists of his age for hi
 
 On one transatlantic voyage, Franklin noticed something odd. Two ships in the fleet had smooth wakes, while the wakes behind every other ship were choppy. He pointed this out to the captain, who reckoned the cooks had just emptied their greasy dishwater over the side. Franklin dismissed the captain’s explanation, though he had no alternative to offer. He kept musing on the oddity. Later, an experienced mariner told him that Atlantic fishermen used oil to smooth the water.
 
+![Benjamin Franklin](../img/benjamin-franklin.webp#right)
+
 Franklin decided to conduct his own experiment. While standing on the bank of a large pond whipped rough by the wind, he dropped a little oil on the waves. To [his surprise](https://founders.archives.gov/documents/Franklin/01-20-02-0250), “the Oil tho’ not more than a Tea Spoonful produced an instant Calm, over a Space several yards square.” It kept spreading until perhaps half an acre of the pond lay “as smooth as a Looking Glass.” His experiment backed the captain’s claim.
 
 This intrigued Franklin. He took to carrying a little oil in the hollow joint of his bamboo walking cane so he could repeat the experiment wherever he found open water. He documented his experiments, including failures, in a long letter the Royal Society published. His observations influenced modern studies of surface chemistry.
 
-![Benjamin Franklin](../img/benjamin-franklin.webp#right)
-
 Franklin’s fame landed him atop a special royal commission while he was serving as America’s ambassador to France. At the time, Paris was in the grip of animal magnetism. Charles-Nicolas d’Eslon, a student of the German physician who “discovered” an invisible fluid that flowed through all living things, was packing treatment rooms with fashionable patients. Disease, d’Eslon claimed, arose when the fluid became blocked. A trained practitioner like himself could restore its flow. Patients sat around a large oak tub with iron rods protruding from it. They pressed the rods against ailing body parts to conduct the magnetism, aided by music from a nearby piano. Many fell into convulsions⁠—termed a “crisis”⁠—that could last for hours. Some of France’s leading physicians and intellectuals became converts.
+
+> Knowing how to think critically isn’t enough. Good reasoning also requires a committed heart.
 
 The Franklin Commission [approached the phenomenon](https://www.gutenberg.org/ebooks/78413) “with that philosophic doubt which ought always to accompany enquiry.” The commissioners first had themselves magnetized. They felt nothing. Given that others reacted strongly, the commissioners formed a hypothesis: the effects came not from a fluid but from the patients’ expectations. They set out to test it.
 
 The best-known test took place in Franklin’s orchard. D’Eslon chose a boy of about 12 whom he knew to be highly susceptible, and magnetized a single apricot tree while the boy waited inside. The boy was then blindfolded, led to four other trees⁠—none of them magnetized⁠—and told to embrace each for two minutes. At the first he began sweating and coughing. At the second he felt dazed and his head ached. At the third the symptoms grew worse. At the fourth, he fainted and his limbs went rigid.
 
-Other tests cast further doubt. A woman, told that d’Eslon was magnetizing her from behind a closed door, went into a full crisis within three minutes, though no one was there. Another chatted cheerfully for 30 minutes, unaware that a commissioner was magnetizing her on the other side of a paper screen. When the same commissioner then did it openly, she fell into a crisis in three minutes.
+Other tests cast further doubt. A woman, told that d’Eslon was magnetizing her from behind a closed door, went into a full crisis within three minutes, though no one was there. Another chatted cheerfully for 30 minutes, unaware that a commissioner was magnetizing her on the other side of a paper screen. When the same commissioner then did it openly, she fell into a crisis almost immediately.
 
 The Franklin Commission concluded that the effects were real, but imagination alone produced them.
 
-The dispositions Franklin displayed⁠—curiosity, skepticism, and humility⁠—are essential for critical thinkers, as are integrity and courage. Knowing how to think critically isn’t enough. Good reasoning also requires a committed heart⁠—the motivation, attitude, and ethical orientation to pursue truth.
+The virtues Franklin displayed⁠—curiosity, skepticism, and humility⁠—are essential for critical thinkers, as are integrity and courage. Knowing how to think critically isn’t enough. Good reasoning also requires a committed heart⁠—the motivation, attitude, and ethical orientation to pursue truth.
 
 This second article in the *Critical Thinking in the Age of AI* series describes five intellectual virtues critical thinkers strive to develop.
 
@@ -39,7 +41,7 @@ Raytheon patented Spencer’s method of cooking with microwaves and paid him $2,
 
 Curiosity is an urge for discovery⁠—a desire to grasp what one doesn’t understand. Curious thinkers are drawn to puzzles, oddities, and unexplained phenomena, which focus their attention. They ask more questions, notice more, and keep probing after a plausible answer appears.
 
-Curiosity is particularly important in the age of AI. Users can easily offload cognitive work onto AI, which circumvents learning. Curious thinkers resist that temptation. They use AI to deepen their domain knowledge.
+Curiosity is particularly important in the age of AI. Users can easily offload cognitive work onto AI, which circumvents learning. Curious thinkers resist that temptation. They use AI to deepen their domain knowledge. At Harvard, [physics students](https://pmc.ncbi.nlm.nih.gov/articles/PMC12179260/) who worked through problems step by step with a carefully designed AI tutor learned more than they did in an active-learning class. Curious thinkers use AI that way by choice.
 
 Curiosity especially supports analysis and creation, two of the cognitive modes in [*ACER Critical Thinking Skills*](./acer-critical-thinking-skills#appendix). Curious thinkers find interesting patterns and notice anomalies when dissecting a problem, and they treat an oddity as an invitation to pursue an explanation. For Spencer the oddity was a melted candy bar; for Franklin it was two smooth wakes.
 
@@ -50,6 +52,8 @@ In 1999 Harry Markopolos, an options specialist at an investment firm, was asked
 Madoff said he used a strategy called split-strike conversion. He bought a basket of large companies’ stocks, then used options (contracts to buy or sell at a set price) to cap his gains and limit his losses. Markopolos knew the strategy well. It could earn decent returns in some markets but not all, and it could not produce a decade of near-perfect steadiness.
 
 The more Markopolos looked, the less the numbers fit. Madoff claimed to own stocks that mirrored the market, so his returns should have risen and fallen with it. But they barely moved with the market at all. And the options Madoff needed to protect his stocks would have outnumbered all the options of that kind in existence. Markopolos tried repeatedly to replicate the returns and could not. He concluded that the returns were fabricated.
+
+> Skeptics are not hard to convince; they are hard to convince without good reasons.
 
 In May 2000 he submitted his analysis to the Securities and Exchange Commission, which regulates investment funds. Nothing happened. He resubmitted in 2001. Nothing happened. He kept digging. With two colleagues he gathered information on who was investing with Madoff and what they were being told, and he shared his doubts with financial journalists. In October 2005 he sent the SEC a memo titled “The World’s Largest Hedge Fund Is a Fraud,” listing 29 red flags. The agency looked into Madoff and found no fraud. Markopolos kept contacting the SEC for three more years. Frustrated, he would later [tell Congress](https://www.govinfo.gov/content/pkg/CHRG-111hhrg48673/html/CHRG-111hhrg48673.htm) that the SEC “continues to roar like a mouse and bite like a flea.”
 
@@ -85,7 +89,7 @@ Whitehead, who had set out to defend the pump, became Snow’s most important al
 
 Intellectual humility is recognizing the limits of one’s knowledge and the possibility of being wrong. It is skepticism turned inward⁠—holding one’s own beliefs to the same standard of evidence applied to others’ claims. Humility is not self-doubt or timidity. Humble thinkers still form views and act on them. They simply hold them provisionally⁠—as claims to be further tested. Franklin did this when he tested the captain’s explanation and found it held. Whitehead did it at greater cost. He publicly set out to show the pump was safe, then let his own evidence prove him wrong.
 
-Humility guards against AI’s sycophancy. AI often backs down when a user pushes back. Humble thinkers don’t push AI toward agreement. Instead, they turn it against their own views. They ask it to critique their reasoning or make the strongest case against their position. Then they weigh the merits of its answer.
+Humility guards against AI’s sycophancy. Humble thinkers recognize that AI may back down if they push, even when it’s right. So they don’t push. Instead, they turn AI against their own views. They ask it to critique their reasoning or make the strongest case against their position. Then they weigh the merits of its answer.
 
 Humility strengthens evaluation. People naturally evaluate their own arguments charitably⁠—a tendency called [myside bias](./acer-critical-thinking-skills#evaluation)⁠—but humble thinkers resist it. They consider evidence against their position and steelman views they disagree with before critiquing them. Humility also drives [reflection](./acer-critical-thinking-skills#reflection). Humble thinkers calibrate their confidence to the strength of their evidence. They ask whether they even know enough to reason about a topic. The same question applies to AI. When an answer lies beyond their expertise, humble thinkers check it against other sources.
 
@@ -100,6 +104,8 @@ Thiokol’s managers conferred privately. Boisjoly and a colleague made their ca
 NASA wanted the reversal in writing. Allan McDonald, who directed Thiokol’s booster program, refused to sign. He told NASA he would not want to explain to a board of inquiry why they had launched. His boss signed instead.
 
 The next morning, Challenger broke apart 73 seconds after liftoff, killing all seven astronauts aboard. The engineers watched in horror.
+
+> Before putting their name on AI-assisted work, principled thinkers make sure they can explain and defend it without AI’s help.
 
 Boisjoly and McDonald could have kept quiet. Two weeks after the disaster, McDonald sat in a closed commission hearing as a NASA official testified that Thiokol had raised concerns but approved the launch. McDonald raised his hand and told the commission that Thiokol had recommended against launching. The chairman asked him to come down to the floor and repeat it. Boisjoly testified too and handed over his memos. Thiokol demoted McDonald and reassigned Boisjoly, drawing objections from the commission and Congress. Boisjoly, shunned by colleagues, eventually resigned.
 
@@ -125,7 +131,7 @@ The pressure mounted. Merrell’s representative contacted her repeatedly and co
 
 Two months later, a German pediatrician linked thalidomide to an epidemic of babies born with severely malformed or missing limbs. Thousands of children were affected worldwide. Merrell withdrew its application in March 1962. Because Kelsey had kept the drug off American shelves, only a small number of such births occurred in the United States. In August 1962, President Kennedy gave her the President’s Award for Distinguished Federal Civilian Service.
 
-Intellectual courage is accepting the conclusions that evidence and reasoning lead to, even when those conclusions come at a cost. Kelsey’s did. Holding up a drug sold in more than 20 countries meant defying a company, its endorsing doctors, and a widespread belief that the drug was safe. Courage is not mere stubbornness. Kelsey’s stand rested on sound reasoning. She asked only that Merrell show the drug was safe, and the evidence never came.
+Intellectual courage is accepting the conclusions that evidence and reasoning lead to, even when those conclusions come at a cost. Kelsey’s did. Holding up a drug sold in more than 20 countries meant defying a company, its endorsing doctors, and a widespread belief that the drug was safe. Courage is not mere stubbornness. Kelsey’s stand rested on sound reasoning. She asked only that Merrell show the drug was safe, and the evidence never came. Kelsey’s courage was rewarded, but courage often isn’t. Boisjoly’s testimony cost him his career at Thiokol. Courageous thinkers accept the cost without any promise of reward.
 
 AI tests the courage to bear the cost of thinking. Using AI eases the hard work of producing well-reasoned ideas. But when learning is the goal, courageous thinkers lean into the difficulty, working through problems instead of handing them over to AI. Educators call this productive struggle⁠—the effortful and often uncomfortable thinking that builds real understanding.
 
