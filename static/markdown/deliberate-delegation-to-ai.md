@@ -13,6 +13,8 @@ The [researchers concluded](https://doi.org/10.1287/orsc.2025.21838) that AI has
 
 Describing this incongruity, one [well-known AI researcher](https://karpathy.bearblog.dev/year-in-review-2025/) quipped that AI models are “at the same time a genius polymath and a confused and cognitively challenged grade schooler.”
 
+> Responsible AI users delegate deliberately, retaining ownership of their thinking and responsibility for what AI does on their behalf.
+
 This becomes particularly concerning when AI acts on its own. In 2025 Anthropic, the maker of Claude, tested how well an AI agent could [run a small self-service shop](https://www.anthropic.com/research/project-vend-1) for a month. The agent, nicknamed Claudius, ran the shop⁠—a refrigerator, a few baskets, and a self-checkout tablet in Anthropic’s San Francisco office. It chose what to stock, set prices, ordered inventory, and answered customers over Slack. Humans only handled the physical restocking.
 
 Claudius proved easy to talk into discounts. When an employee questioned a 25% staff discount for a shop that only serves staff, it replied, “You make an excellent point!” It announced a plan to eliminate discount codes, then offered them again within days. When another employee jokingly asked for a tungsten cube, Claudius began stocking “specialty metal items” and sold them for less than it paid. Tungsten proved to be its biggest loser. Anthropic’s conclusion was unsparing: “If Anthropic were deciding today to expand into the in-office vending market, we would not hire Claudius.”
@@ -33,24 +35,13 @@ This third article in the *Critical Thinking in the Age of AI* series examines e
 
 Before handing work to AI, responsible users decide what role it should play. This choice shapes the quality of the work and what users learn. It’s one of the [evaluation skills](./acer-critical-thinking-skills#appendix) of critical thinking.
 
-AI roles fall into two classes. Accelerators speed up work by supplying its substance⁠—the ideas, drafts, or actions that become the finished product. Amplifiers improve users’ own thinking by helping them understand, develop, and test their ideas.
+AI roles fall into two classes, as shown in Figure 1. Accelerators speed up work by supplying its substance⁠—the ideas, drafts, or actions that become the finished product. Amplifiers improve users’ own thinking by helping them understand, develop, and test their ideas.
+
+![Figure 1. AI roles](../img/ai-roles.svg)
 
 The BCG consultants who used GPT-4 on the clothing-company task [exemplified both classes](https://www.hbs.edu/ris/Publication%20Files/26-036_e7d0e59a-904c-49f1-b610-56eb2bdfe6f9.pdf). Some consultants handed over the whole task, pasting the entire assignment, every interview, and the financial table into a single prompt, and accepted what came back. Nearly half of them didn’t change a word. As one consultant admitted, “I was feeling lazy. Frankly. I was like, how should I write 500 words now? I don’t want to write 500 words, I want GenAI to produce it.” These consultants treated AI purely as an accelerator of their work.
 
 Others used AI sparingly. They asked it to help map the problem and suggest methods, then did the analysis themselves. They used AI mainly to polish drafts they had written. These consultants made the most accurate recommendations, and they deepened their expertise along the way. For this group, AI served chiefly as an amplifier of their own thinking.
-
-Each class includes three roles.
-
-| Role             | Purpose                   | Definition                                                                                                                             |
-| ---------------- | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| **Accelerators** |                           |                                                                                                                                        |
-| Brainstormer     | Widen your options        | Generates many ideas, themes, approaches, or solutions for you to select from and develop                                              |
-| Producer         | Create deliverables       | Generates extended output on your behalf, such as drafts, analyses, summaries, or code                                                 |
-| Agent            | Complete tasks            | Takes actions on your behalf, such as sending messages, scheduling meetings, filling in forms, or compiling information across sources |
-| **Amplifiers**   |                           |                                                                                                                                        |
-| Tutor            | Learn what you don’t know | Explains concepts, clarifies confusion, breaks work into manageable steps, and coaches you as you work                                 |
-| Thinking partner | Develop your ideas        | Restates your thinking, asks questions, lays out options, and adds points to consider                                                  |
-| Critic           | Test your thinking        | Examines your thinking from perspectives other than your own, exposing flaws in logic and evidence and gaps in what you’ve considered  |
 
 Most BCG consultants used a mix of accelerator and amplifier roles, letting AI do much of the analysis but questioning it along the way, which many tasks call for.
 
@@ -87,6 +78,8 @@ Others’ expectations and users’ own goals can conflict. A manager’s deadli
 When the risk of hidden mistakes is low, users can safely rely on accelerators. When it is high, careful users change their approach. They do more of the thinking themselves, using amplifiers for the judgment-heavy parts of the work. When they do use an accelerator, they give it smaller pieces of work that are easier to check. And whatever role AI plays, checking its output against independent sources becomes essential. For brainstorming, that source can be users’ own list of ideas, generated before they see AI’s. For an agent, users approve each action before it takes place.
 
 Most tasks call for more than one role, and the three questions shape how users combine them. Consider two memos written by Ruth, a marketing analyst at a regional coffee chain.
+
+![Figure 2. AI roles for Ruth’s memos](../img/ai-roles-memo.svg#small)
 
 In the first, she has one day to recommend which perk to cut from the chain’s loyalty program. She designed the program and knows which perks are popular. She asks AI to brainstorm options, decides on a recommendation, and outlines her key points. AI drafts the memo from her outline. She checks the draft against sources, edits it, and asks AI how readers might object.
 
@@ -128,6 +121,8 @@ Careful users test their understanding instead of taking it for granted. They tr
 
 Consider Gabriela, a purchasing manager, who shows this humility. She asks AI to summarize a supplier contract. The summary reads well, and she feels she understands it. But when she sets it aside and asks herself a basic question⁠—who pays if a shipment arrives damaged⁠—she can’t answer it, and realizes her legal knowledge is thinner than she thought. She checks the clause against the contract’s text and asks a colleague in legal to review it.
 
+> Auditing requires checking AI’s output against an independent source.
+
 Knowing AI’s weaknesses also tells users when to audit most closely.
 
 - **Specific details.** Models are trained in ways that [reward guessing](https://arxiv.org/abs/2509.04664) over admitting uncertainty, so hallucinations concentrate in names, figures, dates, and citations. They are most common on knowledge that [appears rarely in training data](https://proceedings.mlr.press/v202/kandpal23a), such as a niche industry or a specific regulation. Careful users check these details against original sources.
@@ -159,6 +154,8 @@ Once the work is done, users have to stand behind it. Accountability does not tr
 Accepting accountability means taking responsibility for the work and its consequences, whoever or whatever produced it. [Intellectual integrity](./critical-thinking-dispositions#integrity) is the disposition that supports it. Taking responsibility requires understanding the work, so responsible users make sure they can explain and defend it without AI. Defending it means walking through the evidence and reasoning behind any claim that’s questioned. They prepare by imagining a skeptical reviewer or by asking AI to play one.
 
 Accepting accountability also means being honest about AI’s part. Principled users avoid the [two lapses of integrity](./critical-thinking-dispositions#integrity) described in the previous article. They don’t overclaim by presenting AI’s work as their own thinking. And they don’t underclaim by disowning AI’s work when it goes wrong. Instead, they accept criticism without deflecting it, disclose AI’s role where it’s expected, and stand behind what they submit.
+
+> Accountability does not transfer to AI.
 
 With agents, it is harder to tell who is accountable, because users grant them autonomy. An agent can act without anyone reviewing each step, so its mistakes may have no obvious owner. Suppose an AI agent with a flawless record books a flight for the wrong date. Whose mistake is it?
 
